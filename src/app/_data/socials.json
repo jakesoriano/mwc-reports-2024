@@ -1,0 +1,22 @@
+[
+  {
+    "name": "facebook",
+    "url": "https://www.facebook.com/manilawater/",
+    "icon": "facebook-round"
+  },
+  {
+    "name": "x",
+    "url": "https://x.com/ManilaWaterPH",
+    "icon": "x-round"
+  },
+  {
+    "name": "instagram",
+    "url": "https://www.instagram.com/manilawaterph/",
+    "icon": "instagram-round"
+  },
+  {
+    "name": "tiktok",
+    "url": "https://www.tiktok.com/@manila.water",
+    "icon": "tiktok-round"
+  }
+]
