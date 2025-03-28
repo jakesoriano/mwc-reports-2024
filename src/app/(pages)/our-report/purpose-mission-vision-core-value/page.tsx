@@ -61,7 +61,7 @@ function PurposeMissionVisionCoreValue() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='https://wallpapers.com/images/hd/j-cole-long-hair-vwbbh0h1f21fi2uc.jpg'
+      heroBGImage='/images/our-report/mission-vision-banner.jpg'
       navItems={navItems}
     >
       <section>
@@ -77,14 +77,14 @@ function PurposeMissionVisionCoreValue() {
             </div>
           ))}
         </div>
-        <Image
+        {/* <Image
           src='/images/our-report/mission-vision.jpg'
           alt='mission-vision'
           width='0'
           height='0'
           sizes='100vw'
           className='w-full h-auto'
-        />
+        /> */}
       </section>
       <section className='pt-12'>
         <h3 className='text-2xl font-medium'>Core Values</h3>

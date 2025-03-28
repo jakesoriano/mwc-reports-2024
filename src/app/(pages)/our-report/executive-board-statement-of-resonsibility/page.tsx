@@ -8,29 +8,25 @@ function ExecutiveBoardStatementOfResonsibility() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='https://wallpapers.com/images/hd/j-cole-long-hair-vwbbh0h1f21fi2uc.jpg'
+      heroBGImage='/images/our-report/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>
         <h1>Statement of Responsibility from the Board of Directors</h1>
         <p className='mb-4'>
-          The Board ensures the integrity of the Manila Water 2023 Integrated
-          Report by exercising oversight over its production, review, and
-          validation processes.
+        The Board of Directors ensures the integrity of Manila Water’s 2024 Integrated Report, which
+reflects the Company’s performance from January 1 to December 31, 2024. This responsibility is
+carried out through the Board’s high-level supervision of the teams responsible for the production,
+review, and validation of the report, ensuring adherence to internationally recognized frameworks
+for Integrated Reporting.
         </p>
         <p className='mb-4'>
-          The Board confirms that management has reviewed the disclosures and
-          has undergone an external assurance audit for completeness, accuracy,
-          and transparency. Manila Water engaged external assurance party, SyCip
-          Gorres Velayo & Company (SGV & Co.), to validate the financial,
-          environmental, social, and governance disclosures and to affirm that
-          the data and narrative paint an objective and accurate picture of the
-          company’s business practices.
-        </p>
-        <p className='mb-4'>
-          Furthermore, the Board attests that the report is presented in
-          reference to the IR Framewok, GRI and SASB Standards, as well as the
-          TCFD Recommendations.
+        The Board confirms that management has thoroughly reviewed the disclosures and subjected
+them to an external assurance audit to ensure completeness, accuracy, and transparency. Manila
+Water engaged BSI Group Philippines, Inc. (BSI), an external assurance provider, to validate the
+report's key economic, environmental, social, and governance disclosures. This assurance process
+affirms that the data and narratives presented in the report objectively and accurately represent
+the Company’s business practices.
         </p>
         <div className='flex flex-col md:flex-row justify-center gap-4 mt-10 text-center'>
           <div className='flex-1'>
@@ -44,7 +40,7 @@ function ExecutiveBoardStatementOfResonsibility() {
                 className='w-full h-auto'
               />
             </div>
-            <p className='uppercase'>Enrique K. Razon, Jr.</p>
+            <p className='uppercase font-bold'>Enrique K. Razon, Jr.</p>
             <p>Chairman</p>
           </div>
           <div className='flex-1'>
@@ -58,7 +54,7 @@ function ExecutiveBoardStatementOfResonsibility() {
                 className='w-full h-auto'
               />
             </div>
-            <p className='uppercase'>Jose Victor Emmanuel A. DE DIOS</p>
+            <p className='uppercase font-bold'>Jose Victor Emmanuel A. DE DIOS</p>
             <p>President and CEO, and ESG Committee Chairperson</p>
           </div>
         </div>
