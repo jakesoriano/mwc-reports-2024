@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #212529;
+  --primary: #1eb691;
+  --secondary: #004f72;
+  --blue: #0088d0;
 }
 
 @theme inline {
@@ -11,8 +14,9 @@
 }
 
 @theme {
-  --color-primary: #1eb691;
-  --color-secondary: #004f72;
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-blue: var(--blue);
   --color-black: var(--foreground);
 }
 
@@ -33,6 +37,23 @@ body {
   @apply text-4xl font-bold text-secondary mb-12;
 }
 
+@utility styled-list {
+  @apply list-disc list-outside mb-4 pl-10;
+}
+
+@utility link {
+  @apply font-bold text-blue hover:underline hover:text-secondary;
+}
+
+ul.styled-list {
+  @apply styled-list;
+}
+ul.styled-list-primary li::marker {
+  @apply text-primary
+}
+ul.styled-list-secondary li::marker {
+  @apply text-secondary
+}
 
 /* animations */
 @keyframes bounce {

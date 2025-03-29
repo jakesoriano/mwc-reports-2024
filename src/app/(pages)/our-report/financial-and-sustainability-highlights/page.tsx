@@ -1,8 +1,7 @@
 import Image from 'next/image';
 import AppLayout from '@/app/_components/AppLayout';
-import LeftRightPaginate from '@/app/_components/ContentCarousel';
-import { navItems } from '@/app/_constants/navItems';
 import ContentCarousel from '@/app/_components/ContentCarousel';
+import { navItems } from '@/app/_constants/ourReport';
 
 function FinancialSustainability() {
   const contents = [

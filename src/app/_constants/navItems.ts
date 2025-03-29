@@ -29,19 +29,35 @@ export const navItems: NavItem[] = [
         name: 'Financial and Sustainability Highlights',
         url: '/our-report/financial-and-sustainability-highlights',
       },
+      {
+        name: 'Geographic Presence',
+        url: '/our-report/geographic-presence',
+      },
     ],
   },
   {
     name: 'Creating Shared Value',
     url: '#',
+    children: [
+      {
+        name: 'Value Creation Framework',
+        url: '/creating-shared-values/value-creation-framework',
+      },
+      {
+        name: 'Outlook and Strategy',
+        url: '/creating-shared-values/outlook-and-strategy',
+      },
+    ],
   },
   {
     name: 'Our Business Review',
     url: '#',
-  },
-  {
-    name: 'Our Corporate Governance',
-    url: '#',
+    children: [
+      {
+        name: 'Our Corporate Governance',
+        url: '#',
+      },
+    ],
   },
   {
     name: 'Annexes',
