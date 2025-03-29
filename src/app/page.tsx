@@ -1,17 +1,15 @@
-import Image from 'next/image';
-
 export default function Home() {
   return (
-    <main>
-      <div className='container mx-auto py-[100px]'>
-        <div className='max-w-1/2'>
-          <h1 className='text-white text-5xl font-bold my-12'>
-            Safeguarding our Water Future
+    <main className='h-full'>
+      <div className='container mx-auto mt-auto py-[100px]'>
+        <div className='w-full'>
+          <h1 className='text-white text-6xl font-bold my-12'>
+            Raising The Bar Even Higher
           </h1>
-          <p className='text-white text-3xl'>
+          {/* <p className='text-white text-3xl'>
             Reinforcing Our Commitment to Sustainable Water and Environmental
             Services
-          </p>
+          </p> */}
         </div>
       </div>
     </main>
