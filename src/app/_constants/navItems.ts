@@ -51,6 +51,10 @@ export const navItems: NavItem[] = [
         name: 'Risk Management',
         url: '/creating-shared-values/risk-management',
       },
+      {
+        name: 'Our Sustainability Approach',
+        url: '/creating-shared-values/our-sustainability-approach',
+      },
     ],
   },
   {

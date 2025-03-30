@@ -49,7 +49,10 @@ function ImageTextCard({
           className={`mb-2 ${titleClass ?? ''}`}
           dangerouslySetInnerHTML={{ __html: title || '' }}
         />
-        <p className={`${textClass ?? ''}`}>{text}</p>
+        <div
+          className={`${textClass ?? ''}`}
+          dangerouslySetInnerHTML={{ __html: text || '' }}
+        />
       </div>
     </div>
   );
