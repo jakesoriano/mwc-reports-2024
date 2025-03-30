@@ -47,6 +47,10 @@ export const navItems: NavItem[] = [
         name: 'Outlook and Strategy',
         url: '/creating-shared-values/outlook-and-strategy',
       },
+      {
+        name: 'Risk Management',
+        url: '/creating-shared-values/risk-management',
+      },
     ],
   },
   {

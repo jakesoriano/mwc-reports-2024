@@ -7,6 +7,10 @@ export const navItems = [
     name: 'Outlook and Strategy',
     url: '/creating-shared-values/outlook-and-strategy',
   },
+  {
+    name: 'Risk Management',
+    url: '/creating-shared-values/risk-management',
+  },
 ];
 
 export const capitals = [
@@ -276,5 +280,72 @@ export const outcome = [
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
+  },
+];
+
+export const columns = [
+  { key: 'topRisks', label: '2024 TOP RISKS' },
+  { key: 'strategies', label: 'MITIGATION STRATEGIES AND UPDATES' },
+];
+
+export const riskData = [
+  {
+    topRisks:
+      '<p class="mb-1 font-bold">Water Supply</p><p class="mb-4">Failure to maintain or prepare sufficient sources of raw water to meet the production plan and customer demand at any time for the duration of concession or PPP agreement.</p>Inability to manage commercial and physical water losses and maintain non-revenue water (NRW) at acceptable level.',
+    strategies:
+      '<p class="mb-4">We continue to implement the approved 5-Year Rate Rebasing Service Improvement Plan to meet the Service Obligation committed therein. Rehabilitation of existing facilities, implementation of operational adjustments and including the new general effluent standards in future sewage treatment facility designs were conducted during the year.</p><p class="mb-4">Tariff adjustments were implemented by Manila Water and certain subsidiaries in 2023 as approved by respective regulators.</p>',
+  },
+  {
+    topRisks:
+      '<p class="mb-1 font-bold">Water Supply</p><p class="mb-4">Failure to maintain or prepare sufficient sources of raw water to meet the production plan and customer demand at any time for the duration of concession or PPP agreement.</p>Inability to manage commercial and physical water losses and maintain non-revenue water (NRW) at acceptable level.',
+    strategies:
+      '<p class="mb-4">To ensure adequate raw water supply, we continue to implement short and medium-term water source development projects such as Wawa-Calawis and Laguna Lake East Bay sources.</p>We continue to repair and replace damaged network and implement pressure management initiatives to reduce NRW.',
+  },
+  {
+    topRisks:
+      '<p class="mb-1 font-bold">Commercial Operations</p><p class="mb-4">Failure to meet growth in both demand and revenue.</p>Inability to manage unfavorable fluctuations in prices of commodities (raw materials, fuels, chemicals, energy).',
+    strategies:
+      '<p class="mb-4">We established billed volume recovery initiatives from a cross functional group assessment together with other programs such as meter replacement, promotions aimed at new connections and reconnections. Key account development plans were also prepared and implemented.</p>We established framework agreements and negotiated contract terms with major industry providers and explored alternative materials and vendors.',
+  },
+  {
+    topRisks:
+      '<p class="mb-1 font-bold">Financial Risk</p><p class="mb-4">Failure to source and provide timely and cost-efficient funding to cover operating requirements, capital expenditure commitments, capital requirements of new businesses, and funding of debt obligations in both Philippine Peso and Foreign Currency.</p>',
+    strategies:
+      '<p class="mb-4">We continued to establish new and increase existing credit lines with banks for both EZ and NEZ to fund capital expenditures and operating requirements.</p>We established framework agreements and negotiated contract terms with major industry providers and explored alternative materials and vendors.',
+  },
+  {
+    topRisks:
+      '<p class="mb-1 font-bold">Cybersecurity</p><p class="mb-4">Failure to protect critical company data, information and systems from internal and external threats.</p>',
+    strategies:
+      '<p class="mb-4">We continued to improve its security and resiliency based on a zero-trust principle to protect our Information Technology (IT) and Operational Technology (OT) environment from cyberattacks. Our security awareness culture improved through mandatory training courses and regular campaigns. Processes and capability were also improved in relation to patch and asset management.</p>',
+  },
+];
+
+export const meetingColumns = [
+  { key: 'director', label: 'Directors No. of Meetings' },
+  { key: 'attendedNo', label: 'Attended/Held' },
+  { key: 'percent', label: 'Percent Present' },
+];
+
+export const meetingData = [
+  {
+    director: 'Cesar A. Buenaventura',
+    attendedNo: '<p class="text-center">4/4</p>',
+    percent: '<p class="text-center">100%</p>',
+  },
+  {
+    director: 'Sherisa P. Nuesa',
+    attendedNo: '<p class="text-center">4/4',
+    percent: '<p class="text-center">100%</p>',
+  },
+  {
+    director: 'Eric O. Recto',
+    attendedNo: '<p class="text-center">4/4',
+    percent: '<p class="text-center">100%</p>',
+  },
+  {
+    director: 'Donato C. Almeda',
+    attendedNo: '<p class="text-center">4/4',
+    percent: '<p class="text-center">100%</p>',
   },
 ];

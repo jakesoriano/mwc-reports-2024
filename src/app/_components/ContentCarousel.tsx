@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Icon from './Icon';
 
 type Props = {
@@ -18,6 +18,10 @@ function ContentCarousel({ contents }: Props) {
       (prevIndex) => (prevIndex - 1 + contents.length) % contents.length
     );
   };
+
+  useEffect(() => {
+    setCurrentIndex(0);
+  }, [contents]);
 
   return (
     <div className='relative'>

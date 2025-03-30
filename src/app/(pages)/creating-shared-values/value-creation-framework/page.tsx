@@ -1,4 +1,7 @@
+'use client';
+
 import { navItems } from '@/app/_constants/sharedValues';
+import { useResponsiveDevice } from '@/app/_hooks/useResponsiveDevice';
 import Image from 'next/image';
 import AppLayout from '@/app/_components/AppLayout';
 import ContentCarousel from '@/app/_components/ContentCarousel';
@@ -32,6 +35,17 @@ function ValueCreationFramework() {
       </div>
     </div>,
   ];
+
+  const contentsMobile = [
+    <CapitalsContent />,
+    <InputsContent />,
+    <KeyDriversContent />,
+    <OutputImpactContent />,
+    <OutcomeContent />,
+  ];
+
+  const device = useResponsiveDevice();
+
   return (
     <AppLayout
       heroTitle='Creating Shared Values'
@@ -40,7 +54,9 @@ function ValueCreationFramework() {
     >
       <section>
         <h1>Value Creation Framework</h1>
-        <ContentCarousel contents={contents} />
+        <ContentCarousel
+          contents={device === 'mobile' ? contentsMobile : contents}
+        />
       </section>
       <section className='pt-4'>
         <Image
