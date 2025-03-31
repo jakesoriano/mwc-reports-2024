@@ -23,5 +23,4 @@ export function useResizeListener(callback: () => void, delay: number = 200) {
       }
     };
   }, [callback, delay]);
-
-=======
+}
