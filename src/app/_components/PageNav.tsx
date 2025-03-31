@@ -28,7 +28,7 @@ function PageNav({ navItems }: Props) {
           >
             <Link
               href={item.url}
-              className='text-primary font-bold uppercase block p-4'
+              className='text-secondary font-bold block p-4 text-sm'
             >
               {item.name}
             </Link>

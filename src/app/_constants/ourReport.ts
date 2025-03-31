@@ -23,6 +23,10 @@ export const navItems = [
     name: 'Geographic Presence',
     url: '/our-report/geographic-presence',
   },
+  {
+    name: 'Board of Directors',
+    url: '/our-report/board-of-directors',
+  },
 ];
 
 export const introItems = [

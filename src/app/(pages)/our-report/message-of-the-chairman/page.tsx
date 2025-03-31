@@ -7,59 +7,83 @@ function MessageOfTheChairman() {
   return (
     <AppLayout
       heroTitle='Our Report'
-      navItems={navItems}
       titleColor='text-white'
-      containerBG='/images/our-report/chairman-banner.jpg'
+      heroBGColor='black'
+      heroBGImage='/images/our-report-banner.jpg'
+      navItems={navItems}
+      containerBG='/images/our-report/message-of-the-chairman/chairman-content-area-bg.jpg'
       containerBGPosition='bg-bottom'
       paddingClass='md:pt-12 md:pb-14 md:px-6'
     >
       <section className='bg-secondary p-6 md:p-12'>
-        <QuoteBanner text='I thank our Board and leadership for their resolve to uphold our Company’s ideals and execute our strategy towards recovery. I thank the rest of our team at Manila Water who have carried us through to this next exciting chapter in our Company’s history.' />
+        <QuoteBanner text='I would like to thank our Board and leadership for their unwavering commitment to the disciplined execution of our strategy. I thank the Manila Water team for their hard work and dedication to the path we have charted towards growth. Lastly, I thank our shareholders who place their trust in our efforts to bring long-term value and contribute to a more sustainable future.' />
       </section>
       <section className='bg-white p-6 md:p-12'>
         <div className='flex flex-col md:flex-row gap-x-12 pb-6'>
           <div className='flex-1'>
             <h3 className='font-bold mb-4'>
-              Fellow stockholders, ladies, and gentlemen.
+            Fellow stockholders, ladies, and gentlemen,
             </h3>
             <p className='mb-4'>
-              On behalf of the Board of Directors and Management team of Manila
-              Water, I would like to warmly welcome you to our Annual
-              Stockholders Meeting.
+            I am pleased to report that your Company delivered record
+level results in 2024. This was made possible by the strong
+fundamentals we have established for the business in recent
+years, and further strengthened by our continued focus
+on growth, efficient operations and disciplined financial
+management.
             </p>
             <p className='mb-4'>
-              I am glad to report that our ongoing efforts to rebuild and
-              strengthen our business gained ground in 2023, wherein we saw
-              marked progress on several important fronts.
+            Manila Water increased its revenues by 19% in 2024 to reach
+Php36.6 billion. This growth was supported by the steady
+recovery of consumption in our different service areas, and
+the implemented tariff adjustments in both our East Zone and
+Non-East Zone PH businesses. Coupled with continuing efforts
+to streamline costs and realize operating efficiencies across
+our different business units, consolidated EBITDA increased by
+26% to Php25.9 billion and consequently strengthened EBITDA
+margin by 4 percentage points to 71%.
             </p>
             <p className='mb-4'>
-              First and foremost were the challenges brought about by climate
-              change, where we made extensive work towards ensuring water
-              security for our customers.
-            </p>
-            <p className='mb-4'>
-              Second, we further cemented regulatory stability in our area of
-              operation through close collaboration and engagement with
-              government.
-            </p>
-            <p className='mb-4'>
-              Third, our objective to promote a culture of discipline, cost
-              efficiency and continuous improvement is now yielding positive
-              results.
+            Consistent with our commitment to disciplined portfolio
+management, we executed strategic divestments, as well as
+recognized adjustments on several of our investments to reflect
+current market conditions and operating outlook. Specifically,
+we divested our Bulacan business units and generated a gain
+of Php894 million. On the other hand, we recognized full
+impairment on our investment in East Water in Thailand,
+as well as partial impairment of our Saigon Water investment
+in Vietnam.
             </p>
           </div>
           <div className='flex-1'>
             <p className='mb-4'>
-              I thank our Board and leadership for their resolve to uphold our
-              Company’s ideals and execute our strategy towards recovery. I
-              thank the rest of our team at Manila Water who have carried us
-              through to this next exciting chapter in our Company’s history.
+            Excluding one-offs, core income grew by 48% to Php14.2
+billion. In all, Manila Water posted consolidated net income of
+Php10.5 billion for 2024 – the highest in our Company’s
+27-year history.
+            </p>
+            <p className='mb-4'>
+            As we are encouraged by these milestone successes, we
+continue to work towards further building up our critical
+infrastructure to ensure reliable service to our customers.
+Notably, for our East Zone Concession, the process proving of
+the Phase 1 of the East Bay Project was completed in October
+2024. This project will provide 50 million liters per day (MLD)
+of treated water, while the larger Phase 2, which is now at 66%
+completion, is designed to supply an additional 200 MLD. These
+new water source projects are a significant component of our
+Service Improvement Plan, which was approved by MWSS
+under its own Water Security Master Plan, to provide sufficient
+water supply for Metro Manila in the coming years.
             </p>
             <p className='mb-5'>
-              Lastly, I thank our shareholders who continue to believe in our
-              commitment to provide reliable and efficient service in the
-              communities we serve. You sustain our drive and efforts to
-              safeguard our Water Future.
+            I would like to thank our Board and leadership for their
+unwavering commitment to the disciplined execution of our
+strategy. I thank the Manila Water team for their hard work and
+dedication to the path we have charted towards growth.
+Lastly, I thank our shareholders who place their trust in our
+efforts to bring long-term value and contribute to a more
+sustainable future.
             </p>
             <div className='w-fit'>
               <div className='max-w-[140px] mx-auto'>

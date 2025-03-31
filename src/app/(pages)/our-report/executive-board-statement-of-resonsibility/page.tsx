@@ -8,7 +8,7 @@ function ExecutiveBoardStatementOfResonsibility() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report/our-report-banner.jpg'
+      heroBGImage='/images/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>

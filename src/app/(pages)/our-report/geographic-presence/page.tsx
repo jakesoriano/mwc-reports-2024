@@ -1,8 +1,8 @@
-import Image from 'next/image';
 import AppLayout from '@/app/_components/AppLayout';
+import Image from 'next/image';
 import { navItems } from '@/app/_constants/ourReport';
-import PhilippineOperations from './sections/PhilippineOperations';
 import InternationalOperations from './sections/InternationalOperations';
+import PHOperations from './sections/PHOperations';
 
 function GeographicPresence() {
   return (
@@ -10,12 +10,14 @@ function GeographicPresence() {
       heroTitle='Our Report'
       navItems={navItems}
       titleColor='text-white'
+      heroBGColor='black'
+      heroBGImage='/images/our-report-banner.jpg'
     >
       <section>
         <h1>Geographic Presence</h1>
         <div className='w-full lg:w-[70%] mx-auto mt-12'>
           <Image
-            src='/images/our-report/geographic-presence/geomap.svg'
+            src='/images/our-report/geographic-presence/ph-map.svg'
             alt='geographic presence'
             width={0}
             height={0}
@@ -24,7 +26,7 @@ function GeographicPresence() {
           />
         </div>
       </section>
-      <PhilippineOperations />
+      <PHOperations />
       <InternationalOperations />
       <div className='mt-6'>
         <p className='italic text-xs'>

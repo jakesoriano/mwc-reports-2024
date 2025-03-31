@@ -33,6 +33,10 @@ export const navItems: NavItem[] = [
         name: 'Geographic Presence',
         url: '/our-report/geographic-presence',
       },
+      {
+        name: 'Board of Directors',
+        url: '/our-report/board-of-directors',
+      },
     ],
   },
   {

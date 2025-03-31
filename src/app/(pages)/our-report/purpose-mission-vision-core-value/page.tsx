@@ -1,4 +1,5 @@
 import AppLayout from '@/app/_components/AppLayout';
+import Image from 'next/image';
 import ImageTextCard from '@/app/_components/ImageTextCard';
 import { navItems, introItems, coreValues } from '@/app/_constants/ourReport';
 
@@ -8,7 +9,7 @@ function PurposeMissionVisionCoreValue() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report/mission-vision-banner.jpg'
+      heroBGImage='/images/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>
@@ -24,14 +25,14 @@ function PurposeMissionVisionCoreValue() {
             </div>
           ))}
         </div>
-        {/* <Image
-          src='/images/our-report/mission-vision.jpg'
+        <Image
+          src='/images/our-report/purpose-mission-vision-values/mission-vision-img-1.jpg'
           alt='mission-vision'
           width='0'
           height='0'
           sizes='100vw'
           className='w-full h-auto'
-        /> */}
+        />
       </section>
       <section className='pt-12'>
         <h3 className='text-2xl font-medium'>Core Values</h3>

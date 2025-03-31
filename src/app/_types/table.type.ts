@@ -11,4 +11,5 @@ export type DataTableProps = {
   columns: Column[];
   data: DataRow[];
   headClass?: string;
+
 };
