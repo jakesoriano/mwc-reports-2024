@@ -4,10 +4,11 @@ type Props = {
   imageUrl?: string;
   imageWidth?: number;
   imageHeight?: number;
-  title: string;
+  title?: string;
   titleClass?: string;
-  text: string;
+  text?: string;
   textClass?: string;
+  alignment?: 'vertical' | 'horizontal';
 };
 
 function ImageTextCard({
@@ -18,9 +19,14 @@ function ImageTextCard({
   titleClass,
   text,
   textClass,
+  alignment = 'vertical',
 }: Props) {
   return (
-    <div>
+    <div
+      className={`flex ${
+        alignment === 'vertical' ? 'flex-col' : 'flex-row items-center gap-x-6'
+      }`}
+    >
       {imageUrl && (
         <div className='py-6'>
           <div
@@ -31,18 +37,23 @@ function ImageTextCard({
               width={0}
               height={0}
               src={imageUrl}
-              alt={title}
+              alt={title || ''}
               sizes='100vw'
               className='h-full w-full'
             />
           </div>
         </div>
       )}
-      <h3
-        className={`mb-2 ${titleClass ?? ''}`}
-        dangerouslySetInnerHTML={{ __html: title }}
-      />
-      <p className={`${textClass ?? ''}`}>{text}</p>
+      <div className='flex-1'>
+        <h3
+          className={`mb-2 ${titleClass ?? ''}`}
+          dangerouslySetInnerHTML={{ __html: title || '' }}
+        />
+        <div
+          className={`${textClass ?? ''}`}
+          dangerouslySetInnerHTML={{ __html: text || '' }}
+        />
+      </div>
     </div>
   );
 }

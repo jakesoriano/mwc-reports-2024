@@ -24,4 +24,5 @@ export const useResponsiveDevice = () => {
   }, [device]);
 
   return device;
+
 };

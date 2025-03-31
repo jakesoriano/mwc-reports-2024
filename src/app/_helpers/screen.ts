@@ -11,4 +11,5 @@ export default function getDevice() {
   const isDesktop = Boolean(!isMobile && !isTablet);
 
   return isDesktop ? 'desktop' : isTablet ? 'tablet' : 'mobile';
+
 }
