@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Icon from './Icon';
 
 type Props = {
@@ -19,12 +19,16 @@ function ContentCarousel({ contents }: Props) {
     );
   };
 
+  useEffect(() => {
+    setCurrentIndex(0);
+  }, [contents]);
+
   return (
     <div className='relative'>
       <div>{contents[currentIndex]}</div>
       {contents.length > 1 && currentIndex > 0 && (
         <button
-          className='absolute top-1/2 left-8 transform -translate-y-1/2 -rotate-90 animate-bounce cursor-pointer'
+          className='absolute top-1/2 left-5 transform -translate-y-1/2 -rotate-90 animate-bounce cursor-pointer'
           onClick={handlePrev}
         >
           <Icon
@@ -35,7 +39,7 @@ function ContentCarousel({ contents }: Props) {
       )}
       {contents.length > 1 && currentIndex < contents.length - 1 && (
         <button
-          className='absolute top-1/2 right-8 transform -translate-y-1/2 rotate-90 animate-bounce cursor-pointer'
+          className='absolute top-1/2 right-5 transform -translate-y-1/2 rotate-90 animate-bounce cursor-pointer'
           onClick={handleNext}
         >
           <Icon
