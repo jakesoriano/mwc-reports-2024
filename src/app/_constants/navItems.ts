@@ -63,6 +63,10 @@ export const navItems: NavItem[] = [
             name: 'Stakeholder Engagement',
             url: '/creating-shared-values/our-sustainability-approach/stakeholder-engagement',
           },
+          {
+            name: 'Determining What Matters',
+            url: '/creating-shared-values/our-sustainability-approach/determining-what-matters',
+          },
         ],
       },
     ],
