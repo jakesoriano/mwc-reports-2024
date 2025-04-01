@@ -67,6 +67,10 @@ export const navItems: NavItem[] = [
             name: 'Determining What Matters',
             url: '/creating-shared-values/our-sustainability-approach/determining-what-matters',
           },
+          {
+            name: 'Helping Communities Thrive',
+            url: '/creating-shared-values/our-sustainability-approach/helping-communities-thrive',
+          },
         ],
       },
     ],

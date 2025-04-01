@@ -73,7 +73,7 @@ ol.styled-list {
 }
 
 /* tables */
-table {
+table.table {
   width:100%;
 
   tr {
