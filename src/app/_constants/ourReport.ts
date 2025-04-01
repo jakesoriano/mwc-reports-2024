@@ -77,3 +77,54 @@ export const coreValues = [
     text: 'We apply new approaches, explore new methods and ideas, in order to create innovative solutions and deliver lasting impact for the communities in which we operate.',
   },
 ];
+
+export const boardOfDirectorsCol = [
+  { key: 'name', label: 'Name' },
+  { key: 'position', label: 'Position/Board Commitee Membership' },
+];
+
+export const boardOfDirectorsData = [
+  {
+    name: 'Enrique K. Razon Jr.',
+    position:
+      'Chairperson of the Board<br/>Chairperson of the Executive Committee',
+  },
+  {
+    name: 'Jose Victor Emmanuel A. de Dios',
+    position:
+      'President and Chief Executive Officer<br/>Chairman of the Environment, Social, and Governance Committee<br/>Member of the Executive Committee<br/>Member of the Talent and Remuneration Committee',
+  },
+  {
+    name: 'Donato C. Almeda',
+    position:
+      'Chief Regulatory Officer<br/>Member of the Executive Committee<br/>Member of the Board Risk Oversight Committee<br/>Member of the Nomination Committee',
+  },
+  {
+    name: 'Katrina Maria S. Razon',
+    position: 'Member of the Board of Directors',
+  },
+  {
+    name: 'Sandy A. Alipio, CPA, CIA',
+    position: 'Member of the Board of Directors',
+  },
+  {
+    name: 'Sherisa P. Nuesa',
+    position:
+      'Lead Independent Director<br/>Chairperson of the Audit Committee<br/>Member of the Board Risk Oversight Committee<br/>Member of the Corporate Governance Committee<br/>Member of the Nomination Committee<br/>Member of the Environment, Social, and Governance Committee',
+  },
+  {
+    name: 'Cesar A. Buenaventura, O.B.E.',
+    position:
+      'Chairman of the Board Risk Oversight Committee<br/>Member of the Audit Committee<br/>Member of the Corporate Governance Committee<br/>Member of the Related Party Transactions Committee<br/>Member of the Nomination Committee<br/>Member of the Environment, Social, and Governance Committee',
+  },
+  {
+    name: 'Octavio Victor R. Espiritu',
+    position:
+      'Chairman of the Corporate Governance Committee<br/>Chairman of the Talent and Remuneration Committee<br/>Chairman of the Nomination Committee<br/>Member of the Audit Committee<br/>Member of the Related Party Transactions Committee<br/>Member of the Environment, Social, and Governance Committee',
+  },
+  {
+    name: 'Eric Ramon T. Recto',
+    position:
+      'Chairman of the Related Party Transactions Committee<br/>Member of the Board Risk Oversight Committee<br/>Member of the Corporate Governance Committee<br/>Member of the Talent and Remuneration Committee<br/>Member of the Environment, Social, and Governance Committee',
+  },
+];

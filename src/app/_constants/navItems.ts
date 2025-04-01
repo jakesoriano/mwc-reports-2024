@@ -58,6 +58,12 @@ export const navItems: NavItem[] = [
       {
         name: 'Our Sustainability Approach',
         url: '/creating-shared-values/our-sustainability-approach',
+        children: [
+          {
+            name: 'Stakeholder Engagement',
+            url: '/creating-shared-values/our-sustainability-approach/stakeholder-engagement',
+          },
+        ],
       },
     ],
   },

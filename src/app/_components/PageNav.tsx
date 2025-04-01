@@ -8,35 +8,71 @@ type Props = {
 };
 
 function PageNav({ navItems }: Props) {
-  const [activeLink, setActiveLink] = useState<String>('');
+  const [activeLink, setActiveLink] = useState<string>('');
+  const [activeParent, setActiveParent] = useState<NavItem | null>(null);
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      setActiveLink(window.location.pathname);
+      const currentPath = window.location.pathname;
+      setActiveLink(currentPath);
+
+      // Find the parent of the current active link or the active link itself
+      const parentItem = navItems.find(
+        (item) =>
+          item.url === currentPath ||
+          item.children?.some((child) => child.url === currentPath)
+      );
+      setActiveParent(parentItem || null);
     }
-  }, []);
+  }, [navItems]);
 
   return (
-    <nav className='bg-gray-200 py-4 overflow-x-auto'>
-      <ul className='flex'>
-        {navItems.map((item) => (
-          <li
-            key={item.name}
-            className={`flex-1 text-center group relative flex justify-center items-center ${
-              activeLink === item.url ? 'is-active' : ''
-            }`}
-          >
-            <Link
-              href={item.url}
-              className='text-secondary font-bold block p-4 text-sm'
+    <>
+      <nav className='bg-gray-200 py-4 overflow-x-auto'>
+        <ul className='flex'>
+          {navItems.map((item) => (
+            <li
+              key={item.name}
+              className={`flex-1 text-center group relative flex justify-center items-center ${
+                activeLink === item.url || activeParent?.url === item.url
+                  ? 'is-active'
+                  : ''
+              }`}
             >
-              {item.name}
-            </Link>
-            <span className='absolute left-1/2 bottom-0 w-0 h-[2px] bg-white group-hover:w-[calc(100%-1rem)] group-[.is-active]:w-[calc(100%-1rem)] transition-all duration-300 transform -translate-x-1/2'></span>
-          </li>
-        ))}
-      </ul>
-    </nav>
+              <Link
+                href={item.url}
+                className='text-primary font-bold uppercase block p-4'
+              >
+                {item.name}
+              </Link>
+              <span className='absolute left-1/2 bottom-0 w-0 h-[2px] bg-white group-hover:w-[calc(100%-1rem)] group-[.is-active]:w-[calc(100%-1rem)] transition-all duration-300 transform -translate-x-1/2'></span>
+            </li>
+          ))}
+        </ul>
+      </nav>
+      {activeParent && activeParent.children && (
+        <nav className='bg-white py-4 overflow-x-auto'>
+          <ul className='flex'>
+            {activeParent.children.map((item) => (
+              <li
+                key={item.name}
+                className={`text-center group relative flex justify-center items-center ${
+                  activeLink === item.url ? 'is-active' : ''
+                }`}
+              >
+                <Link
+                  href={item.url}
+                  className='text-secondary font-bold uppercase block p-4'
+                >
+                  {item.name}
+                </Link>
+                <span className='absolute left-1/2 bottom-0 w-0 h-[2px] bg-secondary group-hover:w-[calc(100%-1rem)] group-[.is-active]:w-[calc(100%-1rem)] transition-all duration-300 transform -translate-x-1/2'></span>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
+    </>
   );
 }
 

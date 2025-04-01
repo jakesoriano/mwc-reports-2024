@@ -3,6 +3,7 @@ import { DataTableProps } from '../_types/table.type';
 
 interface Props extends DataTableProps {
   hideBorders?: boolean;
+  equalColumnsWidth?: boolean;
 }
 
 const DataTable: React.FC<Props> = ({
@@ -10,18 +11,22 @@ const DataTable: React.FC<Props> = ({
   data,
   headClass,
   hideBorders = false,
+  equalColumnsWidth = false,
 }) => {
   return (
-    <table className='w-full border-collapse'>
+    <table
+      className={`w-full border-collapse ${
+        equalColumnsWidth ? 'table-fixed' : ''
+      }`}
+    >
       <thead>
         <tr className='bg-blue text-white'>
           {columns.map((col) => (
             <th
               key={col.key}
-              className={`px-3 py-2 text-center ${headClass || ''}`}
-            >
-              {col.label}
-            </th>
+              className={`px-4 py-2 text-center ${headClass || ''}`}
+              dangerouslySetInnerHTML={{ __html: col.label }}
+            />
           ))}
         </tr>
       </thead>

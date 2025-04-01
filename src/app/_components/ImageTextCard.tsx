@@ -4,6 +4,7 @@ type Props = {
   imageUrl?: string;
   imageWidth?: number;
   imageHeight?: number;
+  imageRounded?: boolean;
   title?: string;
   titleClass?: string;
   text?: string;
@@ -15,6 +16,7 @@ function ImageTextCard({
   imageUrl,
   imageWidth = 300,
   imageHeight = 300,
+  imageRounded = false,
   title,
   titleClass,
   text,
@@ -30,7 +32,9 @@ function ImageTextCard({
       {imageUrl && (
         <div className='py-6'>
           <div
-            className='mx-auto'
+            className={`mx-auto ${
+              imageRounded ? 'rounded-full overflow-hidden' : ''
+            }`}
             style={{ height: `${imageHeight}px`, width: `${imageWidth}px` }}
           >
             <Image

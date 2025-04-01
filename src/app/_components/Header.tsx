@@ -16,7 +16,11 @@ function Header() {
           <Link href={item.url} className='py-4 block'>
             {item.name}
           </Link>
-          {item.children && <RecursiveSubmenu items={item.children} />}
+          {item.children && (
+            <div className='pl-4'>
+              <RecursiveSubmenu items={item.children} />
+            </div>
+          )}
         </li>
       ))}
     </ul>
