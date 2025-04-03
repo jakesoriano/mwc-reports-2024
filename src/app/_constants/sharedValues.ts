@@ -309,33 +309,33 @@ export const columns = [
 export const riskData = [
   {
     topRisks:
-      '<p class="mb-1 font-bold">Water Supply</p><p class="mb-4">Failure to maintain or prepare sufficient sources of raw water to meet the production plan and customer demand at any time for the duration of concession or PPP agreement.</p>Inability to manage commercial and physical water losses and maintain non-revenue water (NRW) at acceptable level.',
+      '<p class="mb-1 font-bold">Water Supply</p><p class="mb-4">Climate change risks (e.g. El Niño) that could reduce water supply.</p>',
     strategies:
-      '<p class="mb-4">We continue to implement the approved 5-Year Rate Rebasing Service Improvement Plan to meet the Service Obligation committed therein. Rehabilitation of existing facilities, implementation of operational adjustments and including the new general effluent standards in future sewage treatment facility designs were conducted during the year.</p><p class="mb-4">Tariff adjustments were implemented by Manila Water and certain subsidiaries in 2023 as approved by respective regulators.</p>',
+      '<p class="mb-4">To ensure adequate water supply, Manila Water completed water source development projects such as Wawa-Calawis and Laguna Lake East Bay 1 treatment Plants. Ongoing projects include East Bay 2, Kaysakat, and Pasig treatment plants. Additional measures were also undertaken to help manage water supply risk, namely 1) repair and/or replacement of critical infrastructures, 2) stricter monitoring of flow to dam to ensure proper allocation at the portal, and 3) optimization of various water resources/projects. Extensive mitigation plans were set in February 2024 to prepare Manila Water’s operations for the possible impact of El Niño. These include Demand Management, Supply Augmentation and Improved System Readiness.</p>',
   },
   {
     topRisks:
-      '<p class="mb-1 font-bold">Water Supply</p><p class="mb-4">Failure to maintain or prepare sufficient sources of raw water to meet the production plan and customer demand at any time for the duration of concession or PPP agreement.</p>Inability to manage commercial and physical water losses and maintain non-revenue water (NRW) at acceptable level.',
+      '<p class="mb-1 font-bold">CAPEX Delivery</p><p class="mb-4">Inability to complete projects within timeline/Insufficient planning & project risk management potentially affecting tariffs</p>',
     strategies:
-      '<p class="mb-4">To ensure adequate raw water supply, we continue to implement short and medium-term water source development projects such as Wawa-Calawis and Laguna Lake East Bay sources.</p>We continue to repair and replace damaged network and implement pressure management initiatives to reduce NRW.',
+      '<p class="mb-4">To streamline project execution and mitigate risks more effectively, Manila Water developed and implemented its Project Management Plan and Project Risk policies and tools. CAPEX Rationalization and contract management trainings were also completed in 2024. Close coordination with support groups for approval, billings, and permits were done to fast-track projects.',
   },
   {
     topRisks:
-      '<p class="mb-1 font-bold">Commercial Operations</p><p class="mb-4">Failure to meet growth in both demand and revenue.</p>Inability to manage unfavorable fluctuations in prices of commodities (raw materials, fuels, chemicals, energy).',
+      '<p class="mb-1 font-bold">Cybersecurity</p><p class="mb-4">Risks of cyber-attacks and data breaches that can compromise operations</p>',
     strategies:
-      '<p class="mb-4">We established billed volume recovery initiatives from a cross functional group assessment together with other programs such as meter replacement, promotions aimed at new connections and reconnections. Key account development plans were also prepared and implemented.</p>We established framework agreements and negotiated contract terms with major industry providers and explored alternative materials and vendors.',
+      '<p class="mb-4">As digital transformation accelerates, Manila Water’s processes and capabilities to detect and respond to internal and external threats were improved through the implementation of the Operational Technology (OT) Cybersecurity plan. Key initiatives under this plan include IT/OT Network Segmentation, enhanced OT Security monitoring, and OT Asset Inventory/Security Baselining. For IT Security, we have implemented threat intelligence and ongoing implementation of data classification/data loss prevention.</p>',
   },
   {
     topRisks:
-      '<p class="mb-1 font-bold">Financial Risk</p><p class="mb-4">Failure to source and provide timely and cost-efficient funding to cover operating requirements, capital expenditure commitments, capital requirements of new businesses, and funding of debt obligations in both Philippine Peso and Foreign Currency.</p>',
+      '<p class="mb-1 font-bold">Billed Volume</p><p class="mb-4">Failure to meet Billed Volume (BV) targets/customer demands that can affect profitability</p>',
     strategies:
-      '<p class="mb-4">We continued to establish new and increase existing credit lines with banks for both EZ and NEZ to fund capital expenditures and operating requirements.</p>We established framework agreements and negotiated contract terms with major industry providers and explored alternative materials and vendors.',
+      '<p class="mb-4">To ensure the targets are met, strategies for East Zone include forecast projections incorporating consumption patterns and operational trends, meter replacement initiatives, efforts to expand new water service connections, sewer conversions, and targeted BV negotiations. For Non-East Zone, actions included conversion of accounts from competitor to business unit, promotional activities for new service connection and reconnection, and offerings such as specialized water treatment, water reuse, network services and water loss management.</p>',
   },
   {
     topRisks:
-      '<p class="mb-1 font-bold">Cybersecurity</p><p class="mb-4">Failure to protect critical company data, information and systems from internal and external threats.</p>',
+      '<p class="mb-1 font-bold">Operational Control in Associates</p><p class="mb-4">Lack of operational control in associates affecting financial performance</p>',
     strategies:
-      '<p class="mb-4">We continued to improve its security and resiliency based on a zero-trust principle to protect our Information Technology (IT) and Operational Technology (OT) environment from cyberattacks. Our security awareness culture improved through mandatory training courses and regular campaigns. Processes and capability were also improved in relation to patch and asset management.</p>',
+      '<p class="mb-4">Impairment of investment in associates was recognized based on current operating and market conditions and our outlook on those investments. Management continues to assess and rationalize our investments against set financial and performance standards.</p>',
   },
 ];
 

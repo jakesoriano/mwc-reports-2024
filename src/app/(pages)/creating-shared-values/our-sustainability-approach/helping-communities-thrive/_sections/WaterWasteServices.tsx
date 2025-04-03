@@ -127,8 +127,8 @@ function WaterWasteServices() {
         </div>
       </div>
       <div>
-        <h3 className='text-lg font-bold mb-4'>Water Access</h3>
-        <p className='text-xs'>GRI:2018 413-1 | SASB IF-WU-440a.3</p>
+        <h3 className='text-lg font-bold mb-4'>Wastewater services</h3>
+        <p className='text-xs'>GRI:2016 413-1, 416-1, 416-2 | SASB IF-WU-140b.1</p>
         <table className='bg-[#BFE7F2] w-full my-6'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -149,23 +149,17 @@ function WaterWasteServices() {
           <tbody>
             <tr className='border-b-2 border-blue'>
               <td align='left' className='py-1 px-4'>
-                Compliance with water quality standards
+              Sewer connections, count
               </td>
               <td align='left' className='py-1 px-4'>
-                99.9%
+              292,729
               </td>
               <td align='left' className='py-1 px-4'>
-                99.9%
+              303,724
               </td>
               <td align='left' className='py-1 px-4'>
-                99.6%
+              318,385
               </td>
-            </tr>
-            <tr className='border-b-2 border-blue'>
-              <td className='py-1 px-4'>Sewer connections, count</td>
-              <td className='py-1 px-4'>292,729</td>
-              <td className='py-1 px-4'>303,724</td>
-              <td className='py-1 px-4'>318,385</td>
             </tr>
             <tr className='border-b-2 border-blue'>
               <td className='py-1 px-4'>Desludged septic tanks, count</td>
@@ -174,8 +168,7 @@ function WaterWasteServices() {
               <td className='py-1 px-4'>133,435</td>
             </tr>
             <tr className='border-b-2 border-blue'>
-              <td className='py-1 px-4'>
-                Incidents of effluent quality violations, count
+              <td className='py-1 px-4'>Incidents of effluent quality violations, count
               </td>
               <td className='py-1 px-4'>0</td>
               <td className='py-1 px-4'>0</td>

@@ -51,6 +51,8 @@ function ValueCreationFramework() {
       heroTitle='Creating Shared Values'
       navItems={navItems}
       titleColor='text-white'
+      heroBGColor='black'
+      heroBGImage='/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1>Value Creation Framework</h1>

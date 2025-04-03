@@ -10,6 +10,8 @@ function OurSustainabilityApproach() {
       heroTitle='Creating Shared Values'
       navItems={navItems}
       titleColor='text-white'
+      heroBGColor='black'
+      heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
         <h1>Sustainability Agenda</h1>

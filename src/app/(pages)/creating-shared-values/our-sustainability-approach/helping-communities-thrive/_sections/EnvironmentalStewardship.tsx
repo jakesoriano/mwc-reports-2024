@@ -3,7 +3,7 @@ import Image from 'next/image';
 function EnvironmentalStewardship() {
   return (
     <section>
-      <h2 className='text-2xl font-bold text-secondary mb-3'>
+      <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
         Environmental Stewardship
       </h2>
       <p className='text-xs mb-5'>GRI:2016 413-1</p>
@@ -15,7 +15,7 @@ function EnvironmentalStewardship() {
           height={0}
           className='w-full h-auto'
         />
-        <figcaption className='mt-4 italic text-sm text-right'>
+        <figcaption className='mt-4 italic text-sm'>
           The Lakbayan Water Trail: From source to treatment, participants
           discover the journey water takes, starting at Angat Dam and ending at
           our treatment facilities.

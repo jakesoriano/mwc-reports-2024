@@ -8,7 +8,7 @@ function ClimateResilience() {
           Climate resilience
         </h2>
         <div>
-          <h3 className='text-lg font-bold'>Water source development</h3>
+          <h3 className='text-lg font-bold'>Business continuity strategy</h3>
           <p className='text-xs'>GRI:2018 413-1 | SASB IF-WU-440a.3</p>
           <div className='md:columns-2 mt-8 gap-6'>
             <p className='mb-4'>
@@ -108,7 +108,7 @@ function ClimateResilience() {
           </div>
         </div>
         <div>
-          <h3 className='text-lg italic mb-6'>Customer</h3>
+          <h3 className='text-lg italic mb-6 mt-10'>Customer</h3>
           <p className='mb-4'>
             Prioritizing the safety and well-being of our employees and
             contractors enables us to better serve our customers, especially
@@ -160,7 +160,7 @@ function ClimateResilience() {
           </div>
         </div>
         <div>
-          <h3 className='text-lg italic mb-6'>Country</h3>
+          <h3 className='text-lg italic mb-6 mt-10'>Country</h3>
           <div className='flex flex-col md:flex-row mt-8 gap-6'>
             <div className='flex-1'>
               <p className='mb-4'>
