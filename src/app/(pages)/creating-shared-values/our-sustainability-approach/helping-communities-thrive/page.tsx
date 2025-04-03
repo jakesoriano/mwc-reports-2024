@@ -10,10 +10,11 @@ import EnvironmentalStewardship from './_sections/EnvironmentalStewardship';
 function HelpingCommunitiesThrive() {
   return (
     <AppLayout
-      heroTitle='Creating Shared Values'
+      heroTitle='Our Sustainability Approach'
       navItems={navItems}
       titleColor='text-white'
-      heroBGImage='/images/shared-values/our-sustainability-approach/stakeholder-engagement/stakeholder-engagement-img-1-tinted.jpg'
+      heroBGColor='black'
+      heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
         <h1>Helping Communities Thrive</h1>

@@ -3,16 +3,16 @@ import Image from 'next/image';
 function CustomerCentricity() {
   return (
     <section>
-      <h2 className='text-2xl font-bold text-secondary mb-3'>
-        Water and wastewater services
+      <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
+      Customer-centricity
       </h2>
       <div>
-        <h3 className='text-lg font-bold mb-4'>Water Access</h3>
+        <h3 className='text-lg font-bold mb-4'>Customer concerns</h3>
         <table className='bg-[#BFE7F2] w-full'>
           <thead>
             <tr className='border-b-2 border-blue'>
               <th align='left' className='py-1 px-4'>
-                Water Access and Quality
+              Customer Concerns
               </th>
               <th align='left' className='py-1 px-4'>
                 2022
@@ -90,11 +90,12 @@ function CustomerCentricity() {
               alt='helping communities thrive banner'
               width={0}
               height={0}
-              className='w-full md:w-[65%] h-auto'
+              className='w-full md:w-[65%] h-auto mx-auto'
             />
             <figcaption className='mt-4 italic text-sm'>
-              During service interruptions, our water tankers are deployed to
-              ensure customers have access to clean, potable water.
+            Manila Water App is our customer’s one-stop shop to
+check current water bill, view bill history, and receive
+service advisories.
             </figcaption>
           </figure>
         </div>

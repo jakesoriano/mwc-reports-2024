@@ -257,13 +257,16 @@ function OurApproach() {
               strengthening water security for all.
             </p>
             <div className='text-secondary flex flex-col gap-y-2 w-fit'>
-              <p className='text-3xl font-bold'>8,229.48 kms water lines1</p>
+              <p className='text-3xl font-bold'>8,229.48 kms water lines<sup>1</sup></p>
               <div className='h-[2px] bg-secondary w-full'></div>
               <p className='font-semibold text-lg'>
                 a s&nbsp;&nbsp;&nbsp;o f&nbsp;&nbsp;&nbsp;2 0 2 4
               </p>
             </div>
           </div>
+        </div>
+        <div className='mt-5'>
+          <p className='text-xs text-right'><sup>1</sup> Includes primary and network line</p>
         </div>
       </section>
     </>

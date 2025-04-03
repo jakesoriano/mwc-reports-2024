@@ -17,9 +17,11 @@ function RiskManagement() {
       heroTitle='Creating Shared Values'
       navItems={navItems}
       titleColor='text-white'
+      heroBGColor='black'
+      heroBGImage='/images/creating-shared-value-banner.jpg'
     >
       <section>
-        <h1>ERM in Manila Water</h1>
+        <h1>Enterprise Risk Management (ERM) in Manila Water</h1>
         <p className='mb-4'>
           We operate in a regulated and dynamic business environment where
           uncertainties abound. We are accountable to our regulators,
@@ -37,16 +39,19 @@ function RiskManagement() {
           International businesses to ensure the attainment of our objectives.
         </p>
         <p className='mb-4'>
-          The ERM Program operationalizes the Company’s Manual of Corporate
-          Governance which mandates the Board of Directors (BOD) to ensure the
-          presence of organizational and procedural controls. This should be
-          supported by an effective management information system and risk
-          management reporting system. In addition, our Board Risk Oversight
-          Committee (BROC) provides oversight to management functions relating
-          to strategic, financial, operational, compliance, legal,
-          environmental, social, and other risks facing the Company. This
-          involves the periodic disclosure of significant risk exposures and
-          related risk management activities.
+        The ERM Program operationalizes our Manual of Corporate
+Governance which mandates the Board of Directors (BOD) to
+ensure the presence of organizational and procedural controls.
+This should be supported by an effective management
+information system and risk management reporting system.
+        </p>
+        <p className='mb-4'>
+        In addition, our Board Risk Oversight Committee (BROC)
+provides oversight to management functions relating
+to strategic, financial, operational, compliance, legal,
+environmental, social, and other risks facing the company.
+This involves the periodic disclosure of significant risk
+exposures and related risk management activities.
         </p>
         <Image
           src='/images/shared-values/risk-management/erp-img-1.jpg'
@@ -58,10 +63,28 @@ function RiskManagement() {
         />
       </section>
       <section>
-        <h3 className='font-bold mb-10 mt-20 text-secondary text-lg'>
-          Framework Process
-        </h3>
-        <div className='flex flex-col md:flex-row gap-6 mb-10'>
+        <p className='mb-4 mt-10'>
+          In its Report to the BOD for the year ended December 31, 2024, the
+          BROC confirmed that it had discussed significant risk exposures,
+          related risk-mitigation efforts and initiatives, and the status of the
+          identified mitigation plans. The report indicates that the review of
+          the BROC was conducted in the context that Management is primarily
+          responsible for the risk management process. The BROC meets quarterly
+          to discuss matters related to risks, i.e., risk analysis and
+          mitigation, as well as a discussion of top and emerging risks.
+        </p>
+        <p className='mb-4'>
+          The President is the comprehensive risk executive and is ultimately
+          responsible for ERM priorities, strategies, tolerances, and policies.
+          He chairs the Enterprise Risk Management Executive Committee (ERMEC)
+          composed of Senior Leadership Team (SLT) members including the Chief
+          Risk Officer (CRO).
+        </p>
+
+        {/* <h3 className='font-bold mb-10 mt-20 text-lg'>
+        Framework and Process
+        </h3> */}
+        <div className='flex flex-col md:flex-row gap-6 mb-10 mt-10'>
           <div className='flex-1'>
             <Image
               src='/images/shared-values/risk-management/erp-img-2.svg'
@@ -84,23 +107,6 @@ function RiskManagement() {
           </div>
         </div>
         <p className='mb-4'>
-          In its Report to the BOD for the year ended December 31, 2024, the
-          BROC confirmed that it had discussed significant risk exposures,
-          related risk-mitigation efforts and initiatives, and the status of the
-          identified mitigation plans. The report indicates that the review of
-          the BROC was conducted in the context that Management is primarily
-          responsible for the risk management process. The BROC meets quarterly
-          to discuss matters related to risks, i.e., risk analysis and
-          mitigation, as well as a discussion of top and emerging risks.
-        </p>
-        <p className='mb-4'>
-          The President is the comprehensive risk executive and is ultimately
-          responsible for ERM priorities, strategies, tolerances, and policies.
-          He chairs the Enterprise Risk Management Executive Committee (ERMEC)
-          composed of Senior Leadership Team (SLT) members including the Chief
-          Risk Officer (CRO).
-        </p>
-        <p className='mb-4'>
           The ERMEC was established to oversee and ensure the efficient and
           effective management of our enterprise risks while the leadership team
           of each strategic business unit (SBUs) provides oversight and input to
@@ -109,32 +115,26 @@ function RiskManagement() {
           decisions.
         </p>
         <p className='mb-4'>
-          The risk management system is reviewed annually by an Internal Audit
-          function using a risk maturity assessment framework aligned with
-          global best practices to determine the system’s adequacy, suitability,
-          and effectiveness. We are also subject to external assessment at
-          regular intervals.
-        </p>
-        <p className='mb-4'>
           The success of the ERM program depends heavily on the framework which
           will provide the core principles and processes to meet the needs of
           the business.
         </p>
+        <p className='mb-4 font-bold mt-10'>FRAMEWORK AND PROCESS</p>
         <p className='mb-4'>
-          The ERM Framework is centered on a strong and sustained commitment by
-          the Company’s leadership to risk management by defining risk
-          management policies and objectives. This helps ensure legal and
-          regulatory compliance, by providing the necessary allocation of
-          resources to risk management and communicating the benefits of risk
-          management to all stakeholders. Correspondingly, the ERM process was
-          designed to be an integral part of the Company's management,
-          practices, and culture.
+        The ERM Framework is grounded in a strong and
+sustained commitment of senior management to
+risk management and is facilitated by defining risk
+management policies and objectives. This helps ensure
+legal and regulatory compliance by providing the
+necessary allocation of resources to risk management
+and by communicating the benefits of risk management
+to all stakeholders. Correspondingly, the ERM process
+is designed to be an integral part of our management,
+practices, and culture.
         </p>
       </section>
       <section>
-        <h3 className='font-bold mb-10 mt-20 text-secondary text-lg'>
-          ERM Structure
-        </h3>
+        <p className='mb-4 font-bold mt-10'>ERM STRUCTURE</p>
         <div className='overflow-x-auto'>
           <Image
             src='/images/shared-values/risk-management/erp-img-4.svg'
@@ -145,9 +145,7 @@ function RiskManagement() {
             className='w-full min-w-[700px] md:min-w-[unset] '
           />
         </div>
-        <h3 className='font-bold mb-4 mt-10'>
-          Management of Top Enterprise Risks
-        </h3>
+        <p className='mb-4 font-bold mt-10 uppercase'>MANAGEMENT OF TOP ENTERPRISE RISKS</p>
         <p className='mb-4'>
           The ERMEC determines the most significant risks facing the Company.
           The Senior Leadership Team (SLT) together with the CRO convene as the
@@ -177,33 +175,52 @@ function RiskManagement() {
           regularly discussed at the ERMEC and the respective SBU LTs. Finally,
           the findings are reported to the BROC.
         </p>
-        <h3 className='font-bold mb-4'>2024 Risk Assessment</h3>
+        <h3 className='font-bold mb-4 mt-4'>The Chief Risk Officer</h3>
         <p>
-          Risk Assessment was conducted using top-down and bottom-up approaches
-          to produce this year’s top enterprise risks. A year-end reassessment
-          was also implemented to gauge the effectiveness of our mitigation
-          methods and strategies.
+        The CRO oversees the entire risk management function and
+leads the development, implementation, maintenance,
+and continuous improvement of the ERM program, processes,
+and tools. The CRO is the Vice Chairman of the ERMEC.
+She also leads the Enterprise Risk Management (ERM)
+Department in facilitating the ERM process. This involves
+collecting and analyzing key business risk information for
+reporting to the ERMEC and the BROC.
+        </p>
+        <h3 className='font-bold mb-4 mt-4'>Enterprise Risk Management Department</h3>
+        <p>
+        The ERM Department is responsible for the development of
+risk management tools, methodologies and processes, as well
+as the sustained implementation of the ERM Program across
+the company. It acts as the primary driver of developing a
+risk-aware culture and ensures that key risks are identified and
+managed by respective risk owners. With the ERM mindset
+continuously being assimilated into our culture and practices,
+ERM has been embedded in key decision-making processes.
+        </p>
+        <h3 className='font-bold mb-4 mt-4'>2024 Risk Assessment</h3>
+        <p>
+        The Risk Assessment was conducted using both top-down and
+bottom-up approaches to determine the top enterprise risks for
+2024. A year-end reassessment was also implemented to gauge
+the effectiveness of mitigation methods and strategies.
         </p>
       </section>
       <section className='pb-10'>
-        <h3 className='font-bold mb-5 mt-20 text-secondary text-lg'>
+        <h3 className='font-bold mb-5 mt-20 text-lg'>
           Top Risks Discussion (Risks and Mitigating Measures)
         </h3>
         <DashedTable columns={columns} data={riskData} />
       </section>
       <section className='py-10'>
-        <h2 className='text-2xl text-secondary font-bold mb-2'>
+        <h2 className='text-2xl text-secondary font-bold mb-4'>
           Report of the Board Risk Oversight Committee to the Board of Directors
         </h2>
-        <p className='font-bold'>For the year ended December 31, 2024</p>
+        <p className='font-bold mb-4'>For the year ended December 31, 2024</p>
         <p className='mb-4'>
-          The Board Risk Oversight Committee (“Risk Committee”) was established
-          by the Board of Directors at its August 11, 2015 meeting to help in
-          fulfilling the Board’s oversight responsibilities in relation to risk
-          governance in Manila Water. The Risk Committee’s roles,
-          responsibilities and authorities are defined in the Risk Committee
-          Charter approved by the Board of Directors during its November 26,
-          2015 meeting.
+        The Board Risk Oversight Committee (“Risk Committee”) was established by the Board of Directors at its August 11, 2015 meeting
+to help in fulfilling the Board’s oversight responsibilities in relation to risk governance in Manila Water. The Risk Committee’s roles,
+responsibilities and authorities are defined in the Risk Committee Charter approved by the Board of Directors during its November
+26, 2015 meeting.
         </p>
         <p className='mb-4'>
           In compliance with the Risk Committee Charter, the Committee confirms
@@ -211,15 +228,14 @@ function RiskManagement() {
         </p>
         <ul className='styled-list styled-list-primary'>
           <li>
-            An independent director chairs the Risk Committee. The Committee has
-            three out of four members who are independent directors.
+          An independent director chairs the Risk Committee. The Committee has three out of four members who are
+          independent directors.
           </li>
           <li>
-            The Committee had 4 meetings in 2024 with the following attendance
-            rate:
+          The Committee had 4 meetings in 2024 attended by all directors.
           </li>
         </ul>
-        <div className='max-w-[100%] overflow-x-auto'>
+        {/* <div className='max-w-[100%] overflow-x-auto'>
           <div className='min-w-[500px]'>
             <DataTable
               columns={meetingColumns}
@@ -227,27 +243,24 @@ function RiskManagement() {
               hideBorders
             />
           </div>
-        </div>
+        </div> */}
         <ul className='styled-list styled-list-primary mt-4'>
           <li>
-            The Committee discussed with Management significant risk exposures,
-            the related risk-mitigation efforts and initiatives, and the status
-            of the mitigation plans.
+          The Committee discussed with Management significant risk exposures, the related risk-mitigation efforts and
+          initiatives, and the status of the mitigation plans.
           </li>
           <li>
-            The review was undertaken in the context that Management is
-            primarily responsible for the risk management process.
+          The review was undertaken in the context that Management is primarily responsible for the risk management process.
           </li>
           <li>
-            The Committee reviewed the Enterprise Risk Management Process in
-            Manila Water Company, Inc. and is satisfied that sufficient risk
-            management systems are in place.
+          The Committee reviewed the Enterprise Risk Management Process in Manila Water Company, Inc. and is satisfied that
+sufficient risk management systems are in place. Year-end reassessment of top risks was also performed to gauge the
+effectiveness of the Company's mitigation methods and strategies.
           </li>
           <li>
-            Initiatives such as risk awareness campaigns, inclusion in new hires
-            onboarding, risk related articles and infographics, focus group
-            discussions, and change management sessions were conducted to
-            continuously strengthen the risk culture of the organization.
+          Initiatives such as risk awareness campaigns, conducting risk management sessions for new hires onboarding and
+cadetship program and risk management workshops were conducted to continuously strengthen the risk culture
+of the organization.
           </li>
         </ul>
         <div className='relative py-1'>

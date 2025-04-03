@@ -29,7 +29,7 @@ const DashedTable: React.FC<DataTableProps> = ({
                 key={col.key}
                 className='px-8  text-gray-600 first:border-dashed border-blue first:border-r-3 relative align-top'
               >
-                <div className='group-first:hidden h-[1px] bg-gray-500 w-full ' />
+                <div className='group-first:hidden bg-gray-500 w-full ' />
                 <div
                   className='py-10'
                   dangerouslySetInnerHTML={{ __html: row[col.key] || '' }}
