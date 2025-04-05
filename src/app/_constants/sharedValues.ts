@@ -27,46 +27,50 @@ export const navItems = [
         name: 'Helping Communities Thrive',
         url: '/creating-shared-values/our-sustainability-approach/helping-communities-thrive',
       },
+      {
+        name: 'Protecting the Environment',
+        url: '/creating-shared-values/our-sustainability-approach/protecting-the-environment',
+      },
     ],
   },
 ];
 
 export const capitals = [
   {
-    image: '/images/shared-values/value-creation/financial.svg',
+    image: '/images/shared-values/value-creation/capitals-1.svg',
     title: 'Financial',
     description:
-      'We leverage cost-effective financial capital, including equity, debt, reinvestment, and other instruments.',
+      'We leverage cost-eective nancial capital, including equity, debt, reinvestment, and cash generated from our services, to maintain and grow our business. These resources enable us to enhance the stock of our other capitals.',
   },
   {
-    image: '/images/shared-values/value-creation/manufactured.svg',
+    image: '/images/shared-values/value-creation/capitals-2.svg',
     title: 'Manufactured',
     description:
-      'We invest in acquiring, developing, and maintaining property, plant, and equipment to optimize production capacities, enhance productivity, and ensure efficient water delivery to customers.',
+      'We invest in acquiring, developing, and maintaining property, plant, and equipment to optimize production capacities, enhance productivity, and ensure ecient water delivery to our customers.',
   },
   {
-    image: '/images/shared-values/value-creation/intellectual.svg',
+    image: '/images/shared-values/value-creation/capitals-3.svg',
     title: 'Intellectual',
     description:
-      'Our procedures, processes, and know-how are tailored to consistently deliver exceptional results to the communities we serve.',
+      'Our intangible assets—including our brand, reputation, governance structures, knowledge and expertise, operational experience, and product and solution developments—form the core of our intellectual capital. These assets, enable us to consistently deliver results to the communities we serve.',
   },
   {
-    image: '/images/shared-values/value-creation/human.svg',
+    image: '/images/shared-values/value-creation/capitals-4.svg',
     title: 'Human',
     description:
-      'We are dedicated to fostering an inclusive, diverse, and safe work environment. Our priority is the well-being, skills, knowledge, and expertise of our employees.',
+      'We are dedicated to fostering an inclusive, diverse, and safe work environment for our employees. Through their collective knowledge and purpose-driven actions, they create value and enable us to deliver on our strategic objectives.',
   },
   {
-    image: '/images/shared-values/value-creation/social-relationship.svg',
+    image: '/images/shared-values/value-creation/capitals-5.svg',
     title: 'Social + Relationship',
     description:
-      'We endeavor to create value for stakeholders by actively engaging with and building strong relationships.',
+      'We create value for stakeholders by actively engaging with them and building strong relationships. These relationships, shaped by our commitment to the long-term sustainability of the communities we serve, directly impact our business and reputation.',
   },
   {
-    image: '/images/shared-values/value-creation/natural.svg',
+    image: '/images/shared-values/value-creation/capitals-6.svg',
     title: 'Natural',
     description:
-      'Our commitment to achieve resource efficiency in the consumption of natural resources and materials essential for our business model.',
+      'We are committed to achieving resource efficiency in the consumption of natural resources and materials essential to our business model. Our natural capital includes our environmental management approach, which reects our adherence to international best practices, legal compliance, and our responsibility to minimize environmental impact.',
   },
 ];
 
@@ -74,94 +78,116 @@ export const inputs = [
   [
     {
       icon: 'caret-up',
-      description: 'CAPEX: Php 21.6 Bn',
+      iconClass: 'text-primary',
+      description: 'Capital expenditures: <strong>Php 26.3 Bn<strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Market capitalization:  <strong>Php 70.1 Bn</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Equity: <strong>Php 77.3 Bn</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Net Debt: <strong>Php 99.0 Bn</strong>',
+    },
+  ],
+  [
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Length of Main Waterlines: <strong>8,229 kms.</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Length of Sewer Lines: <strong>1,044 kms.</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Value of PPE2: <strong>Php 193.8 Bn</strong>',
+    },
+  ],
+  '<strong class="text-primary">Governance structure<br/>Corporate policies</strong><br/>Skilled, experienced, and diverse <strong class="text-primary">board directors, executive officers</strong>, and employees, innovation team developing automated, technology-driven systems for increased efficiency',
+  [
+    {
+      icon: 'caret-down',
+      iconClass: 'text-red-500',
+      description: 'Katubig Employees: <strong>2,495</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Training investment: <strong>Php 17.9 Mn</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description:
+        'Sr. Mgmt positions held by females: <strong>49%</strong><br/>',
+    },
+    {
+      icon: '=',
+      iconClass: 'ml-3 mt-4',
+      description:
+        '<span class="mr-2 text-xl">=</span> Employee volunteer programs: <strong>4</strong>',
+    },
+  ],
+  [
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Community investment: <strong>Php 67.0 Mn</strong>',
     },
     {
       icon: '',
-      description: 'Sustainability Bond Proceeds: USD 500 Mn',
+      iconClass: '',
+      description: 'Regular engagement and partnership with key stakeholders',
+    },
+  ],
+  [
+    {
+      icon: 'caret-down',
+      iconClass: 'text-red-500',
+      description: 'Water Withdrawal: <strong>778 Mn m3</strong>',
     },
     {
       icon: 'caret-down',
-      description: 'Shareholder’s Equity: Php 70.1 Bn',
-    },
-  ],
-  [
-    {
-      icon: 'caret-up',
-      description: 'Length of Main Waterlines: 8,231 kms.',
-    },
-    {
-      icon: 'caret-up',
-      description: 'Length of Sewer Lines: 648 kms.',
-    },
-    {
-      icon: '',
-      description:
-        'Water and wastewater treatment facilities, reservoirs, deepwells, pumping stations, and desludging trucks.',
-    },
-  ],
-  [
-    {
-      icon: '',
-      description:
-        '# of Innovation Projects Pursued: 6 Specialists on non-revenue water, wastewater treatment, and community engagement.',
-    },
-  ],
-  [
-    {
-      icon: 'caret-up',
-      description: 'Total # of Katubig Employees: 2,663',
-    },
-    {
-      icon: 'caret-up',
-      description: 'Training + Dev’t Cost: Php 16.1 Mn',
-    },
-    {
-      icon: 'caret-up',
-      description: 'Training Hours: 73,178',
-    },
-  ],
-  [
-    {
-      icon: 'caret-up',
-      description: 'Employee Volunteer Hours: 1,891',
-    },
-    {
-      icon: 'caret-up',
-      description: 'Vendors Engaged: 775',
-    },
-    {
-      icon: 'caret-down',
-      description: 'Community investment: Php 0.05 Bn',
-    },
-  ],
-  [
-    {
-      icon: 'caret-up',
-      description: 'Water Withdrawal: 947 Mn m3',
-    },
-    {
-      icon: 'caret-up',
-      description: 'Energy Consumed within the Organization: 1.1 Mn GJ',
+      iconClass: 'text-red-500',
+      description: 'Energy Consumed: <strong>1.0 Mn GJ</strong>',
     },
   ],
 ];
 
 export const outputImpact = [
   {
-    title: '1,267 Mn m3',
+    icon: 'caret-up',
+    iconClass: 'text-primary',
+    title: '1,287 Mn m3',
     description: 'Potable Water Delivered',
   },
   {
-    title: '77 Mn m3',
+    icon: 'caret-down',
+    iconClass: 'text-red-500',
+    title: '66 Mn m3',
     description: 'Wastewater Treated',
   },
   {
-    title: '20,234 tons',
+    icon: 'caret-up',
+    iconClass: 'text-primary',
+    title: '19,698 Metric Tons',
     description: 'Waste Generated',
   },
   {
-    title: '246,438 tons CO2e',
+    icon: 'caret-up',
+    iconClass: 'text-red-500',
+    title: '211,816 Metric TOns CO2e',
     description: 'Scope 1+2 GHG Emissions',
   },
 ];
@@ -172,19 +198,18 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'EBITDA: Php 30.7 Bn',
       },
       {
         icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        iconClass: 'text-primary',
+        description: 'Return on equity: 15%',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
-      },
-      {
-        icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        iconClass: 'text-primary',
+        description: 'Dividend: Php 3.4 Bn',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
@@ -194,19 +219,18 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'Water service connections: 1.3 Mn',
       },
       {
         icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        iconClass: 'text-primary',
+        description: 'Sewer connections: 318K',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
-      },
-      {
-        icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        iconClass: 'text-primary',
+        description: 'Desludged septic tanks: 133K',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
@@ -216,19 +240,18 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'Enterprise NRW, end-of-year: 14.6%',
       },
       {
-        icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        icon: 'caret-down',
+        iconClass: 'text-red-500',
+        description: 'Customer satisfaction score: 87%',
       },
       {
-        icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
-      },
-      {
-        icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        icon: 'caret-down',
+        iconClass: 'text-red-500',
+        description: 'Customer resolution rate: 99%',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
@@ -238,19 +261,23 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'Ave. training hr/employee: 30',
       },
       {
         icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        iconClass: 'text-primary',
+        description: 'Employee volunteer hours: 2,849',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
+        iconClass: 'text-primary',
+        description: 'Lost-time incident rate: 0',
       },
       {
-        icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        icon: '=',
+        iconClass: '',
+        description: 'Incident of discrimination: 0',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
@@ -260,19 +287,18 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'Population served with water: 9.3 Mn',
       },
       {
         icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        iconClass: 'text-primary',
+        description: 'MWF Individuals Reach: 569,953',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
-      },
-      {
-        icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        iconClass: 'text-primary',
+        description: 'Whistleblower cases received: 5',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],
@@ -282,19 +308,30 @@ export const outcome = [
     data: [
       {
         icon: 'caret-up',
-        description: 'Revenue: Php 30.7 Bn',
+        iconClass: 'text-primary',
+        description: 'Incidents of non-compliance: 0 =',
       },
       {
         icon: 'caret-up',
-        description: 'Core Net Income: Php 9.6 Bn',
+        iconClass: 'text-primary',
+        description: 'Trees planted and nurtured since 2006: 1.7 Mn',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Distributed: Php 21.2 Bn',
+        iconClass: 'text-primary',
+        description: 'Watershed protected area: 196k has',
       },
       {
         icon: 'caret-up',
-        description: 'Economic Value Retained: Php 9.8 Bn',
+        iconClass: 'text-primary',
+        description:
+          'BOD removed thru wastewater treatment: 8k Metric Tons BOD',
+      },
+      {
+        icon: 'caret-up',
+        iconClass: 'text-primary',
+        description:
+          'CO2e emission avoided thru wastewater treament: 66k Metric Tons CO2e',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],

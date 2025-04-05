@@ -5,10 +5,15 @@ import Image from 'next/image';
 
 const OutcomeContent = () => (
   <div className='flex flex-col gap-y-4 h-full'>
-    <Box>
-      <h3 className='text-center text-xl'>Outcome</h3>
+    <Box bgColor='bg-[#D2E9F4]' border='border border-blue'>
+      <h3 className='text-center text-xl uppercase'>Outcome + Shared Value</h3>
     </Box>
-    <Box fullHeight padding='p-0'>
+    <Box
+      fullHeight
+      bgColor='bg-[#D2E9F4]'
+      border='border border-blue'
+      padding='p-0'
+    >
       {outcome.map((item, index) => (
         <div
           key={item.title}
@@ -27,7 +32,9 @@ const OutcomeContent = () => (
                   {!!data.icon && (
                     <Icon
                       name={data.icon}
-                      extraClass='text-5xl absolute left-0'
+                      extraClass={`text-5xl absolute left-0 ${
+                        data?.iconClass ?? ''
+                      }`}
                     />
                   )}
                   <p className={`text-xs ${!data.icon ? 'ml-12' : ''}`}>

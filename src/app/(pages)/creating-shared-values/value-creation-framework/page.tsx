@@ -15,33 +15,114 @@ import OutcomeContent from './_components/OutcomeContent';
 
 function ValueCreationFramework() {
   const contents: React.ReactNode[] = [
-    <div className='flex items-stretch gap-x-6'>
-      <div className='basis-[25%]'>
-        <CapitalsContent />
+    <>
+      <div className='flex items-stretch gap-x-6 mb-4'>
+        <div className='basis-[28%]'>
+          <CapitalsContent />
+        </div>
+        <div className='basis-[28%]'>
+          <InputsContent />
+        </div>
+        <div className='basis-[44%]'>
+          <KeyDriversContent />
+        </div>
       </div>
-      <div className='basis-[25%]'>
-        <InputsContent />
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
+    <>
+      <div className='flex items-stretch gap-x-6 mb-4'>
+        <div className='basis-[30%]'>
+          <OutputImpactContent />
+        </div>
+        <div className='basis-[70%]'>
+          <OutcomeContent />
+        </div>
       </div>
-      <div className='basis-[50%]'>
-        <KeyDriversContent />
-      </div>
-    </div>,
-    <div className='flex items-stretch gap-x-6'>
-      <div className='basis-[30%]'>
-        <OutputImpactContent />
-      </div>
-      <div className='basis-[70%]'>
-        <OutcomeContent />
-      </div>
-    </div>,
+
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
   ];
 
   const contentsMobile = [
-    <CapitalsContent />,
-    <InputsContent />,
-    <KeyDriversContent />,
-    <OutputImpactContent />,
-    <OutcomeContent />,
+    <>
+      <div className='mb-4'>
+        <CapitalsContent />
+      </div>
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
+    <>
+      <div className='mb-4'>
+        <InputsContent />
+      </div>
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
+    <>
+      <div className='mb-4'>
+        <KeyDriversContent />
+      </div>
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
+    <>
+      <div className='mb-4'>
+        <OutputImpactContent />
+      </div>
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
+    <>
+      <div className='mb-4'>
+        <OutcomeContent />,
+      </div>
+      <Image
+        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        alt='shared value'
+        width={0}
+        height={0}
+        sizes='100vw'
+        className='w-full h-auto'
+      />
+    </>,
   ];
 
   const device = useResponsiveDevice();
@@ -58,16 +139,6 @@ function ValueCreationFramework() {
         <h1>Value Creation Framework</h1>
         <ContentCarousel
           contents={device === 'mobile' ? contentsMobile : contents}
-        />
-      </section>
-      <section className='pt-4'>
-        <Image
-          src='/images/shared-values/value-creation/sharedvalue_foot.jpg'
-          alt='shared value'
-          width={0}
-          height={0}
-          sizes='100vw'
-          className='w-full h-auto'
         />
         <p className='text-xs mt-4 mb-6 italic'>
           Refer to our{' '}

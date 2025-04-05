@@ -71,6 +71,10 @@ export const navItems: NavItem[] = [
             name: 'Helping Communities Thrive',
             url: '/creating-shared-values/our-sustainability-approach/helping-communities-thrive',
           },
+          {
+            name: 'Protecting the Environment',
+            url: '/creating-shared-values/our-sustainability-approach/protecting-the-environment',
+          },
         ],
       },
     ],

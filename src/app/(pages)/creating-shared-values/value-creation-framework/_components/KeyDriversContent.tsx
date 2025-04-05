@@ -1,112 +1,110 @@
 import Box from '@/app/_components/Box';
 import ImageTextCard from '@/app/_components/ImageTextCard';
-import { coreValues } from '@/app/_constants/ourReport';
 import Link from 'next/link';
+import Image from 'next/image';
+import { coreValues } from '@/app/_constants/ourReport';
 
 const KeyDriversContent = () => (
   <div className='flex flex-col gap-y-4 h-full'>
-    <Box>
-      <h3 className='text-center text-xl'>Key Drivers</h3>
+    <Box bgColor='bg-[#D2E9F4]' border='border border-blue'>
+      <h3 className='text-center text-xl uppercase'>Key Drivers</h3>
     </Box>
-    <Box>
-      {/* Mission Vision */}
-      <div className='flex gap-x-4'>
-        <div className='flex-1'>
-          <h4 className='text-xs font-bold'>Purpose</h4>
-          <p className='text-xs'>
-            Better lives and resilient economies through critical infrastructure
-          </p>
-        </div>
-        <div className='flex-1'>
-          <h4 className='text-xs font-bold'>Vision</h4>
-          <p className='text-xs'>
-            A global leader in providing quality water and environmental
-            services supportive of sustainable development
-          </p>
-        </div>
-        <div className='flex-1'>
-          <h4 className='text-xs font-bold'>Mission</h4>
-          <p className='text-xs'>
-            Deliver world-class services tailored to the needs of the
-            communities we serve, through sustainable solutions and
-            purposedriven, empowered, innovative teams
-          </p>
-        </div>
-      </div>
-      {/* Core Values */}
-      <h4 className='text-xs font-bold mb-4'>Core Values</h4>
-      <div className='grid grid-cols-3 mb-6'>
-        {coreValues.map((item, index) => (
-          <ImageTextCard
-            imageUrl={item.imageUrl}
-            imageWidth={60}
-            imageHeight={60}
-            title={item.title}
-            titleClass='font-bold text-xs text-center'
-            key={index}
-          />
-        ))}
-      </div>
-      {/*Enterprise Risk Management*/}
-      <div className='mb-6'>
-        <h4 className='text-xs font-bold mb-1'>Enterprise Risk Management</h4>
-        <p className='text-xs'>
-          Effectively managing risks is an integral aspect of our value creation
-          process. We recognize that having a comprehensive understanding of
-          potential challenges is crucial for our sustained success. By
-          identifying, assessing, and mitigating risks, we can proactively
-          navigate uncertainties, safeguard our financial health, and fortify
-          our operations. This proactive approach not only ensures our
-          resilience but also establishes a foundation for long-term value
-          creation.
+    <Box bgColor='bg-[#D2E9F4]' border='border border-blue' fullHeight>
+      {/* Strategy */}
+      <div className='mb-4 text-xs'>
+        <h4 className='font-bold mb-4 uppercase'>Strategy</h4>
+        <p className='mb-4'>
+          Sustainability is at the core of what we do. We believe that by
+          delivering world-class facilities and services that are attuned to the
+          needs of the communities we serve and the stakeholders we work with,
+          we contribute to sustainable development.
         </p>
-        <p className='text-xs mt-4'>
-          For a more in-depth exploration of our risk landscape, please refer to{' '}
-          <Link href='' className='link'>
-            Enterprise Risk Management in Manila Water.
-          </Link>
+        <Image
+          src='/images/shared-values/our-sustainability-approach/key-drivers-1.svg'
+          alt='shared value'
+          width={0}
+          height={0}
+          sizes='100vw'
+          className='w-[70%] h-auto mx-auto'
+        />
+        <p className='mb-4 text-xs'>
+          Through our Sustainability Framework, we monitor and measure
+          performance against operational metrics to create shared, long-term
+          value and drive positive impact.
         </p>
-      </div>
-      {/*Stakeholder Concerns And Material Issues*/}
-      <div>
-        <h4 className='text-xs font-bold mb-1'>
-          Stakeholder Concerns And Material Issues
-        </h4>
-        <p className='text-xs'>
-          Recognizing the importance of understanding and responding to the
-          expectations of our diverse stakeholders, we prioritize a
-          comprehensive assessment of their concerns and the identification of
-          material issues. By doing so, we not only enhance our transparency and
-          accountability but also foster a foundation for sustainable and
-          responsible business practices.
-        </p>
-        <p className='text-xs mt-4 mb-6'>
-          For a more thorough exploration of our approach to stakeholder
-          engagement and materiality, please go{' '}
-          <Link href='' className='link'>
-            here.
-          </Link>
-        </p>
-      </div>
-      {/*ESG Target*/}
-      <div>
-        <h4 className='text-xs font-bold mb-1'>ESG Target</h4>
-        <ul className='text-xs grid grid-cols-2'>
-          <li>Infrastructure Development</li>
-          <li></li>
-          <li>Occupational Health and Safety</li>
-          <li>Biodiversity</li>
-          <li>Water Security</li>
-          <li>Resource Efficiency</li>
-          <li>Water Quality</li>
-          <li>Carbon Reduction and Avoidance</li>
+        <p>Read more about:</p>
+        <ul className='styled-list'>
+          <li>
+            <Link
+              href='/creating-shared-values/our-sustainability-approach'
+              className='link'
+            >
+              Our Sustainability Approach
+            </Link>
+          </li>
+          <li>
+            <Link
+              href='/creating-shared-values/our-sustainability-approach'
+              className='link'
+            >
+              ESG Performance Data
+            </Link>
+          </li>
         </ul>
-        <p className='text-xs mt-4 mb-6'>
-          For more information on our ESG Target, refer to our{' '}
-          <Link href='' className='link'>
-            ESG Performance Data.
-          </Link>
+      </div>
+      {/* People + Stakeholders */}
+      <div className='text-xs'>
+        <h4 className='font-bold mb-4 uppercase'>People + Stakeholders</h4>
+        <p className='mb-4'>
+          We are mindful of upholding responsible business practices through a
+          robust governance structure and policies that ensure transparency,
+          accountability, and ethical decision-making.
         </p>
+        <p className='mb-4'>
+          We prioritize understanding stakeholder expectations by assessing
+          their concerns and identifying material issues to align our strategies
+          and build trust.
+        </p>
+        <p>Read more about:</p>
+        <ul className='styled-list'>
+          <li>
+            <Link href='' className='link'>
+              Corporate Policies
+            </Link>
+          </li>
+          <li>
+            <Link href='' className='link'>
+              Corporate Governance Report
+            </Link>
+          </li>
+          <li>
+            <Link
+              href='/creating-shared-values/our-sustainability-approach/determining-what-matters'
+              className='link'
+            >
+              Determining What Matters
+            </Link>
+          </li>
+        </ul>
+      </div>
+
+      {/*Environment*/}
+      <div className='mb-6 text-xs'>
+        <h4 className='font-bold mb-1 uppercase mb-4'>Environment</h4>
+        <p className='mb-4'>
+          We recognize the importance of understanding potential challenges for
+          sustained success. Through a robust framework for identifying,
+          assessing, and managing risks and opportunities, we implement regular
+          monitoring and long-term plans to enhance resilience and drive growth.
+        </p>
+        <p>Read more about:</p>
+        <ul className='styled-list'>
+          <li>
+            <Link href='' className='link'>
+              TCFD and TNFD on Sustainability Content Index
+            </Link>
+          </li>
+        </ul>
       </div>
     </Box>
   </div>
