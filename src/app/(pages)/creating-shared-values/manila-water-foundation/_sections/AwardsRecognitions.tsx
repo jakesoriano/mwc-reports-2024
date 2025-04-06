@@ -5,25 +5,25 @@ function AwardsRecognitions() {
         Manila Water Foundation Awards and Recognition
       </h2>
       <ul className='styled-list styled-list-primary'>
-        <li>
+        <li className='mb-2'>
           Manila Water Foundation was honored with a Partner in Empowerment,
           Advocacy and Commitment to Excellence or PEACE Award by the Metrobank
           Foundation for synergies in WASH since the year 2020.
         </li>
-        <li>
+        <li className='mb-2'>
           Manila Water Foundation was given an Award of Merit under the
           Corporate Social Responsibility category at the 20th Philippine Quill
           Awards for the #SAFEWASH in Schools, the milestone partnership project
           between Manila Water Foundation and Procter &Gamble Safeguard.
         </li>
-        <li>
+        <li className='mb-2'>
           #SAFEWASH in Schools enhanced the learners' and teachers' access to
           hygiene facilities with clean water and soap. Reaching over half a
           million individuals, there are now 285 multi-faucet hand hygiene
           facilities in schools in the National Capital Region and in the
           Province of Rizal.
         </li>
-        <li>
+        <li className='mb-2'>
           Manila Water Foundation’s Integrated WASH Program was lauded at the
           United Nations (UN) Women’s Empowerment Principles Awards last
           November 2024. Under the Community Engagement and Partnerships
@@ -32,7 +32,7 @@ function AwardsRecognitions() {
           hygiene or WASH. Manila Water Foundation President Jocot de Dios was
           named first runner-up for Leadership Commitment.
         </li>
-        <li>
+        <li className='mb-2'>
           Closing 2024, Manila Water Foundation was recognized by the Department
           of Education for its support to the WASH in Schools (WinS) program.
           From DepEd Schools Division Offices to the Central Office, MWF’s

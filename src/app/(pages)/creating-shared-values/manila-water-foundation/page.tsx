@@ -56,7 +56,7 @@ function ManilaWaterFoundation() {
             environmental hub that promotes environmental conservation,
             ecological awareness that leads to climate action.
           </p>
-          <div className='h-[100px]'></div>
+          <div className='h-[100px]' />
           <p className='mb-4'>
             Business, academe and faith-based institutions have conducted
             various environmental conservation activities such as weeding and

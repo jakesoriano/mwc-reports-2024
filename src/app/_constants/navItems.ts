@@ -92,6 +92,14 @@ export const navItems: NavItem[] = [
     url: '#',
     children: [
       {
+        name: 'Consolidated Performance',
+        url: '/our-business-review/consolidated-performance',
+      },
+      {
+        name: 'East Zone Concession',
+        url: '/our-business-review/east-zone-concession',
+      },
+      {
         name: 'Our Corporate Governance',
         url: '#',
       },
