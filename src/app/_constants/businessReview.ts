@@ -11,6 +11,10 @@ export const navItems = [
     name: 'Non-East Zone Philippines',
     url: '/our-business-review/non-east-zone-philippines',
   },
+  {
+    name: 'Non-East Zone International Businesses',
+    url: '/our-business-review/non-east-zone-international',
+  },
 ];
 
 export const opsHighlightsCols = [
@@ -260,5 +264,83 @@ export const nonEastZoneData2 = [
     '2024': '25%',
     '2023': '11%',
     change: '14 ppts',
+  },
+];
+
+export const nonEastZoneICols = [
+  { key: 'highlights', label: '(in millions)' },
+  { key: '2024', label: '2024' },
+  { key: '2023', label: '2023' },
+  { key: 'change', label: '% Change' },
+];
+
+export const nonEastZoneIData = [
+  {
+    highlights:
+      'East Water at 18.72% contribution, before adjustment Impact of fair value amortization',
+    '2024': 'P10.3<br/>149.4',
+    '2023': 'P97.2<br/>151.4',
+    change: '(89%)<br/>(1%)',
+  },
+  {
+    highlights: 'East Water at 18.72% contribution, adjusted',
+    '2024': '(139.1)',
+    '2023': '(54.2)',
+    change: '157%',
+  },
+  {
+    highlights: 'Thu Duc Water at 49.00% contribution',
+    '2024': '304.1',
+    '2023': '325.2',
+    change: '(6%)',
+  },
+  {
+    highlights: 'Kenh Dong Water at 47.35% contribution',
+    '2024': '188.2',
+    '2023': '217.5',
+    change: '(13%)',
+  },
+  {
+    highlights: 'Saigon Water at 37.99% contribution',
+    '2024': '463.7',
+    '2023': '(39.2)',
+    change: '1283%',
+  },
+  {
+    highlights: 'PT STU at 20.00% contribution',
+    '2024': '2.5',
+    '2023': '1.0',
+    change: '150%',
+  },
+  {
+    highlights: 'IWP at 20.00% contribution',
+    '2024': '22.5',
+    '2023': '27.0',
+    change: '(17%)',
+  },
+  {
+    highlights: 'IWP2 at 30.00% contribution',
+    '2024': '24.9',
+    '2023': '21.3',
+    change: '17%',
+  },
+  {
+    highlights:
+      '<strong>Total Equity share in net income of associates</strong>',
+    '2024': '<strong>866.8</strong>',
+    '2023': '<strong>498.6</strong>',
+    change: '<strong>74%</strong>',
+  },
+  {
+    highlights: 'Provision for impairment<br/>HQ costs',
+    '2024': '(4,460.8)<br/>(397.0)',
+    '2023': '(4,063.3)<br/>(400.0)',
+    change: '(10%)<br/>(1%)',
+  },
+  {
+    highlights: '<strong>Net Loss Attributable to MWC</strong>',
+    '2024': '<strong>(P3,991.0)</strong>',
+    '2023': '<strong>(P3,964.7)</strong>',
+    change: '<strong>1%</strong>',
   },
 ];

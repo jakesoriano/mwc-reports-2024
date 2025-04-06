@@ -16,7 +16,7 @@ function NonEastZone() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/east-zone-concession/nez-img-1.jpg'
+      heroBGImage='/images/our-business-review/non-east-zone-philippines/nez-img-1.jpg'
     >
       <section>
         <h1 className='text-center'>
