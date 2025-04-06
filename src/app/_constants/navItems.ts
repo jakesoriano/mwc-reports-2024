@@ -81,6 +81,10 @@ export const navItems: NavItem[] = [
           },
         ],
       },
+      {
+        name: 'Manila Water Foundation',
+        url: '/creating-shared-values/manila-water-foundation',
+      },
     ],
   },
   {

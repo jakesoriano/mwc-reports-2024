@@ -208,8 +208,8 @@ function EnergyManagement() {
           <p className='mb-4'>
             To support our decarbonization efforts, we are transitioning to
             renewable energy (RE) sources. Our strategy includes onsite RE
-            installations and sourcing renewable energy through the government’s
-            existing programs.
+            installations and sourcing renewable energy through the
+            government&apos;s existing programs.
           </p>
           <p>
             We remain committed to increasing our renewable energy capacity,
@@ -228,7 +228,7 @@ function EnergyManagement() {
         </div>
       </div>
       <div className='bg-[url("/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-11.jpg")] bg-cover bg-center bg-no-repeat px-10 py-20'>
-        <div className='w-full md:w-[70%] flex flex-col md:flex-row gap-7 text-white p-6 bg-[#051937]/80 w-fit rounded-2xl'>
+        <div className='w-full md:w-[70%] flex flex-col md:flex-row gap-7 text-white p-6 bg-[#051937]/80 rounded-2xl'>
           <div className='flex-1'>
             <p className='font-bold mb-8'>Existing installed RE:</p>
             <div className='mb-5'>

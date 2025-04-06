@@ -90,7 +90,7 @@ const KeyDriversContent = () => (
 
       {/*Environment*/}
       <div className='mb-6 text-xs'>
-        <h4 className='font-bold mb-1 uppercase mb-4'>Environment</h4>
+        <h4 className='font-bold uppercase mb-4'>Environment</h4>
         <p className='mb-4'>
           We recognize the importance of understanding potential challenges for
           sustained success. Through a robust framework for identifying,

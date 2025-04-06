@@ -37,6 +37,10 @@ export const navItems = [
       },
     ],
   },
+  {
+    name: 'Manila Water Foundation',
+    url: '/creating-shared-values/manila-water-foundation',
+  },
 ];
 
 export const capitals = [
