@@ -31,6 +31,10 @@ export const navItems = [
         name: 'Protecting the Environment',
         url: '/creating-shared-values/our-sustainability-approach/protecting-the-environment',
       },
+      {
+        name: 'Building a Culture of Trust and Care',
+        url: '/creating-shared-values/our-sustainability-approach/building-a-culture',
+      },
     ],
   },
 ];

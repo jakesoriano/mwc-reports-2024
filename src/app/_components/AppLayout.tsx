@@ -3,6 +3,7 @@ import HeroBanner from './HeroBanner';
 import PageNav from './PageNav';
 
 import { NavItem } from '../_constants/navItems';
+import Footer from './Footer';
 
 type Props = {
   children: React.ReactNode;
@@ -30,29 +31,32 @@ function AppLayout({
   fullWidth = false,
 }: Props) {
   return (
-    <main>
-      <HeroBanner
-        title={heroTitle}
-        titleColor={titleColor}
-        bgColor={heroBGColor}
-        bgImage={heroBGImage}
-      />
-      <PageNav navItems={navItems} />
-      <div
-        className={`bg-white page-wrapper bg-cover ${containerBGPosition} bg-no-repeat relative`}
-        style={{ backgroundImage: `url(${containerBG})` }}
-      >
+    <>
+      <main>
+        <HeroBanner
+          title={heroTitle}
+          titleColor={titleColor}
+          bgColor={heroBGColor}
+          bgImage={heroBGImage}
+        />
+        <PageNav navItems={navItems} />
         <div
-          className={`${
-            fullWidth
-              ? 'w-full'
-              : 'sm:max-w-[720px] md:max-w-[960px] lg:max-w-[1140px] mx-auto'
-          } ${paddingClass ?? ''}`}
+          className={`bg-white page-wrapper bg-cover ${containerBGPosition} bg-no-repeat relative`}
+          style={{ backgroundImage: `url(${containerBG})` }}
         >
-          {children}
+          <div
+            className={`${
+              fullWidth
+                ? 'w-full'
+                : 'sm:max-w-[720px] md:max-w-[960px] lg:max-w-[1140px] mx-auto'
+            } ${paddingClass ?? ''}`}
+          >
+            {children}
+          </div>
         </div>
-      </div>
-    </main>
+      </main>
+      <Footer />
+    </>
   );
 }
 

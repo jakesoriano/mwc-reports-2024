@@ -13,7 +13,7 @@ function Header() {
           key={`${item.name}-${index}`}
           className='not-last-of-type:border-b-2 border-gray-500'
         >
-          <Link href={item.url} className='py-4 block'>
+          <Link href={item.url} className='py-3 block'>
             {item.name}
           </Link>
           {item.children && (
