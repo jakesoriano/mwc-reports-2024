@@ -100,6 +100,10 @@ export const navItems: NavItem[] = [
         url: '/our-business-review/east-zone-concession',
       },
       {
+        name: 'Non-East Zone Philippines',
+        url: '/our-business-review/non-east-zone-philippines',
+      },
+      {
         name: 'Our Corporate Governance',
         url: '#',
       },

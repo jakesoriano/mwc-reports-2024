@@ -12,6 +12,7 @@ const DataTable: React.FC<Props> = ({
   headClass,
   hideBorders = false,
   equalColumnsWidth = false,
+  color = 'secondary',
 }) => {
   return (
     <table
@@ -20,7 +21,11 @@ const DataTable: React.FC<Props> = ({
       }`}
     >
       <thead>
-        <tr className='bg-blue text-white'>
+        <tr
+          className={`${
+            color === 'primary' ? 'bg-primary' : 'bg-blue'
+          } text-white`}
+        >
           {columns.map((col) => (
             <th
               key={col.key}
@@ -31,15 +36,19 @@ const DataTable: React.FC<Props> = ({
         </tr>
       </thead>
 
-      <tbody className='border border-blue'>
+      <tbody
+        className={`border ${
+          color === 'primary' ? 'border-primary' : 'border-blue'
+        }`}
+      >
         {data.map((row, rowIndex) => (
           <tr key={rowIndex} className='group'>
             {columns.map((col) => (
               <td
                 key={col.key}
-                className={`px-3 py-1.5 text-gray-600 relative align-top border-blue ${
-                  hideBorders ? '' : 'border'
-                }`}
+                className={`px-3 py-1.5 text-gray-600 relative align-top ${
+                  color === 'primary' ? 'border-primary' : 'border-blue'
+                } ${hideBorders ? '' : 'border'}`}
               >
                 <div dangerouslySetInnerHTML={{ __html: row[col.key] || '' }} />
               </td>
