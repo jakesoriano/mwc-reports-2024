@@ -6,7 +6,7 @@ import Link from 'next/link';
 const InputsContent = () => (
   <div className='flex flex-col gap-y-4 h-full'>
     <Box bgColor='bg-[#D2E9F4]' border='border border-blue'>
-      <h3 className='text-center text-xl uppercase'>Inputs</h3>
+      <h3 className='text-center text-xl uppercase'>Resources<sup>1</sup></h3>
     </Box>
     <Box
       padding='p-0'
@@ -46,8 +46,8 @@ const InputsContent = () => (
       ))}
       <div className='pl-14 pr-4'>
         <Link href='' className='link text-xs'>
-          Watershed Management Report
-        </Link>
+          Watershed Management Report 
+        </Link> <span className='text-[red!important] text-xs'>(TBU)</span>
       </div>
     </Box>
   </div>

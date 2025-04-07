@@ -197,7 +197,7 @@ managed by respective risk owners. With the ERM mindset
 continuously being assimilated into our culture and practices,
 ERM has been embedded in key decision-making processes.
         </p>
-        <h3 className='font-bold mb-4 mt-4'>2024 Risk Assessment</h3>
+        <h3 className='font-bold mb-4 mt-4'>2024 RISK ASSESSMENT</h3>
         <p>
         The Risk Assessment was conducted using both top-down and
 bottom-up approaches to determine the top enterprise risks for
@@ -209,7 +209,7 @@ the effectiveness of mitigation methods and strategies.
         <h3 className='font-bold mb-5 mt-20 text-lg'>
           Top Risks Discussion (Risks and Mitigating Measures)
         </h3>
-        <DashedTable columns={columns} data={riskData} />
+        <DataTable columns={columns} data={riskData} />
       </section>
       <section className='py-10'>
         <h2 className='text-2xl text-secondary font-bold mb-4'>
@@ -234,8 +234,8 @@ responsibilities and authorities are defined in the Risk Committee Charter appro
           <li>
           The Committee had 4 meetings in 2024 attended by all directors.
           </li>
-        </ul>
-        {/* <div className='max-w-[100%] overflow-x-auto'>
+        {/* </ul>
+        <div className='max-w-[100%] overflow-x-auto'>
           <div className='min-w-[500px]'>
             <DataTable
               columns={meetingColumns}
@@ -243,8 +243,8 @@ responsibilities and authorities are defined in the Risk Committee Charter appro
               hideBorders
             />
           </div>
-        </div> */}
-        <ul className='styled-list styled-list-primary mt-4'>
+        </div>
+        <ul className='styled-list styled-list-primary'> */}
           <li>
           The Committee discussed with Management significant risk exposures, the related risk-mitigation efforts and
           initiatives, and the status of the mitigation plans.

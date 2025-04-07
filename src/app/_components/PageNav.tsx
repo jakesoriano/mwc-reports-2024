@@ -41,7 +41,7 @@ function PageNav({ navItems }: Props) {
             >
               <Link
                 href={item.url}
-                className='text-primary font-bold uppercase block p-4'
+                className='text-primary font-bold uppercase block p-4 whitespace-nowrap'
               >
                 {item.name}
               </Link>
@@ -52,7 +52,7 @@ function PageNav({ navItems }: Props) {
       </nav>
       {activeParent && activeParent.children && (
         <nav className='bg-white overflow-x-auto text-sm px-4'>
-          <ul className='flex'>
+          <ul className='flex justify-center'>
             {activeParent.children.map((item) => (
               <li
                 key={item.name}
@@ -62,7 +62,7 @@ function PageNav({ navItems }: Props) {
               >
                 <Link
                   href={item.url}
-                  className='text-secondary font-bold uppercase block p-4'
+                  className='text-secondary font-bold uppercase block p-4 whitespace-nowrap'
                 >
                   {item.name}
                 </Link>

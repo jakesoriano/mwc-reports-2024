@@ -17,7 +17,8 @@ function DeterminingWhatMatters() {
       heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
-        <h1>Determining What Matters</h1>
+        <h1 className='mb-[10px!important]'>Determining What Matters</h1>
+        <p className='text-xs mb-12'>GRI 2021: 3-1, 3-2, 3-3 | IFRS S1</p>
         <ChangingContexts />
       </section>
       <MaterialTopics />

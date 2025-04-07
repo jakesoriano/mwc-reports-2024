@@ -3,7 +3,7 @@ import Image from 'next/image';
 function EnergyManagement() {
   return (
     <section>
-      <h2 className='text-2xl font-bold text-secondary mb-3'>
+      <h2 className='text-2xl font-bold text-secondary mb-3 mt-6'>
         Energy Management
       </h2>
       <p className='text-xs mb-6'>
@@ -149,11 +149,9 @@ function EnergyManagement() {
         </tbody>
       </table>
       <p className='mb-4'>
-        Increased energy consumption and intensity in 2024 resulted from
-        heightened demand-driven production, necessitating the activation of new
-        facilities. The company is now focused on ensuring sustainable supply
-        while managing diverse water parameters and conditions across these
-        locations that contribute to overall higher energy intensity.
+      Over the years, we have implemented a range of energy efficiency initiatives. These include process improvements, the adoption
+of energy-efficient technologies, and targeted capacity-building programs. Our commitment to sustainability drives us to
+continually explore and implement innovative solutions to further enhance our energy performance and support climate action.
       </p>
       <p className='mb-7'>
         Through energy efficiency projects in 2024, the company avoided 4,421 GJ

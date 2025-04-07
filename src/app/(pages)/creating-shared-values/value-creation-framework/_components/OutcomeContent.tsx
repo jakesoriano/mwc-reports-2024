@@ -37,9 +37,14 @@ const OutcomeContent = () => (
                       }`}
                     />
                   )}
-                  <p className={`text-xs ${!data.icon ? 'ml-12' : ''}`}>
+                  {/* <p className={`text-xs ${!data.icon ? 'ml-12' : ''}`}>
                     {data.description}
-                  </p>
+                  </p> */}
+
+                <p
+                  className={`text-xs ${!data.icon ? 'ml-12' : ''}`}
+                  dangerouslySetInnerHTML={{ __html: data.description }}
+                />
                 </div>
               ))}
             </div>

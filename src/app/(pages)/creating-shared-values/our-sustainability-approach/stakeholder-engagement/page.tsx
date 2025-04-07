@@ -18,7 +18,8 @@ function StakeholderEngagement() {
       heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
-        <h1>Stakeholder Engagement</h1>
+        <h1 className='mb-[10px!important]'>Stakeholder Engagement</h1>
+        <p className='text-xs mb-12'>GRI 2-29</p>
         <p>
           Stakeholder engagement is integral to our business strategy and the
           identification of material sustainability issues. Through various

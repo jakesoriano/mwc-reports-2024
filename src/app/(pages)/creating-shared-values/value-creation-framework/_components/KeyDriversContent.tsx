@@ -27,7 +27,7 @@ const KeyDriversContent = () => (
           sizes='100vw'
           className='w-[70%] h-auto mx-auto'
         />
-        <p className='mb-4 text-xs'>
+        <p className='mb-4 text-xs mt-4'>
           Through our Sustainability Framework, we monitor and measure
           performance against operational metrics to create shared, long-term
           value and drive positive impact.
@@ -40,7 +40,7 @@ const KeyDriversContent = () => (
               className='link'
             >
               Our Sustainability Approach
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
           <li>
             <Link
@@ -48,7 +48,7 @@ const KeyDriversContent = () => (
               className='link'
             >
               ESG Performance Data
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
         </ul>
       </div>
@@ -70,12 +70,12 @@ const KeyDriversContent = () => (
           <li>
             <Link href='' className='link'>
               Corporate Policies
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
           <li>
             <Link href='' className='link'>
               Corporate Governance Report
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
           <li>
             <Link
@@ -83,7 +83,7 @@ const KeyDriversContent = () => (
               className='link'
             >
               Determining What Matters
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
         </ul>
       </div>
@@ -102,7 +102,7 @@ const KeyDriversContent = () => (
           <li>
             <Link href='' className='link'>
               TCFD and TNFD on Sustainability Content Index
-            </Link>
+            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
           </li>
         </ul>
       </div>

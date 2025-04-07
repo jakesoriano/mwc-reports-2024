@@ -134,7 +134,7 @@ function ResourceManagement() {
         </div>
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-1.jpg'
+            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-0.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}

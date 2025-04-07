@@ -5,7 +5,7 @@ import { capitals } from '@/app/_constants/sharedValues';
 const CapitalsContent = () => (
   <div className='flex flex-col gap-y-4 h-full'>
     <Box bgColor='bg-[#D2E9F4]' border='border border-blue'>
-      <h3 className='text-center text-xl uppercase'>Capitals</h3>
+      <h3 className='text-center text-xl uppercase'>Capital</h3>
     </Box>
     <Box
       padding='p-0'

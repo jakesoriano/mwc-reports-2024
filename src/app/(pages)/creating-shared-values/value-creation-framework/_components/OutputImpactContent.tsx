@@ -23,7 +23,10 @@ const OutputImpactContent = () => (
               />
             )}
             <div className='flex-1'>
-              <h3 className='text-2xl font-bold'>{item.title}</h3>
+              <h3
+                className={`text-2xl font-bold`}
+                dangerouslySetInnerHTML={{ __html: item.title }}
+              />
               <p
                 className={`font-bold ${!item.icon ? 'ml-12' : ''}`}
                 dangerouslySetInnerHTML={{ __html: item.description }}

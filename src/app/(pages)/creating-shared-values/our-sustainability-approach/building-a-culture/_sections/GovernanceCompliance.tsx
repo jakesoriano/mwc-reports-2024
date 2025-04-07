@@ -3,7 +3,7 @@ import Image from 'next/image';
 function GovernanceCompliance() {
   return (
     <section>
-      <h2 className='text-2xl font-bold text-secondary mb-3'>
+      <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
         Governance and compliance
       </h2>
       <p className='text-xs mb-5'>GRI 2016:418-2; 2021:2-25,2-26</p>
