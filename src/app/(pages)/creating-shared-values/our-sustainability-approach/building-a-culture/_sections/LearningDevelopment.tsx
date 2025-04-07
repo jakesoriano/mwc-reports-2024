@@ -270,7 +270,7 @@ function LearningDevelopment() {
         </div>
       </div>
       <div className='mt-8'>
-        <h3 className='text-lg font-bold mb-8'>Employee engagement</h3>
+        <h3 className='text-lg font-bold mb-8'>Diversity, Equity, and Inclusion</h3>
         <figure className='mb-5 md:px-20'>
           <Image
             src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-12.jpg'

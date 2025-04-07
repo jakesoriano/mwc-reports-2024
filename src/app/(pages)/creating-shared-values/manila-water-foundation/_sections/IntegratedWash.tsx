@@ -12,43 +12,60 @@ function IntegratedWash() {
           className='w-full h-auto'
         />
       </figure>
-      <div className='flex flex-col md:flex-row items-center gap-7'>
-        <div className='flex-1'>
-          <h2 className='text-2xl font-bold text-secondary mb-3'>
+          <h2 className='text-2xl font-bold text-secondary mb-3 mt-8'>
             INTEGRATED WASH
           </h2>
+      <div className='flex flex-col md:flex-row items-top gap-7'>
+        <div className='flex-1'>
           <p className='mb-8'>
-            Manila Water Foundation, with support from valued partners, empower
-            rural communities in their journey towards improved water access,
-            sanitation and hygiene or WASH. In 2024, Manila Water Foundation’s
-            Integrated WASH program made significant strides in Bulacan,
-            Oriental Mindoro, Palawan and Pampanga.
+          Manila Water Foundation empower rural communities in
+their journey towards improved water access, sanitation,
+and hygiene or WASH, with support from valued partners.
+In 2024, Manila Water Foundation’s Integrated WASH
+program made significant strides in Bulacan, Oriental
+Mindoro, Palawan and Pampanga.
           </p>
-          <h3 className='text-xl font-bold text-secondary mb-3'>
-            Empowering Cultural Communities
+          <h3 className='text-lg font-bold text-secondary mb-3'>
+          Empowering Communities, Drop by
+Drop: The Roots to Shoots-Family Care
+Center Project
           </h3>
           <p>
-            The <strong>Roots to Shoots-Family Care Center Project</strong> is a
-            synergy project with Manila Water Foundation, Pilipinas Shell
-            Foundation, and Clark Development Corporation in Mabalacat,
-            Pampanga. The consortium’s goal was to improve the water access for
-            Aeta households by establishing a deep well facility and protect
-            their health
+          In a powerful synergy of purpose, the Manila Water
+Foundation joined forces with Pilipinas Shell Foundation
+and Clark Development Corporation to launch the Roots
+to Shoots-Family Care Center Project in Mabalacat,
+Pampanga. This collaborative endeavor was born from
+a shared vision: to uplift Aeta households by securing
+reliable access to clean water, thereby safeguarding their
+health and well-being.
           </p>
         </div>
         <div className='flex-1'>
-          <p>
-            and well-being. To augment the community's water supply, static
-            water tanks were installed in August 2024 with support from Clark
-            Water. Realizing the link of WASH to nutrition and livelihoods,
-            Manila Water Foundation’s partners provided training sessions for
-            the project components on Food Security and Livelihood and the
-            Mother-and-Child Care components. Manila Water Foundation led the
-            establishment of a WASH group: a community-led leadership council or
-            the future water system stewards. Construction of the deep well
-            began in December 2024. The Roots to Shoots-Family Care Center
-            Project consortium aims to impact 5 local communities with 2,500
-            households in the Aeta cultural community.
+          <p className='mb-4'>
+          A crucial step towards this goal was
+the establishment of a deep well facility. To further bolster
+the community's water resources, static water tanks were
+installed in August 2024, with the generous support
+of Clark Water.
+          </p>
+          <p className='mb-4'>
+          Recognizing the intrinsic link between Water,
+Sanitation, and Hygiene (WASH) and overall community
+flourishing, the Manila Water Foundation and its dedicated
+partners extended their support through comprehensive
+training sessions. These sessions focused on vital
+aspects such as Food Security and Livelihood, as well as
+Mother-and-Child Care, nurturing holistic well-being.
+Demonstrating its commitment to sustainability,
+the Manila Water Foundation spearheaded the formation
+of a vibrant WASH group—a community-led leadership
+council that will serve as the future stewards of their
+water system. With the groundwork laid, construction of
+the deep well commenced in December 2024, marking a
+significant stride towards impacting five local Aeta cultural
+communities, encompassing approximately
+2,500 households.
           </p>
         </div>
       </div>
@@ -63,34 +80,51 @@ function IntegratedWash() {
           />
         </figure>
         <div className='md:columns-2 mt-8 gap-6 px-6'>
+          <h3 className='text-lg font-bold mb-3'>
+          Project Planas: Cultivating Resilience
+Through Water Security
+          </h3>
           <p className='mb-4'>
-            <strong>Project Planas</strong> is another synergy initiative by
-            Manila Water Foundation with Prime Infra Foundation, Inc. It was
-            aimed to close WASH gaps for the Aeta community in the Katutubo
-            Village, Barangay Planas in Porac, Pampanga. A water system was
-            established for the benefit of 257 households of the residents of
-            Sitio Kulambo, Sitio Tanag, and Sitio Magalang. To complement the
-            WASH infrastructure and similar in other WASH community partners,
-            Manila Water Foundation facilitated capacity- building activities to
-            equip and empower community members with knowledge and skills to
-            operate and maintain the water system. The WASH Group members,
-            comprised mostly by Aeta women, are tasked to lead the management
-            and operations of the facility.
+          Another inspiring testament to collaborative impact is
+Project Planas, a synergy initiative spearheaded by the
+Manila Water Foundation in partnership with Prime Infra
+Foundation, Inc. This project was strategically designed
+to bridge critical WASH gaps within the Aeta community
+of Katutubo Village, Barangay Planas in Porac, Pampanga.
+The cornerstone of this initiative was the establishment
+of a vital water system, directly benefiting 257
+households across Sitio Kulambo, Sitio Tanag, and
+Sitio Magalang.
           </p>
           <p className='mb-4'>
-            The Filipina Catholic religious congregation of the Religious of the
-            Virgin Mary (RVM) was a key project partner that provided the
-            permission for the use of the land under which the deep well was
-            established. The Barangay Local Government of Planas also supported
-            the project through policy development and management.
+          Mirroring the holistic approach of other WASH
+community partnerships, the Manila Water Foundation
+facilitated empowering capacity-building activities.
+These sessions equipped community members with
+the essential knowledge and skills to effectively operate
+and maintain their newly established water system.
+Notably, the WASH Group members, predominantly
+comprised of determined Aeta women, have embraced the responsibility of leading the management and
+operations of this vital facility. The project also benefited
+from the invaluable support of the Filipino Catholic
+religious congregation of the Religious of the Virgin Mary
+(RVM), who graciously granted permission for the use
+of the land where the deep well was constructed. The
+Barangay Local Government of Planas further bolstered
+the project through supportive policy development and
+ongoing management.
           </p>
           <p>
-            The Katutubo Village water system was energized last October 2024
-            drawing 300,000 liters of water per day. A conventional water
-            treatment system was installed to ensure that the water is compliant
-            with the PNSWD (Philippine National Standards for Drinking Water). A
-            power reliability function was also installed to ensure steady water
-            availability for the community.
+          A significant milestone was reached in October 2024,
+when the Katutubo Village water system was energized,
+now drawing an impressive 300,000 liters of water per
+day. To ensure the highest standards of water quality,
+a conventional water treatment system was installed,
+guaranteeing compliance with the stringent Philippine
+National Standards for Drinking Water (PNSWD).
+Furthermore, a power reliability function was integrated
+to ensure a consistent and dependable water supply for
+the community, fostering greater resilience and wellbeing.
           </p>
         </div>
       </div>
@@ -110,116 +144,133 @@ function IntegratedWash() {
           </h3>
           <div className='md:columns-2 gap-6'>
             <p className='mb-4'>
-              Manila Water Foundation, in partnership with the MWSS, inaugurated
-              family toilets in Sitio Sapang Munti, within the Ipo Watershed in
-              Norzagaray, Bulacan in November 2024. Thirty (30) sanitation
-              facilities now serve over 500 adults and children living in the
-              Ipo Watershed. The safe and secure toilets are a vital step in
-              eliminating open defecation, protecting the environment, and
-              upholding the dignity of families, particularly young girls. The
-              handover of the family toilets followed the installation of a
-              community potable water system in 2023. At the handover event, the
-              WASH Group of community leaders renewed their pledge of
-              stewardship the Ipo Watershed. Their commitment ensures the
-              continued preservation of the critical water source which serves
-              millions of homes, businesses, and industries across Metro Manila.
+            Manila Water Foundation, in partnership with the MWSS,
+inaugurated family toilets in Sitio Sapang Munti, within
+the Ipo Watershed in Norzagaray, Bulacan in November
+2024. Thirty (30) sanitation facilities now serve over 500
+adults and children living in the Ipo Watershed. The safe
+and secure toilets are a vital step in eliminating open
+defecation, protecting the environment, and upholding
+the dignity of families, particularly young girls.
+            </p>
+            <p className='mb-4'>
+            The handover of the family toilets followed the
+installation of a community potable water system
+in 2023.
+            </p>
+            <p className='mb-4'>
+            At the handover event, the WASH Group of community
+leaders renewed their pledge of stewardship for the
+Ipo Watershed. This initiative is part of the Integrated
+Watershed Management Roadmap for Angat, Ipo and La
+Mesa (IWMRAIL) that is spearheaded by MWSS and which
+intends to ensure the preservation and sustainability of
+the critical watersheds that are vital to water security.
             </p>
           </div>
         </div>
         <div>
-          <h3 className='text-xl font-bold mb-5'>
+          <h3 className='text-xl font-bold mb-5 mt-4'>
             Co-creating empowered communities
           </h3>
           <div className='md:columns-2 gap-6'>
             <p className='mb-4'>
-              Manila Water Foundation’s Linang, the award-winning technical
-              mentorship program on WASH for local water utilities or water
-              operators has reached more regions in 2024. Lingang improved water
-              availability for productivity, health, and championed gender
-              equality.
+            Manila Water Foundation’s Lináng, the award-winning
+technical mentorship program on WASH for local water
+utilities or water operators has reached more regions in
+2024. Lináng improved water availability for productivity,
+health, and championed gender equality.
             </p>
             <p className='mb-4'>
-              Manila Water Foundation was tapped by Malampaya Foundation, to
-              address the critical need for reliable water access in
-              conservation-partner communities in North Palawan, Oriental
-              Mindoro, and Batangas City. MWF provided technical expertise,
-              including water source assessment, engineering design,
-              construction oversight. MWF also facilitated capacity- building
-              sessions for community partners. The trainings highlighted system
-              maintenance, operations, and the development of policies to
-              sustain the WASH infrastructure. The 2024 WASH partnership was
-              projected to benefit an estimate of 6,714 residents in El Nido,
-              Palawan, Pola in Oriental Mindoro, Pinamalayan in Oriental Mindoro
-              and Isla Verde in Batangas City.
+            Manila Water Foundation was tapped by Malampaya
+Foundation, to address the critical need for reliable
+water access in conservation-partner communities in
+North Palawan, Oriental Mindoro, and Batangas City.
+MWF provided technical expertise, including water
+source assessment, engineering design, construction
+oversight. Manila Water Foundation also facilitated
+capacity-building sessions for community partners. The
+trainings highlighted system maintenance, operations,
+and the development of policies to sustain the WASH
+infrastructure.
+            </p>
+            <p className='mb-4'>
+            The 2024 WASH partnership was projected to benefit an
+estimate of 6,714 residents in El Nido, Palawan, Pola in
+Oriental Mindoro, Pinamalayan in Oriental Mindoro and
+Isla Verde in Batangas City.
             </p>
           </div>
         </div>
       </div>
-      <div className='mt-8'>
-        <figure className='mb-5'>
-          <Image
-            src='/images/shared-values/manila-water-foundation/mwf-img-4.jpg'
-            alt='Sitio Sapang Munti'
-            width={0}
-            height={0}
-            className='w-full h-auto'
-          />
-        </figure>
-        <div className='md:columns-2 gap-6'>
-          <p className='mb-4'>
-            Manila Water Foundation, in partnership with the MWSS, inaugurated
-            family toilets in Sitio Sapang Munti, within the Ipo Watershed in
-            Norzagaray, Bulacan in November 2024. Thirty (30) sanitation
-            facilities now serve over 500 adults and children living in the Ipo
-            Watershed. The safe and secure toilets are a vital step in
-            eliminating open defecation, protecting the environment, and
-            upholding the dignity of families, particularly young girls. The
-            handover of the family toilets followed the installation of a
-            community potable water system in 2023. At the handover event, the
-            WASH Group of community leaders renewed their pledge of stewardship
-            the Ipo Watershed. Their commitment ensures the continued
-            preservation of the critical water source which serves millions of
-            homes, businesses, and industries across Metro Manila.
-          </p>
-          <p className='mb-4'>
-            The Fellowship Program successfully connected 20 aspiring women
-            professionals with experienced leaders, strengthened the
-            participants’ capacity to address water sector challenges, and
-            showcased the transformative impact of women leaders. By addressing
-            critical needs and fostering an inclusive leadership environment,
-            this partnership has significantly advanced the shared goal of
-            sustainable community development and environmental stewardship.
-          </p>
-          <p className='mb-4'>
-            The Fellowship Program successfully connected 20 aspiring women
-            professionals with experienced leaders, strengthened the
-            participants&apos; capacity to address water sector challenges, and
-            showcased the transformative impact of women leaders. By addressing
-            critical needs and fostering an inclusive leadership environment,
-            this partnership has significantly advanced the shared goal of
-            sustainable community development and environmental stewardship.
-          </p>
-          <p className='mb-4'>
-            Manila Water Foundation, through the partnership with Angat Buhay
-            Foundation, also provided technical advisement to Metro Naga Water
-            District (MNWD) as it faced increasing demand and challenges posed
-            by rapid population growth in Naga City and in the nearby
-            municipalities it serves. The Linang project with MNWD determined
-            solutions to water supply concerns, optimized its operations, and
-            improved water service delivery.
-          </p>
-          <p className='mb-4'>
-            Water tankers were deployed to Naga City in the second week of
-            September 2024 and remained in the province for three weeks. The
-            water tankers served the municipalities of Gainza, Camaligan, and
-            many barangays in Naga City.
-          </p>
-          <p className='mb-4'>
-            Manila Water Foundation, along with 10 technical volunteers
-            conducted onsite assessments, provided recommendations, and lead the
-            technical learning exchange with MNWD managers, enabling them in
-            their commitment to provide reliable water service.
-          </p>
+      <div className='mt-8 flex flex-col md:flex-row items-top gap-7'>
+        <div className='flex-1'>
+          <figure className='mb-5'>
+            <Image
+              src='/images/shared-values/manila-water-foundation/mwf-img-4-new_1.jpg'
+              alt='Sitio Sapang Munti'
+              width={0}
+              height={0}
+              className='w-full h-auto mb-4'
+            />
+            <Image
+              src='/images/shared-values/manila-water-foundation/mwf-img-4-new_2.jpg'
+              alt='Sitio Sapang Munti'
+              width={0}
+              height={0}
+              className='w-full h-auto mb-4'
+            />
+          </figure>
+        </div>
+        <div className='flex-1'>
+            <p className='mb-4'>
+            In June 2024, Manila Water Foundation, Angat Buhay
+Foundation and the Embassy of the Kingdom of the
+Netherlands launched the Women Champions in the
+Water Sector (WCWS) Fellowship Program. The four-day
+Fellowship tapped aspiring women leaders in the water
+sector by gathering cohorts across the country in a
+knowledge-exchange workshop. Part of the Fellowship
+was a special Lakbayan at the Balara Treatment Plant 2
+and the Marikina North Sewage Treatment Plant, where
+the participants were joined by Atty. Leni Robredo
+and representatives of the Embassy of the Kingdom of
+Netherlands. The following days were filled with
+self-development workshops and insights about the
+various programs and initiatives that address the
+problems in the water sector.
+            </p>
+            <p className='mb-4'>
+            The WCWS connected women participants with subject
+matter experts to discuss project concepts that advance
+the shared goals on sustainable community development
+and environmental stewardship.
+            </p>
+            <p className='mb-4'>
+            Manila Water Foundation, through the partnership
+with Angat Buhay Foundation, also provided technical
+support to Metro Naga Water District (MNWD) as it
+faced increasing demand and challenges posed by
+rapid population growth in Naga City and in the nearby
+municipalities it serves. The Lináng project with MNWD
+collaborated for a common objective to enhance service
+delivery by addressing water supply concerns and
+optimizing operations.
+            </p>
+            <p className='mb-4'>
+            Water tankers were deployed to Naga City for 3 weeks in
+September which served the municipalities of Gainza and
+Camaligan, and barangays in Naga City for the celebration
+of the Peñafrancia Festival.
+            </p>
+            <p className='mb-4'>
+            Manila Water Foundation engaged with 10 Technical
+Volunteers to conduct onsite assessments, provide
+recommendations, and lead the technical learning
+exchange with MNWD managers. This knowledge-sharing
+strengthens MNWD’s commitment to provide efficient
+and reliable water service.
+            </p>
         </div>
       </div>
       <div className='mt-8'>

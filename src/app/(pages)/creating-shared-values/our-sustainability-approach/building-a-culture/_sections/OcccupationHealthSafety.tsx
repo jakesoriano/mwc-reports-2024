@@ -3,7 +3,7 @@ import Image from 'next/image';
 function OcccupationHealthSafety() {
   return (
     <section>
-      <h2 className='text-2xl font-bold text-secondary mb-3'>
+      <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
         Occupational Health and Safety
       </h2>
       <div>
@@ -67,7 +67,7 @@ function OcccupationHealthSafety() {
         </div>
       </div>
       <div>
-        <h3 className='font-bold text-xl mb-4'>Hazard identification</h3>
+        <h3 className='font-bold text-xl mb-4 mt-4'>Hazard identification</h3>
         <p className='text-xs mb-4'>GRI 2018:403-2</p>
         <div className='md:columns-2 mt-8 gap-6'>
           <p className='mb-4'>
@@ -92,7 +92,7 @@ function OcccupationHealthSafety() {
         </div>
       </div>
       <div>
-        <h3 className='font-bold text-xl mb-4'>
+        <h3 className='font-bold text-xl mb-4 mt-4'>
           Health and safety performance
         </h3>
         <p className='text-xs mb-4'>GRI 2018:403-9</p>

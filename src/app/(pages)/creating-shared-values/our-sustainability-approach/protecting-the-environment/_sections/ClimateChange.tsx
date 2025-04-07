@@ -71,7 +71,7 @@ function ClimateChange() {
           />
         </div>
       </div>
-      <p className='mb-4'>
+      <p className='mb-4 mt-6'>
         While we monitor our scope 1 and 2 emissions, we are also part of the
         Philippines accounting of Nationally Determined Contribution,
         particularly on wastewater management. Expanding wastewater coverage and
@@ -86,7 +86,7 @@ function ClimateChange() {
       </p>
 
       <Image
-        src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-12.jpg'
+        src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-14-rev.jpg'
         alt='enhanced sewage and septage treatment'
         width={0}
         height={0}

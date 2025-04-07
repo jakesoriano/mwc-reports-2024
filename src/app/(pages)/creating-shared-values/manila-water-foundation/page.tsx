@@ -8,37 +8,41 @@ import AwardsRecognitions from './_sections/AwardsRecognitions';
 function ManilaWaterFoundation() {
   return (
     <AppLayout
-      heroTitle='MANILA WATER FOUNDATION:<br/>FORMING SYNERGIES WITH DEPTH AND BREADTH'
+      heroTitle='CREATING SHARED VALUES'
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
       heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
-        <h1>Manila Water Foundation</h1>
+        <h1>Manila Water Foundation: Forming Synergies with
+        Depth and Breadth</h1>
         <p className='mb-4'>
           Manila Water Foundation, the social development arm of Manila Water,
           continued to make waves, created synergies and partnerships for water
           access, sanitation and hygiene or WASH.
         </p>
         <p className='mb-4'>
-          In 2024, Manila Water Foundation takes a step forward as it is the new
-          steward of the La Mesa Ecopark in Quezon City. This milestone task
-          will place Manila Water Foundation in the La Mesa Watershed
-          Reservation Multi-sectoral Management Council-Technical Working Group
-          with the Metropolitan Waterworks and Sewerage System (MWSS), the
-          Department of Environment and Natural Resources (DENR), Maynilad and
-          the Quezon City Government. La Mesa Ecopark, considered one of the
-          “last lungs” of Metro Manila, the 33-hectare green space is poised to
-          be an area to inspire climate action while it raises awareness on
-          “biodiverCity”: biodiversity in the city.
+        In 2024, it assumed stewardship of the La Mesa Ecopark in Quezon City,
+marking a significant milestone. This new responsibility places the Foundation
+within the La Mesa Watershed Reservation Multi-sectoral Management
+Council-Technical Working Group, alongside key stakeholders such as the
+Metropolitan Waterworks and Sewerage System (MWSS), the Department
+of Environment and Natural Resources (DENR), Maynilad, and the
+Quezon City Government.
         </p>
-        <p>
-          Manila Water Foundation&apos;s programs with valued partners and in
-          collaboration with Manila Water Business Units has reached more than
-          10M Filipinos. As it celebrates 20 years in 2025, Manila Water
-          Foundation is challenged to continue to implement programs and reach
-          communities with breadth and depth.
+        <p className='mb-4'>
+        The 33-hectare La Mesa Ecopark, often regarded as one of Metro Manila’s
+last remaining green spaces, is poised to become a focal point for inspiring
+climate action and raising awareness about "BiodiverCity"—the importance of
+biodiversity within urban environments.
+        </p>
+        <p className='mb-4'>
+        Leveraging its extensive experience, the Manila Water Foundation, in
+collaboration with Manila Water Business Units and valued partners, has already
+reached over 10 million Filipinos through its various programs. As it celebrates
+20 years in 2025, Manila Water Foundation faces the ongoing challenge to reach
+more communities and implement programs with breadth and depth.
         </p>
       </section>
       <IntegratedWash />

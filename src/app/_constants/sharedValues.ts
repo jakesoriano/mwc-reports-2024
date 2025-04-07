@@ -119,7 +119,7 @@ export const inputs = [
     {
       icon: 'caret-up',
       iconClass: 'text-primary',
-      description: 'Value of PPE2: <strong>Php 193.8 Bn</strong>',
+      description: 'Value of PPE<sup>2</sup>: <strong>Php 193.8 Bn</strong>',
     },
   ],
   '<strong class="text-primary">Governance structure<br/>Corporate policies</strong><br/>Skilled, experienced, and diverse <strong class="text-primary">board directors, executive officers</strong>, and employees, innovation team developing automated, technology-driven systems for increased efficiency',
@@ -163,12 +163,12 @@ export const inputs = [
     {
       icon: 'caret-down',
       iconClass: 'text-red-500',
-      description: 'Water Withdrawal: <strong>778 Mn m3</strong>',
+      description: 'Water Withdrawal: <strong>778 Mn m<sup>3</sup></strong>',
     },
     {
       icon: 'caret-down',
       iconClass: 'text-red-500',
-      description: 'Energy Consumed: <strong>1.0 Mn GJ</strong>',
+      description: 'Energy Consumed<sup>5</sup>: <strong>1.0 Mn GJ</strong>',
     },
   ],
 ];
@@ -177,13 +177,13 @@ export const outputImpact = [
   {
     icon: 'caret-up',
     iconClass: 'text-primary',
-    title: '1,287 Mn m3',
+    title: '1,287 Mn m<sup>3</sup>',
     description: 'Potable Water Delivered',
   },
   {
     icon: 'caret-down',
     iconClass: 'text-red-500',
-    title: '66 Mn m3',
+    title: '66 Mn m<sup>3</sup>',
     description: 'Wastewater Treated',
   },
   {
@@ -195,7 +195,7 @@ export const outputImpact = [
   {
     icon: 'caret-up',
     iconClass: 'text-red-500',
-    title: '211,816 Metric TOns CO2e',
+    title: '211,816 Metric TOns CO<sub>2</sub>e',
     description: 'Scope 1+2 GHG Emissions',
   },
 ];
@@ -254,7 +254,7 @@ export const outcome = [
       {
         icon: 'caret-down',
         iconClass: 'text-red-500',
-        description: 'Customer satisfaction score: 87%',
+        description: 'Customer satisfaction score<sup>3</sup>: 87%',
       },
       {
         icon: 'caret-down',
@@ -301,7 +301,7 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'MWF Individuals Reach: 569,953',
+        description: 'MWF Individuals Reach<sup>4</sup>: 569,953',
       },
       {
         icon: 'caret-up',
@@ -317,7 +317,7 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Incidents of non-compliance: 0 =',
+        description: 'Incidents of non-compliance<sup>6</sup>: 0 =',
       },
       {
         icon: 'caret-up',
@@ -339,7 +339,7 @@ export const outcome = [
         icon: 'caret-up',
         iconClass: 'text-primary',
         description:
-          'CO2e emission avoided thru wastewater treament: 66k Metric Tons CO2e',
+          'CO<sub>2</sub>e emission avoided thru wastewater treament: 66k Metric Tons CO<sub>2</sub>e',
       },
     ],
     images: ['/images/shared-values/value-creation/financial-square.svg'],

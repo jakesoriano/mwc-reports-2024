@@ -33,15 +33,14 @@ on growth, efficient operations and disciplined financial
 management.
             </p>
             <p className='mb-4'>
-            Manila Water increased its revenues by 19% in 2024 to reach
-Php36.6 billion. This growth was supported by the steady
-recovery of consumption in our different service areas, and
-the implemented tariff adjustments in both our East Zone and
-Non-East Zone PH businesses. Coupled with continuing efforts
-to streamline costs and realize operating efficiencies across
-our different business units, consolidated EBITDA increased by
-26% to Php25.9 billion and consequently strengthened EBITDA
-margin by 4 percentage points to 71%.
+            Manila Water increased its revenues 19 percent in 2024
+to Php36.6 billion. This was supported by the recovery of
+consumption in our service areas, and the implemented tariff
+adjustments in both our East Zone and NEZ PH businesses.
+Coupled with continuing efforts to streamline costs and realize
+operating efficiencies, EBITDA increased 26 percent to Php25.9
+billion and strengthened EBITDA margin by 4 percentage
+points to 71 percent.
             </p>
             <p className='mb-4'>
             Consistent with our commitment to disciplined portfolio
@@ -50,40 +49,42 @@ recognized adjustments on several of our investments to reflect
 current market conditions and operating outlook. Specifically,
 we divested our Bulacan business units and generated a gain
 of Php894 million. On the other hand, we recognized full
-impairment on our investment in East Water in Thailand,
-as well as partial impairment of our Saigon Water investment
-in Vietnam.
+impairment on legacy investments in East Water in Thailand, as
+well as partial impairment of our Saigon Water investment in
+Vietnam.
             </p>
           </div>
           <div className='flex-1'>
             <p className='mb-4'>
-            Excluding one-offs, core income grew by 48% to Php14.2
+            Excluding one-offs, core income grew by 48 percent to Php14.2
 billion. In all, Manila Water posted consolidated net income of
-Php10.5 billion for 2024 – the highest in our Company’s
-27-year history.
+Php10.5 billion for 2024 – the highest in our company’s 27-year
+history.
             </p>
             <p className='mb-4'>
             As we are encouraged by these milestone successes, we
 continue to work towards further building up our critical
-infrastructure to ensure reliable service to our customers.
-Notably, for our East Zone Concession, the process proving of
-the Phase 1 of the East Bay Project was completed in October
-2024. This project will provide 50 million liters per day (MLD)
-of treated water, while the larger Phase 2, which is now at 66%
-completion, is designed to supply an additional 200 MLD. These
-new water source projects are a significant component of our
-Service Improvement Plan, which was approved by MWSS
-under its own Water Security Master Plan, to provide sufficient
-water supply for Metro Manila in the coming years.
+infrastructure to ensure reliable service.
+            </p>
+            <p className='mb-4'>
+            Notably, for our East Zone Concession, Phase 1 of the East Bay
+Project is now physically complete. This project will provide 50
+million liters per day (MLD) of treated water, while the larger
+Phase 2, which is now at 66 percent complete, is designed
+to supply an additional 200 MLD. These new projects are a
+significant component of our Service Improvement Plan, which
+was approved by MWSS under its Water Security Master Plan, to
+provide sufficient water supply for Metro Manila in the coming
+years.
             </p>
             <p className='mb-5'>
             I would like to thank our Board and leadership for their
 unwavering commitment to the disciplined execution of our
 strategy. I thank the Manila Water team for their hard work and
-dedication to the path we have charted towards growth.
-Lastly, I thank our shareholders who place their trust in our
-efforts to bring long-term value and contribute to a more
-sustainable future.
+dedication to the path we have charted towards growth. Lastly,
+I thank our shareholders who place their trust in our efforts to
+bring long-term value and contribute to a more sustainable
+future.
             </p>
             <div className='w-fit'>
               <div className='max-w-[140px] mx-auto'>

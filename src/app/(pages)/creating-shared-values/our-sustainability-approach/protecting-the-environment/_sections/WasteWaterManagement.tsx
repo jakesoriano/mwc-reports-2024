@@ -16,7 +16,7 @@ function WasteWaterManagement() {
           aquatic ecosystems. Additionally, it helps reduce greenhouse gas
           emissions by avoiding methane generation in anaerobic conditions.
         </p>
-        <p>
+        <p className='mb-4'>
           As part of our commitment to sustainable water management, we treat
           wastewater before being safely discharged into water bodies. In 2024,
           we operate 79 wastewater treatment facilities, collectively treating
@@ -123,7 +123,7 @@ function WasteWaterManagement() {
             </figure>
           </div>
         </div>
-        <p className='mb-6'>
+        <p className='mb-6 mt-4'>
           In the East Zone, our annual target with the Metropolitan Waterworks
           and Sewerage System (MWSS) is to achieve 100% wastewater coverage
           through a combination of sewer systems and sanitation services,
@@ -137,6 +137,8 @@ function WasteWaterManagement() {
           to 88% by 2047, with the remaining12% achieved through sanitation
           services.
         </p>
+
+        <p className='mb-4 font-bold text-xl'>Ongoing Wastewater Projects</p>
         <Image
           src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-7.jpg'
           alt='helping communities thrive banner'
