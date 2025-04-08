@@ -7,7 +7,9 @@ function Footer() {
       <div className='container mx-auto px-18 py-3 flex gap-7 justify-around items-center flex-col md:flex-row'>
         <ul className='flex gap-2 flex-wrap justify-center'>
           <li className='cursor-pointer border-r border-white pr-2'>
-            About Us
+            <Link href='/about-this-integrated-report'>
+              About this Integrated Report
+            </Link>
           </li>
           <li className='cursor-pointer border-r border-white pr-2'>
             <Link href='/contact-us'>Contact Us</Link>
