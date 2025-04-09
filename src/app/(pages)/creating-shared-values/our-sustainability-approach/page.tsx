@@ -2,7 +2,7 @@ import AppLayout from '@/app/_components/AppLayout';
 import Image from 'next/image';
 import { navItems } from '@/app/_constants/sharedValues';
 import ImageTextCard from '@/app/_components/ImageTextCard';
-import TargetProgress from '@/app/_components/TargetProgress';
+// import TargetProgress from '@/app/_components/TargetProgress';
 import Link from 'next/link';
 import ESGTable from './ESGTable';
 

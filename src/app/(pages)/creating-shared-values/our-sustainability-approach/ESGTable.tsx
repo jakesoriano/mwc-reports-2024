@@ -129,10 +129,12 @@ export default function ESGTable() {
                       <td className='p-3'>{item.status}</td>
                       <td className='p-3 flex gap-1'>
                         {item.sdgs.map((num) => (
-                          <img
+                          <Image
                             key={`sdg-${num}-${idx}`}
                             src={`/images/creating-shared-value/our-sustainability-approach/sdg-${num}.png`}
                             alt={`SDG ${num}`}
+                            width={40}
+                            height={40}
                             className='w-10 h-10 inline-block'
                           />
                         ))}

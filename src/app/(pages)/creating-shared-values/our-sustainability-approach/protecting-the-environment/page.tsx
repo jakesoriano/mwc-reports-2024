@@ -149,12 +149,12 @@ function ProtectingTheEnvironment() {
               The findings revealed that La Mesa Ecopark holds a high
               conservation value in terms of species diversity and cultural
               significance. Of the 220 species documented, 35 (16%) are endemic,
-              and 25 (11%) are classified as threatened. The ecopark's cultural
+              and 25 (11%) are classified as threatened. The ecopark’s cultural
               value is also significant, offering recreational, educational, and
               research opportunities.
             </p>
             <p>
-              To enhance the park's biodiversity, MWF has initiated actions such
+              To enhance the park’s biodiversity, MWF has initiated actions such
               as removing exotic species like mahogany seedlings and replacing
               them with native trees. This approach aims to strengthen the
               ecological balance and support conservation efforts.

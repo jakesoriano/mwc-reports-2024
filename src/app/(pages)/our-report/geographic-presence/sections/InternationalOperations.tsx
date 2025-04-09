@@ -13,7 +13,7 @@ function InternationalOperations() {
           className='w-full h-auto'
         />
       </div>
-      <h2 className='text-2xl text-secondary font-bold'>
+      <h2 className='text-2xl text-secondary font-bold mt-8'>
         International Operations
       </h2>
       <p>Present in ASEAN and Kingdom of Saudi Arabia (KSA)</p>

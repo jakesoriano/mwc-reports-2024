@@ -45,7 +45,7 @@ health and well-being.
           <p className='mb-4'>
           A crucial step towards this goal was
 the establishment of a deep well facility. To further bolster
-the community's water resources, static water tanks were
+the community’s water resources, static water tanks were
 installed in August 2024, with the generous support
 of Clark Water.
           </p>
@@ -302,15 +302,6 @@ and reliable water service.
             Manila Water Foundation, with valued partners brought and handed
             over packaged water from Maris Pure Corporation, hygiene and home
             care products from Procter & Gamble Philippines.
-          </p>
-          <p className='mb-4'>
-            Manila Water Foundation, through the partnership with Angat Buhay
-            Foundation, also provided technical advisement to Metro Naga Water
-            District (MNWD) as it faced increasing demand and challenges posed
-            by rapid population growth in Naga City and in the nearby
-            municipalities it serves. The Linang project with MNWD determined
-            solutions to water supply concerns, optimized its operations, and
-            improved water service delivery.
           </p>
           <p className='mb-4'>
             In the aftermath of the devastating typhoons in 2024: Typhoon Carina

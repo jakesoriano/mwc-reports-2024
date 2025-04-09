@@ -90,7 +90,7 @@ function WashInterventions() {
             schools increased from 193 to 228, benefiting 9,660 students,
             teachers, and non-teaching staff. With new hygiene facilities, an
             average improvement of 32.65% in access to these essential amenities
-            was achieved. This initiative underscores MWF's commitment to
+            was achieved. This initiative underscores MWF’s commitment to
             promoting health and well-being in educational communities.
           </p>
           <p className='mb-4'>

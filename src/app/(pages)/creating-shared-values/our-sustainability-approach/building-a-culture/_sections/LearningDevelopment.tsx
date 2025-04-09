@@ -134,14 +134,14 @@ function LearningDevelopment() {
         </tbody>
       </table>
       <p className='text-xs italic mb-5'>
-        In 2024, Manila Water's total training data reached 72,555 training
+        In 2024, Manila Water’s total training data reached 72,555 training
         hours, accumulated by 2,819 trained employees, averaging 30 training
         hours per employee.
       </p>
       <p className='mb-4'>
-        Manila Water's learning and development programs are integral to our
+        Manila Water’s learning and development programs are integral to our
         recruitment and retention strategy, ensuring a skilled and engaged
-        workforce. Each employee's training is guided by their Individual
+        workforce. Each employee’s training is guided by their Individual
         Development Plan (IDP), where they define personal goals and
         aspirations. IDP accomplishment constitutes 10% of the total annual
         performance assessment. In 2024, 100% of employees, including regular
@@ -164,7 +164,7 @@ function LearningDevelopment() {
             <p className='font-bold mb-3'>Core and Leadership Development</p>
             <p>
               Foundational courses on core values, including new hire
-              onboarding, "Living the Values" workshop, Leadership Academy
+              onboarding, &quot;Living the Values&quot; workshop, Leadership Academy
               Yielding Accelerated Growth Program (LAYAG), and online learning
               platform, MW Stream.
             </p>
@@ -223,7 +223,7 @@ function LearningDevelopment() {
             <h4 className='font-bold mb-3'>Employee Volunterism</h4>
             <p className='mb-4'>
               Engagement is key to strong and responsible organization. Pasibol:
-              Puno ng Pag-asa ("Tree of Hope" and "Full of Hope") is an employee
+              Puno ng Pag-asa (&quot;Tree of Hope&quot; and &quot;Full of Hope&quot;) is an employee
               volunteer-driven program that focuses on watershed and tree
               nurturing. In 2024, Pasibol saw strong participation, with 14 tree
               planting activities, 427 employee volunteers contributing 1,692
@@ -280,7 +280,7 @@ function LearningDevelopment() {
             className='w-full h-auto'
           />
           <figcaption className='mt-4 italic text-sm'>
-            Manila Water's DEI efforts recognized at the 2024 Philippines UN
+            Manila Water’s DEI efforts recognized at the 2024 Philippines UN
             Women’s Empowerment Principles Awards – Manila Water Foundation
             earned the Community Engagement and Partnerships Champion, while
             President and CEO Jocot de Dios was the first runner-up for
@@ -290,9 +290,9 @@ function LearningDevelopment() {
       </div>
       <div className='md:columns-2 mt-8 gap-6'>
         <p className='mb-4'>
-          Manila Water's commitment to holistic well-being extends to a strong
+          Manila Water’s commitment to holistic well-being extends to a strong
           focus on diversity, equity, and inclusion (DEI), driven by our #ToDEI
-          Counts initiative. Since 2003, we've actively utilized our
+          Counts initiative. Since 2003, we’ve actively utilized our
           communication platforms to promote education and awareness about
           disability rights, and we continue to champion mental well-being
           through our Professional Friend Program. Gender-sensitivity training
@@ -316,7 +316,7 @@ function LearningDevelopment() {
           partnerships that advance UN SDG 6 (Clean Water and Sanitation) and
           SDG 5 (Gender Equality).
         </p>
-        <h4 className='font-bold mb-4'>Women empowerment</h4>
+        <h4 className='font-bold mb-4'>Employee Communication Channels</h4>
         <p className='mb-4'>
           To maintain strong engagement, we leverage a variety of communication
           platforms to keep everyone informed and connected. These include

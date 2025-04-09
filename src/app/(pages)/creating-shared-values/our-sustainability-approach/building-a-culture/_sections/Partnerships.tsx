@@ -27,18 +27,18 @@ function Partnerships() {
           <div className='flex-1'>
             <p>
               Our flagship environmental advocacy, Toka Toka, exemplifies this
-              principle. Rooted in the Filipino concept of "share" or "stake,"
+              principle. Rooted in the Filipino concept of &quot;share&quot; or &quot;stake,&quot;
               Toka Toka establishes vital partnerships with institutions and
               individuals, promoting personal accountability and environmental
               stewardship. From simple acts like waste segregation to complex
               undertakings like supporting used water projects, Toka Toka
               empowers communities to actively participate in environmental
-              protection. Its success is evident in initiatives like "Amot Amot
-              Para Sa Malimpyong Boracay" in Boracay Water, which tailors the
+              protection. Its success is evident in initiatives like &quot;Amot Amot
+              Para Sa Malimpyong Boracay&quot; in Boracay Water, which tailors the
               Toka Toka concept to local dialects and tourism-focused
-              environmental concerns. The 2024 "ToKasangga" event further
+              environmental concerns. The 2024 &quot;ToKasangga&quot; event further
               strengthens these partnerships, recognizing the invaluable
-              contributions of our "Kasanggas" (partners) and barangay achievers
+              contributions of our &quot;Kasanggas&quot; (partners) and barangay achievers
               in achieving water access and sanitation for all.
             </p>
           </div>
@@ -49,17 +49,17 @@ function Partnerships() {
           <h3 className='font-bold text-xl mb-4'>Supply chain</h3>
           <p className='mb-4'>
             Our flagship environmental advocacy, Toka Toka, exemplifies this
-            principle. Rooted in the Filipino concept of "share" or "stake,"
+            principle. Rooted in the Filipino concept of &quot;share&quot; or &quot;stake,&quot;
             Toka Toka establishes vital partnerships with institutions and
             individuals, promoting personal accountability and environmental
             stewardship. From simple acts like waste segregation to complex
             undertakings like supporting used water projects, Toka Toka empowers
             communities to actively participate in environmental protection. Its
-            success is evident in initiatives like "Amot Amot Para Sa Malimpyong
-            Boracay" in Boracay Water, which tailors the Toka Toka concept to
+            success is evident in initiatives like &quot;Amot Amot Para Sa Malimpyong
+            Boracay&quot; in Boracay Water, which tailors the Toka Toka concept to
             local dialects and tourism-focused environmental concerns. The 2024
-            "ToKasangga" event further strengthens these partnerships,
-            recognizing the invaluable contributions of our "Kasanggas"
+            &quot;ToKasangga&quot; event further strengthens these partnerships,
+            recognizing the invaluable contributions of our &quot;Kasanggas&quot;
             (partners) and barangay achievers in achieving water access and
             sanitation for all.
           </p>
@@ -164,20 +164,20 @@ function Partnerships() {
         <div className='flex flex-col-reverse md:flex-row gap-7 justify-center items-center mt-10 md:text-right'>
           <div className='flex-1'>
             <h3 className='font-bold text-lg mb-4'>
-              MWF's Expertise to Guide La Mesa Ecopark's Future
+              MWF’s Expertise to Guide La Mesa Ecopark’s Future
             </h3>
             <p className='text-xs mb-4'>June 29, 2024</p>
             <p className='mb-4'>
               MWF, in partnership with MWSS and the Quezon City government, is
               now managing the La Mesa Ecopark. Its foresters are dedicated to
-              using their knowledge and expertise to ensure the park's
+              using their knowledge and expertise to ensure the park’s
               sustainable future.
             </p>
           </div>
           <figure className='flex-1'>
             <Image
               src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-22.jpg'
-              alt="MWF's Expertise to Guide La Mesa Ecopark's Future"
+              alt="MWF’s Expertise to Guide La Mesa Ecopark’s Future"
               width={0}
               height={0}
               className='w-full h-auto'

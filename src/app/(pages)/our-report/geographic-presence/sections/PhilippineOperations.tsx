@@ -3,7 +3,7 @@ import React from 'react';
 function PhilippineOperations() {
   return (
     <section className='mb-12'>
-      <h2 className='text-2xl text-secondary font-bold'>
+      <h2 className='text-2xl text-secondary font-bold mt-8'>
         Philippine Operations
       </h2>
       <p>Market presence with operations across the Philippines</p>

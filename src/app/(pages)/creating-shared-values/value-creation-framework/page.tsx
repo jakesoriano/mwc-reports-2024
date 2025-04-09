@@ -9,7 +9,7 @@ import React from 'react';
 import CapitalsContent from './_components/CapitalsContent';
 import InputsContent from './_components/InputsContent';
 import KeyDriversContent from './_components/KeyDriversContent';
-import Link from 'next/link';
+// import Link from 'next/link';
 import OutputImpactContent from './_components/OutputImpactContent';
 import OutcomeContent from './_components/OutcomeContent';
 

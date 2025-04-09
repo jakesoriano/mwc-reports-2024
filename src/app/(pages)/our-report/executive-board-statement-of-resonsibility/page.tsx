@@ -27,7 +27,7 @@ function ExecutiveBoardStatementOfResonsibility() {
           disclosures and subjected them to an external assurance audit to
           ensure completeness, accuracy, and transparency. Manila Water engaged
           BSI Group Philippines, Inc. (BSI), an external assurance provider, to
-          validate the report's key economic, environmental, social, and
+          validate the report’s key economic, environmental, social, and
           governance disclosures. This assurance process affirms that the data
           and narratives presented in the report objectively and accurately
           represent the Company’s business practices.

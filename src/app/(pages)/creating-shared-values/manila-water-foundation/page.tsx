@@ -34,7 +34,7 @@ Quezon City Government.
         <p className='mb-4'>
         The 33-hectare La Mesa Ecopark, often regarded as one of Metro Manila’s
 last remaining green spaces, is poised to become a focal point for inspiring
-climate action and raising awareness about "BiodiverCity"—the importance of
+climate action and raising awareness about &quot;BiodiverCity&quot;—the importance of
 biodiversity within urban environments.
         </p>
         <p className='mb-4'>

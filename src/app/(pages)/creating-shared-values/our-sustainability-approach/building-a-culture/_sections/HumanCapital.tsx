@@ -114,7 +114,7 @@ function HumanCapital() {
               reflecting the dedication of our employees, many of whom have
               contributed an average of 20 years of service to Manila Water. We
               deeply value their contributions and offer a comprehensive
-              retirement plan. This includes one month's salary for every year
+              retirement plan. This includes one month’s salary for every year
               of service for employees aged 60 with at least five years of
               tenure, and early retirement options are available at age 50 with
               at least ten years of service.
@@ -184,12 +184,12 @@ function HumanCapital() {
           <p className='mb-4'>
             In 2024, Manila Water formalized its commitment to global
             sustainability and responsible business practices by joining the
-            United Nations Global Compact (UNGC). As the world's largest
+            United Nations Global Compact (UNGC). As the world’s largest
             corporate sustainability initiative, the UNGC connects over 20,000
             companies across the globe, promoting the adoption of sustainable
             and socially responsible policies. In aligning our operations and
-            strategies with the UNGC's ten principles— covering human rights,
-            labor, environmental protection, and anti-corruption –we are
+            strategies with the UNGC’s ten principles— covering human rights,
+            labor, environmental protection, and anti-corruption – we are
             reinforcing our dedication to ethical and responsible conduct.
           </p>
           <p>

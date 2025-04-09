@@ -1,5 +1,4 @@
 import AppLayoutNoSubnav from '@/app/_components/AppLayoutNoSubnav';
-import Image from 'next/image';
 import { navItems } from '@/app/_constants/navItems';
 import Link from 'next/link';
 
