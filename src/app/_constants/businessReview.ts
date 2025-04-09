@@ -15,6 +15,10 @@ export const navItems = [
     name: 'Non-East Zone International Businesses',
     url: '/our-business-review/non-east-zone-international',
   },
+  {
+    name: 'Awards & Citations',
+    url: '/our-business-review/awards-citations',
+  },
 ];
 
 export const opsHighlightsCols = [
