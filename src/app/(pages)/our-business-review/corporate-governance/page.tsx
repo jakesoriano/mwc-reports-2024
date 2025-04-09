@@ -2,7 +2,7 @@ import AppLayout from '@/app/_components/AppLayout';
 import Image from 'next/image';
 import DataTable from '@/app/_components/DataTable';
 import Committees from './_sections/Committees';
-import Link from 'next/link';
+// import Link from 'next/link';
 import {
   navItems,
   programsCols,
@@ -14,10 +14,10 @@ import {
 } from '@/app/_constants/businessReview';
 import BoardMeetings from './_sections/BoardMeetings';
 import BoardCompliance from './_sections/BoardCompliance';
-import {
-  stakeholderCols,
-  stakeholdersData,
-} from '@/app/_constants/sharedValues';
+// import {
+//   stakeholderCols,
+//   stakeholdersData,
+// } from '@/app/_constants/sharedValues';
 
 function CorporateGovernance() {
   return (
@@ -59,7 +59,7 @@ function CorporateGovernance() {
             <p className='font-bold mb-2'>Board of Directors</p>
             <p>
               The Company prides itself with its Board of Directors (the
-              "Board"), composed of highly competent individuals with a
+              &quot;Board&quot;), composed of highly competent individuals with a
               collective working knowledge, experience or expertise that is
               relevant to the Company’s industry or sector. The Board provides a
               clear vision towards the formulation of sound corporate
@@ -92,12 +92,12 @@ function CorporateGovernance() {
             <p className='font-bold mb-2'>Board Composition</p>
             <p className='mb-4'>
               The Board has eleven (9) members who are elected by the
-              stockholders during the annual stockholders’ meeting ("ASM"). The
+              stockholders during the annual stockholders’ meeting (&quot;ASM&quot;). The
               Board should have at least three (3) independent directors, or
               such number as to constitute at least one-third of the member of
               the Board, whichever is higher. All nominations to the Board are
               undertaken in accordance with the Manual of Corporate Governance
-              (the "Manual"), By-laws, the Charter of the Board, and the
+              (the &quot;Manual&quot;), By-laws, the Charter of the Board, and the
               existing rules and regulations. Upon receipt of all nominations,
               the Nomination Committee convenes to evaluate the qualifications
               of nominees for election to the Board. In evaluating the nominations, the Nomination Committee

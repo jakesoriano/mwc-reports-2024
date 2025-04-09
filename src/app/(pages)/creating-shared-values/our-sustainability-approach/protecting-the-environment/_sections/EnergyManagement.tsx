@@ -39,13 +39,13 @@ function EnergyManagement() {
             <td align='left' className='py-1 px-4'>
               Fuel, Gigajoules (GJ)
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               178,284.99
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               74,054.64
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               94,813.91
             </td>
           </tr>
@@ -53,13 +53,13 @@ function EnergyManagement() {
             <td align='left' className='py-1 px-4'>
               Electricity, GJ
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               834,013.30
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               888,247.46
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               933,933.29
             </td>
           </tr>
@@ -67,13 +67,13 @@ function EnergyManagement() {
             <td align='left' className='py-1 px-4'>
               Total, GJ
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               1,012,298.29
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               962,302.10
             </td>
-            <td align='left' className='py-1 px-4'>
+            <td align='left' className='py-1 px-4 text-sm md:text-base'>
               1,028,747.20
             </td>
           </tr>

@@ -1,8 +1,8 @@
 import Box from '@/app/_components/Box';
-import ImageTextCard from '@/app/_components/ImageTextCard';
+// import ImageTextCard from '@/app/_components/ImageTextCard';
 import Link from 'next/link';
 import Image from 'next/image';
-import { coreValues } from '@/app/_constants/ourReport';
+// import { coreValues } from '@/app/_constants/ourReport';
 
 const KeyDriversContent = () => (
   <div className='flex flex-col gap-y-4 h-full'>

@@ -279,7 +279,7 @@ function BoardCompliance() {
           <p className='mb-4'>
             The Internal Audit (IA) Department conducts an independent,
             objective assurance and consulting activity designed to add value
-            and improve the organization's operations. It helps the organization
+            and improve the organization’s operations. It helps the organization
             accomplish its objectives by bringing a systematic, disciplined
             approach to evaluate and improve the effectiveness of risk
             management, control, and governance processes. The activities of IA
@@ -288,7 +288,7 @@ function BoardCompliance() {
           </p>
           <p className='mb-4'>
             The IA reports to and supports the Audit Committee in the effective
-            discharge of the Committee's oversight roles and responsibilities.
+            discharge of the Committee’s oversight roles and responsibilities.
             IA consists of talents and professionals who are either a Certified
             Public Accountant, Electronics and Communication Engineer, and Civil
             Engineer.
@@ -312,9 +312,9 @@ function BoardCompliance() {
             (3) Code of Ethics; and (4) International Standards for the
             Professional Practice of Internal Auditing. In November 2022, the
             external auditing firm Punongbayan & Araullo conducted an
-            independent validation of the internal audit function's Quality
+            independent validation of the internal audit function’s Quality
             Assessment Review and concurred that the internal audit activity
-            "Generally Conforms" to IPPF. The Standards require that the external assessment be conducted at least
+            &quot;Generally Conforms&quot; to IPPF. The Standards require that the external assessment be conducted at least
             once every five (5) years, thus the next one will be performed in
             2027.
           </p>
@@ -366,10 +366,10 @@ function BoardCompliance() {
           </p>
           <p className='mb-4'>
             The corporate governance policy of Manila Water is primarily
-            contained in its Manual of Corporate Governance (the "Manual"). The
-            Company's corporate governance framework is based on the principles
+            contained in its Manual of Corporate Governance (the &quot;Manual&quot;). The
+            Company’s corporate governance framework is based on the principles
             of accountability, fairness and transparency, and sustainability.
-            The Manual is available for download at the Company's website.
+            The Manual is available for download at the Company’s website.
           </p>
           <p className='mb-4'>
             Manila Water is in full compliance with the code of corporate
@@ -382,7 +382,7 @@ function BoardCompliance() {
             material interest, whether direct or indirect, that they may have in
             any transaction or matter that directly affects the Company. The
             Company commits, at all times, to adequately and timely disclose all
-            material information that could potentially affect Manila Water's
+            material information that could potentially affect Manila Water’s
             share price and such other information that are required to be
             disclosed pursuant to the Securities Regulations Code (SRC) and its
             and its Implementing Rules and Regulations (IRR) and other relevant
@@ -401,7 +401,7 @@ voluntarily disclose any conflict of interest, whether actual or
 potential, upon its occurrence. The disclosure of any conflict
 of interest, including related party transactions, is required to
 be made fully and immediately. In cases where related party
-transactions exist, it is the Company's policy that complete
+transactions exist, it is the Company’s policy that complete
 information on such transaction be immediately disclosed,
 and, if a director or officer is involved, the director or officer
 concerned shall not be allowed to participate in the decisionmaking
@@ -411,7 +411,7 @@ be required to resign, or if the Board deems appropriate, be
 removed as a member of the Board.
           </p>
           <p className='mb-4'>
-            The Company's Manual is continuously being revised in accordance
+            The Company’s Manual is continuously being revised in accordance
             with the directives and issuances of the SEC and to comply with the
             highest standards of corporate governance. The Manual was last
             amended on November 30, 20228.
@@ -420,12 +420,12 @@ removed as a member of the Board.
         <div className='flex-1'>
           <h3 className='text-lg font-bold mb-3 mt-8'>Related Party Transactions</h3>
           <p className='mb-4'>
-            To further instill the Company's policies on related party
+            To further instill the Company’s policies on related party
             transactions, the Board adopted the Policy on Related Party
-            Transactions (the "RPT Policy"). The RPT Policy confirms that the
+            Transactions (the &quot;RPT Policy&quot;). The RPT Policy confirms that the
             Company and its subsidiaries shall enter into any related party
             transactions solely in the ordinary course of business, on ordinary
-            commercial terms, and on the basis of arm's length arrangements,
+            commercial terms, and on the basis of arm’s length arrangements,
             which shall be subject to appropriate corporate approvals and
             actions of the Company or the related parties, as the case may be.
           </p>
@@ -435,7 +435,7 @@ removed as a member of the Board.
             regulations, and the RPT Policy. Related party transactions entered
             into by the Company with one or more of its directors or officers
             are voidable at the option of the Company, unless the transaction is
-            deemed fair and reasonable under the circumstances and at arm's
+            deemed fair and reasonable under the circumstances and at arm’s
             length, and the procedure for the procurement and approval for
             similar transactions was strictly complied with.
           </p>
@@ -467,7 +467,7 @@ removed as a member of the Board.
             The Code of Business Conduct and Ethics
           </h3>
           <p className='mb-4'>
-            The Company's commitment to the highest standards of ethics, good
+            The Company’s commitment to the highest standards of ethics, good
             governance, competence, and integrity was institutionalized through
             the Code of Business Conduct and Ethics. The Code sets forth the
             standards for professional and ethical behavior, as well as
@@ -479,7 +479,7 @@ removed as a member of the Board.
           </p>
           <p className='mb-4'>
             The Code addresses the issues and relationships between and among
-            the Company's directors, officers and employees, and its customers,
+            the Company’s directors, officers and employees, and its customers,
             contractors, subcontractors, consultants, service providers,
             suppliers, business partners, government offices, other
             stakeholders, and any other parties (including individuals,
@@ -609,7 +609,7 @@ removed as a member of the Board.
             household as the directors and key officers who have direct or
             indirect knowledge, from time to time, of material facts or changes in the affairs of the Company, which
             have not been disclosed to the public, including any information
-            likely to affect the market price of the Company's shares, shall:
+            likely to affect the market price of the Company’s shares, shall:
           </p>
           <ul className='pl-6 mb-4'>
             <li>
@@ -699,7 +699,7 @@ practices.
             The Code of Business Conduct and Ethics
           </h3>
           <p className='mb-4'>
-            The Company's commitment to the highest standards of ethics, good
+            The Company’s commitment to the highest standards of ethics, good
             governance, competence, and integrity was institutionalized through
             the Code of Business Conduct and Ethics. The Code sets forth the
             standards for professional and ethical behavior, as well as
@@ -711,7 +711,7 @@ practices.
           </p>
           <p className='mb-4'>
             The Code addresses the issues and relationships between and among
-            the Company's directors, officers and employees, and its customers,
+            the Company’s directors, officers and employees, and its customers,
             contractors, subcontractors, consultants, service providers,
             suppliers, business partners, government offices, other
             stakeholders, and any other parties (including individuals,
@@ -1027,9 +1027,9 @@ practices.
           <p className='mb-4'>
             The Board should encourage active stockholder participation by
             making the result of the votes taken during the most recent Annual
-            or Special Stockholders' Meeting publicly available the next working
+            or Special Stockholders’ Meeting publicly available the next working
             day. In addition, the Minutes of the Annual and Special
-            Stockholders' Meeting should be made available to the public through the Company website within five (5) business
+            Stockholders’ Meeting should be made available to the public through the Company website within five (5) business
             days from the end of the meeting. The draft minutes of the 2024
             Annual Stockholders Meeting was posted on the Company’s website on
             May 3, 2024.

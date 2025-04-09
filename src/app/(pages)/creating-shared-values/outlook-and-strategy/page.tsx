@@ -16,12 +16,12 @@ function OutlookAndStrategy() {
         <h1>Outlook and Strategy</h1>
         <h3 className='font-bold mb-1'>Purpose and Aspiration</h3>
         <p className='mb-4'>
-        In the past 27 years, we have excelled in providing quality
+        In the past 26 years, we have excelled in providing quality
 water and environmental services tailored to the communities
 we serve. We have embraced our purpose of “better lives
 and resilient economies through the provision of critical
 infrastructure”. Our mission and vision has continually propelled
-us into an exceptional performance in 2024 anchored on our
+us into an exceptional performance in 2023 anchored on our
 drive to exude our corporate values.
         </p>
         <h3 className='font-bold mb-1'>Growth and Geography</h3>

@@ -46,7 +46,7 @@ function Header() {
   );
 
   return (
-    <header className='lg:bg-linear-[white,transparent] z-10'>
+    <header className='bg-linear-[white,transparent] z-10'>
       <div className='hidden lg:block'>
         <Topbar />
       </div>

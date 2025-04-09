@@ -14,7 +14,7 @@ function AwardsCitations() {
         
         <h1 className='text-2xl font-bold text-secondary'>Awards & Citations</h1>
         <p className='mb-8'>
-          Manila Water's accomplishments are a tribute to the leadership and
+          Manila Water’s accomplishments are a tribute to the leadership and
           vision of the company’s management, the dedication of a strong
           workforce, and the partnerships with various stakeholders, all of
           which work towards a common goal of improving not just the quality of
@@ -41,7 +41,7 @@ function AwardsCitations() {
             <ul className='styled-list styled-list-secondary mb-4'>
               <li className='m-1'>
                 2023 Special Award in Energy Efficiency Excellence to Boracay
-                Water's "Waves of Change" Program, Energy Efficiency Excellence
+                Water’s &quot;Waves of Change&quot; Program, Energy Efficiency Excellence
                 Awards (EEE), Department of Energy (DOE)
               </li>
               <li className='m-1'>
@@ -74,12 +74,12 @@ function AwardsCitations() {
                 CEO Awards
               </li>
               <li className='m-1'>
-                2023 Bronze Awards for "WASH in Pandemic," "#SafeWASH in
-                Schools," and "WASH O’clock", Healthy Pilipinas Awards for
+                2023 Bronze Awards for &quot;WASH in Pandemic,&quot; &quot;#SafeWASH in
+                Schools,&quot; and &quot;WASH O’clock&quot;, Healthy Pilipinas Awards for
                 Partners, Department of Health (DOH)
               </li>
               <li className='m-1'>
-                2023 Best Branded Photo for Manila Water Foundation's Philippine
+                2023 Best Branded Photo for Manila Water Foundation’s Philippine
                 Campaign Celebrations of the World Oral Health Day, 2023 World
                 Oral Health Day Awards
               </li>
@@ -110,37 +110,37 @@ function AwardsCitations() {
             <h3 className='font-bold mb-4'>Communications</h3>
             <ul className='styled-list styled-list-secondary mb-4'>
               <li className='m-1'>
-                2023 Two (2) Silver Anvil Awards for Manila Water’s "BOW: Balita
-                on Wednesdays" and Boracay Water's "H2O: Highland to Ocean"
+                2023 Two (2) Silver Anvil Awards for Manila Water’s &quot;BOW: Balita
+                on Wednesdays&quot; and Boracay Water’s &quot;H2O: Highland to Ocean&quot;
                 Program, 58th Anvil Awards, Public Relations Society of the
                 Philippines (PRSP)
               </li>
               <li className='m-1'>
                 2024 Champion in Community Engagement and Partnerships for
-                Manila Water Foundation's Integrated Water Access, Sanitation,
+                Manila Water Foundation’s Integrated Water Access, Sanitation,
                 and Hygiene (WASH) Program, 2024 United Nations (UN) Women’s
                 Empowerment Principles (WEPs) National (Philippines) Awards
               </li>
               <li className='m-1'>
                 2024 First Runner-up in Leadership Commitment for Manila Water
-                President and Chief Executive Officer JV Emmanuel "Jocot" A. de
+                President and Chief Executive Officer JV Emmanuel &quot;Jocot&quot; A. de
                 Dios, United Nations (UN) Women’s Empowerment Principles (WEPs)
                 National (Philippines) Awards
               </li>
               <li className='m-1'>
                 2024 Second Runner-up in Community Engagement and Partnerships
-                for Manila Water Foundation's Integrated Water Access,
+                for Manila Water Foundation’s Integrated Water Access,
                 Sanitation, and Hygiene (WASH) Program, United Nations (UN)
                 Women’s Empowerment Principles (WEPs) Asia-Pacific Regional
                 Awards
               </li>
               <li className='m-1'>
-                2024 Six (6) Silver Anvil Awards for "UNWAVERING: 25 Years of
-                Exceptional Service" 2022 Integrated Annual and Sustainability
+                2024 Six (6) Silver Anvil Awards for &quot;UNWAVERING: 25 Years of
+                Exceptional Service&quot; 2022 Integrated Annual and Sustainability
                 Report, “UNWAVERING: 25 Years of Exceptional Service” Coffee
-                Table Book, "Climate Change Campaign: Changing the Flow for our
-                Future," Manila Water Foundation’s "Project #SAFEWASH in
-                Schools" and "Light Up to WASHup," 59th Anvil Awards, Public
+                Table Book, &quot;Climate Change Campaign: Changing the Flow for our
+                Future,&quot; Manila Water Foundation’s &quot;Project #SAFEWASH in
+                Schools&quot; and &quot;Light Up to WASHup,&quot; 59th Anvil Awards, Public
                 Relations Society of the Philippines (PRSP)
               </li>
               <li className='m-1'>

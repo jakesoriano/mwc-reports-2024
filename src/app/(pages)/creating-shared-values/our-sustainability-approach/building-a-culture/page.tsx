@@ -17,7 +17,7 @@ function BuildingACulture() {
       heroBGImage='/images/sustainability-approach-banner.jpg'
     >
       <section>
-        <h1>Building a culture of trust and care</h1>
+        <h1>Building a Culture of Trust and Care</h1>
 
         <figure>
           <Image
@@ -33,7 +33,7 @@ function BuildingACulture() {
         <p className='text-xs mb-6'>GRI 2021:3-3</p>
 
         <p className='mb-4'>Manila Water cultivates a culture of care and trust by
-prioritizing its employees' well-being and upholding strong
+prioritizing its employees’ well-being and upholding strong
 ethical principles. We invest in their development and ensure a
 safe, healthy work environment, while maintaining transparent
 and accountable practices.</p>

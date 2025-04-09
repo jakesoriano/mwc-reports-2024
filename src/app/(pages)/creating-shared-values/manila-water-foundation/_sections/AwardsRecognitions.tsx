@@ -17,7 +17,7 @@ function AwardsRecognitions() {
           between Manila Water Foundation and Procter &Gamble Safeguard.
         </li>
         <li className='mb-2'>
-          #SAFEWASH in Schools enhanced the learners' and teachers' access to
+          #SAFEWASH in Schools enhanced the learners’ and teachers’ access to
           hygiene facilities with clean water and soap. Reaching over half a
           million individuals, there are now 285 multi-faucet hand hygiene
           facilities in schools in the National Capital Region and in the

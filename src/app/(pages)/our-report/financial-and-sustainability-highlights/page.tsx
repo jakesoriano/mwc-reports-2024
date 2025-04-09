@@ -6,7 +6,7 @@ import ContentCarousel from '@/app/_components/ContentCarousel';
 
 
 function FinancialSustainability() {
-  const contents = [
+  const contentsLarge = [
     <Image
       src='/images/our-report/financial-sustainability-highlights/fsHighlights-1.jpg'
       alt='financial and sustainability highlights 1'
@@ -25,6 +25,25 @@ function FinancialSustainability() {
       className='w-full h-auto'
     />,
   ];
+  const contentsSmall = [
+    <Image
+      src='/images/our-report/financial-sustainability-highlights/fsHighlights-1_mobile.jpg'
+      alt='financial and sustainability highlights 1'
+      width={0}
+      height={0}
+      sizes='100vw'
+      className='w-full h-auto'
+    />,
+
+    <Image
+      src='/images/our-report/financial-sustainability-highlights/fsHighlights-2_mobile.jpg'
+      alt='financial and sustainability highlights 2'
+      width={0}
+      height={0}
+      sizes='100vw'
+      className='w-full h-auto'
+    />,
+  ];
   return (
     <AppLayout
       heroTitle='Our Report'
@@ -35,7 +54,12 @@ function FinancialSustainability() {
       paddingClass='p-0'
       fullWidth
     >
-      <ContentCarousel contents={contents} />
+      <div className='hidden lg:block'>
+        <ContentCarousel contents={contentsLarge} />
+      </div>
+      <div className='block lg:hidden'>
+        <ContentCarousel contents={contentsSmall} />
+      </div>
     </AppLayout>
   );
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroBanner from './HeroBanner';
-import PageNav from './PageNav';
+// import PageNav from './PageNav';
 
 import { NavItem } from '../_constants/navItems';
 import Footer from './Footer';
@@ -24,7 +24,7 @@ function AppLayoutNoSubnav({
   titleColor,
   heroBGColor,
   heroBGImage,
-  navItems,
+  // navItems,
   containerBG = 'bg-center',
   containerBGPosition,
   paddingClass = 'py-32 px-6',

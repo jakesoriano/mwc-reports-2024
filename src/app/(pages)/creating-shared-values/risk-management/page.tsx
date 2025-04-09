@@ -2,13 +2,13 @@ import {
   navItems,
   columns,
   riskData,
-  meetingColumns,
-  meetingData,
+  // meetingColumns,
+  // meetingData,
 } from '@/app/_constants/sharedValues';
 import Image from 'next/image';
 import AppLayout from '@/app/_components/AppLayout';
 import React from 'react';
-import DashedTable from '@/app/_components/DashedTable';
+// import DashedTable from '@/app/_components/DashedTable';
 import DataTable from '@/app/_components/DataTable';
 
 function RiskManagement() {
@@ -255,7 +255,7 @@ responsibilities and authorities are defined in the Risk Committee Charter appro
           <li>
           The Committee reviewed the Enterprise Risk Management Process in Manila Water Company, Inc. and is satisfied that
 sufficient risk management systems are in place. Year-end reassessment of top risks was also performed to gauge the
-effectiveness of the Company's mitigation methods and strategies.
+effectiveness of the Company’s mitigation methods and strategies.
           </li>
           <li>
           Initiatives such as risk awareness campaigns, conducting risk management sessions for new hires onboarding and

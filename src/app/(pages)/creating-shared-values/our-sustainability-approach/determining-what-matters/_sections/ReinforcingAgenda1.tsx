@@ -114,7 +114,7 @@ function ReinforcingAgenda1() {
                 </p>
                 <p className='mb-4'>
                   Water and Wastewater Service. We prioritize meeting our
-                  customers' evolving water needs and extending access to our
+                  customers’ evolving water needs and extending access to our
                   services to underserved communities. We achieve this through
                   robust asset management, network improvements, and operational
                   efficiencies, ensuring a sustainable and reliable water supply
