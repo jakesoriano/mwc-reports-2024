@@ -16,8 +16,8 @@ export const navItems = [
     url: '/our-business-review/non-east-zone-international',
   },
   {
-    name: 'Our Corporate Governance',
-    url: '/our-business-review/our-corporate-governance',
+    name: 'Corporate Governance',
+    url: '/our-business-review/corporate-governance',
   },
   {
     name: 'Awards & Citations',

@@ -50,7 +50,7 @@ function BoardCompliance() {
         To determine and measure the effectiveness of the Board of Directors,
         the Company is guided by its Manual on Corporate Governance which is
         available on the Company website:{' '}
-        <Link
+        <Link className='link'
           href='https://www.manilawater.com/corporate-governance/corporate-governance-manual'
           target='_blank'
         >
@@ -70,7 +70,7 @@ function BoardCompliance() {
         comments and/or suggestions is also allotted at the end of the
         Questionnaire.
       </p>
-      <h3 className='text-lg font-bold mb-3'>
+      <h3 className='text-lg font-bold mb-3 mt-8'>
         Office of the Corporate Secretary
       </h3>
       <p className='mb-4'>
@@ -85,7 +85,7 @@ function BoardCompliance() {
         of the corporate governance practices of the Company, especially those
         relevant to and affecting the Board.
       </p>
-      <h3 className='text-lg font-bold mb-3'>The Management</h3>
+      <h3 className='text-lg font-bold mb-3 mt-8'>The Management</h3>
       <p className='mb-4'>
         The Management is primarily responsible in deciding and implementing the
         day-to-day affairs of the Company.
@@ -110,7 +110,7 @@ function BoardCompliance() {
         Risk Officer, the Internal Audit, External Auditor, and the Corporate
         Secretary.
       </p>
-      <h3 className='text-lg font-bold mb-3'>Succession Planning</h3>
+      <h3 className='text-lg font-bold mb-3 mt-8'>Succession Planning</h3>
       <p className='mb-4'>
         The Board, with the assistance of the Remuneration Committee, the
         Nomination Committee, and the Company’s Corporate Human Resources Group,
@@ -152,7 +152,7 @@ function BoardCompliance() {
         </li>
         <li>Coaching and mentoring sessions.</li>
       </ol>
-      <h3 className='text-lg font-bold mb-3'>The Chief Regulatory Officer</h3>
+      <h3 className='text-lg font-bold mb-3 mt-8'>The Chief Regulatory Officer</h3>
       <p className='mb-4'>
         The Chief Regulatory Officer (CRO) shall be appointed by the Board. He
         has general supervision over the regulatory compliance by the Company
@@ -163,7 +163,7 @@ function BoardCompliance() {
         compliance functions shall be coordinated with him.The CRO shall have
         such other responsibilities as the Board may impose upon him.
       </p>
-      <h3 className='text-lg font-bold mb-3'>
+      <h3 className='text-lg font-bold mb-3 mt-8'>
         The Chief Administrative Officer
       </h3>
       <p className='mb-4'>
@@ -177,7 +177,7 @@ function BoardCompliance() {
         The CAO shall have such other responsibilities as the Board may impose
         upon him.
       </p>
-      <h3 className='text-lg font-bold mb-3'>The Chief Operating Officer/s</h3>
+      <h3 className='text-lg font-bold mb-3 mt-8'>The Chief Operating Officer/s</h3>
       <p className='mb-4'>
         The Chief Operating Officer/s (COO) shall be appointed by the Board. The
         Board may appoint two (2) or more COOs as the operational model of the
@@ -185,16 +185,16 @@ function BoardCompliance() {
         functions of the Company. The COOs shall have such other
         responsibilities as the Board may impose upon them.
       </p>
-      <h3 className='text-lg font-bold mb-3'>The Chief Legal Officer</h3>
+      <h3 className='text-lg font-bold mb-3 mt-8'>The Chief Legal Officer</h3>
       <p className='mb-4'>
         The Chief Legal Officer (CLO) shall be appointed by the Board. He
         provides direction on the major legal issues of the Company and
         establishes plans to minimize and manage legal risks. The CLO shall have
         such other responsibilities as the Board may impose upon him.
       </p>
-      <div className='flex flex-col md:flex-row gap-7'>
+      <div>
         <div className='flex-1'>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             The Chief Compliance Officer
           </h3>
           <p className='mb-4'>
@@ -213,7 +213,7 @@ function BoardCompliance() {
             the Company’s Code of Business Conduct and Ethics and the Related
             Party Transactions Policy.
           </p>
-          <h3 className='text-lg font-bold mb-3'>The Chief Risk Officer</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>The Chief Risk Officer</h3>
           <p className='mb-4'>
             The Chief Risk Officer (CRO) oversees the entire risk management
             function and leads the development, implementation, maintenance, and
@@ -223,7 +223,7 @@ function BoardCompliance() {
             in collecting and analyzing key business risk information for
             reporting to the ERMEC and to the BROC.
           </p>
-          <h3 className='text-lg font-bold mb-3'>The Vice Presidents</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>The Vice Presidents</h3>
           <p className='mb-4'>
             The Company shall have such number of Vice Presidents as may be
             required by the operational requirements of the Company. The Vice
@@ -235,7 +235,7 @@ function BoardCompliance() {
             In Manila Water Company, Inc., the Vice Presidents are referred to
             as “Group Directors.”
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             Enterprise Risk Management Department
           </h3>
           <p className='mb-4'>
@@ -248,18 +248,14 @@ function BoardCompliance() {
             Company’s culture and practices, ERM has been embedded in key
             decision-making processes.
           </p>
-          <h3 className='text-lg font-bold mb-3'>The Legal Services Group</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>The Legal Services Group</h3>
           <p className='mb-4'>
             The Legal Services Group (LSG) is the unit tasked to formulate and
             implement the initiatives and policies on good corporate governance.
             It reports on matters of corporate governance directly to the Chief
             Compliance Officer under the supervision of the Corporate Governance
             Committee. The LSG has been active in the continuous conduct of
-            orientation to all Manila Water employees
-          </p>
-        </div>
-        <div className='flex-1'>
-          <p className='mb-4'>
+            orientation to all Manila Water employees 
             and business partners on the Company’s governance policies,
             particularly on matters contained in the Manual of Corporate
             Governance.
@@ -277,7 +273,9 @@ function BoardCompliance() {
             Management on the current and best practices on corporate governance
             in the industry and globally.
           </p>
-          <h3 className='text-lg font-bold mb-3'>The Internal Audit</h3>
+        </div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>The Internal Audit</h3>
           <p className='mb-4'>
             The Internal Audit (IA) Department conducts an independent,
             objective assurance and consulting activity designed to add value
@@ -316,14 +314,7 @@ function BoardCompliance() {
             external auditing firm Punongbayan & Araullo conducted an
             independent validation of the internal audit function's Quality
             Assessment Review and concurred that the internal audit activity
-            "Generally Conforms" to IPPF. The
-          </p>
-        </div>
-      </div>
-      <div className='flex flex-col md:flex-row gap-7'>
-        <div className='flex-1'>
-          <p className='mb-4'>
-            Standards require that the external assessment be conducted at least
+            "Generally Conforms" to IPPF. The Standards require that the external assessment be conducted at least
             once every five (5) years, thus the next one will be performed in
             2027.
           </p>
@@ -335,7 +326,11 @@ function BoardCompliance() {
             Board of Directors during their regular meeting on November 17,
             2022.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Investor Relations Team</h3>
+        </div>
+      </div>
+      <div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Investor Relations Team</h3>
           <p className='mb-4'>
             The Investor Relations Department (IR) keeps the Company’s investors
             and other relevant stakeholders regularly informed of developments
@@ -348,7 +343,7 @@ function BoardCompliance() {
             Company’s Corporate Communications team, press briefings are held as
             necessary to engage other stakeholders, specifically the media.
           </p>
-          <h3 className='text-lg font-bold mb-3'>The Sustainability Officer</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>The Sustainability Officer</h3>
           <p className='mb-4'>
             The Company’s Sustainability Officer monitors and reports on the
             environmental, sustainability, and social impacts of the Company’s
@@ -356,7 +351,7 @@ function BoardCompliance() {
             and initiatives from Management to the Board of Directors through
             the ESG Committee.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             The Corporate Governance Manual
           </h3>
           <p className='mb-4'>
@@ -383,11 +378,7 @@ function BoardCompliance() {
           </p>
           <p className='mb-4'>
             As a key policy, the members of the Board and key executives of the
-            Company are required to disclose to the Board any
-          </p>
-        </div>
-        <div className='flex-1'>
-          <p className='mb-4'>
+            Company are required to disclose to the Board any 
             material interest, whether direct or indirect, that they may have in
             any transaction or matter that directly affects the Company. The
             Company commits, at all times, to adequately and timely disclose all
@@ -404,12 +395,30 @@ function BoardCompliance() {
             material information on its website in a timely manner.
           </p>
           <p className='mb-4'>
+          The directors are required to comply with all disclosure
+requirements of the Manual and the SRC and its IRR, and to
+voluntarily disclose any conflict of interest, whether actual or
+potential, upon its occurrence. The disclosure of any conflict
+of interest, including related party transactions, is required to
+be made fully and immediately. In cases where related party
+transactions exist, it is the Company's policy that complete
+information on such transaction be immediately disclosed,
+and, if a director or officer is involved, the director or officer
+concerned shall not be allowed to participate in the decisionmaking
+process. The policy also mandates that a director who
+has a continuing conflict of interest of a material nature shall
+be required to resign, or if the Board deems appropriate, be
+removed as a member of the Board.
+          </p>
+          <p className='mb-4'>
             The Company's Manual is continuously being revised in accordance
             with the directives and issuances of the SEC and to comply with the
             highest standards of corporate governance. The Manual was last
             amended on November 30, 20228.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Related Party Transactions</h3>
+        </div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Related Party Transactions</h3>
           <p className='mb-4'>
             To further instill the Company's policies on related party
             transactions, the Board adopted the Policy on Related Party
@@ -430,10 +439,6 @@ function BoardCompliance() {
             length, and the procedure for the procurement and approval for
             similar transactions was strictly complied with.
           </p>
-        </div>
-      </div>
-      <div className='flex flex-col md:flex-row gap-7'>
-        <div className='flex-1'>
           <p className='mb-4'>
             The RPT Policy provides for the process of approving related party
             transactions, as well as the implications for violations. In
@@ -454,7 +459,11 @@ function BoardCompliance() {
             Registry, Related Party Transactions, Related Parties, Affiliate,
             Associate, Substantial Stockholder, and Significant Influence.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+        </div>
+      </div>
+      <div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             The Code of Business Conduct and Ethics
           </h3>
           <p className='mb-4'>
@@ -480,19 +489,14 @@ function BoardCompliance() {
             Disclosure; Creditor Rights; Anti-Corruption; and Anti- Sexual
             Harassment.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Honesty and Fair Dealing</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Honesty and Fair Dealing</h3>
           <p className='mb-4'>
             The core principle of the company is to conduct business honestly
             and fairly with its investors, suppliers, contractors, service
             providers, customers, employees, and other third parties. Directors,
             officers, and employees shall act honestly and ethically. They shall
             comply with all applicable laws, rules and regulations, and protect
-            the name and reputation of the
-          </p>
-        </div>
-        <div className='flex-1'>
-          <p className='mb-4'>
-            Company. Directors, officers, and employees shall not engage in any
+            the name and reputation of the Company. Directors, officers, and employees shall not engage in any
             unfair dealing practices, such as taking advantage of anyone through
             abuse of confidential information, manipulation, concealment,
             misrepresentation, or other similar acts. Officers and employees
@@ -514,7 +518,9 @@ function BoardCompliance() {
             Fraudulent or Dishonest Acts are contained in the Whistle blower
             Policy of the Company.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+        </div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             Reporting of Fraudulent or Dishonest Acts (Whistle blower Policy)
           </h3>
           <p className='mb-4'>
@@ -542,8 +548,8 @@ function BoardCompliance() {
           </p>
         </div>
       </div>
-      <p className='text-xs italic'>
-        8 The substantial revisions to the Manual include the option to hold
+      <p className='text-xs italic mb-8'>
+        <sup>8</sup> The substantial revisions to the Manual include the option to hold
         meetings of the Board Committees, the Board of Directors, and
         Stockholders by remote communication; the adoption of a bribery and
         anti-corruption policy; revision of the Qualifications of Independent
@@ -552,9 +558,9 @@ function BoardCompliance() {
         Chief Regulatory Officer, the Chief Administrative Officer, the Chief
         Operating Officer(s), and the Chief Legal Officer.
       </p>
-      <div className='flex flex-col md:flex-row gap-7'>
+      <div>
         <div className='flex-1'>
-          <h3 className='text-lg font-bold mb-3'>Conflict of Interest</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Conflict of Interest</h3>
           <p className='mb-4'>
             The policy prohibits conflict of interest situations involving all
             directors, officers, employees, and their relatives up to the fourth
@@ -577,7 +583,7 @@ function BoardCompliance() {
             correspondingly reported to the Office of the Compliance Officer,
             for appropriate action under the Code.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             Corporate Entertainment and/or Gifts
           </h3>
           <p className='mb-4'>
@@ -587,7 +593,7 @@ function BoardCompliance() {
             business partners, which can be viewed as influencing the manner by
             which an officer or employee may discharge his or her duties.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Insider Trading</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Insider Trading</h3>
           <p className='mb-4'>
             The Company’s Insider Trading Policy prohibits directors, officers,
             and confidential employees from trading in Manila Water shares five
@@ -601,12 +607,7 @@ function BoardCompliance() {
             Company, and members of the immediate families of directors and key
             officers (the “Covered Persons”) who are living in the same
             household as the directors and key officers who have direct or
-            indirect knowledge, from time to time, of
-          </p>
-        </div>
-        <div className='flex-1'>
-          <p className='mb-4'>
-            of material facts or changes in the affairs of the Company, which
+            indirect knowledge, from time to time, of material facts or changes in the affairs of the Company, which
             have not been disclosed to the public, including any information
             likely to affect the market price of the Company's shares, shall:
           </p>
@@ -639,14 +640,16 @@ function BoardCompliance() {
             In alignment with the law, the definition of material nonpublic
             information has been amended.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Disclosure</h3>
+        </div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Disclosure</h3>
           <p className='mb-4'>
             The disclosure policy encourages prompt and adequate disclosure of
             all material facts or changes in the affairs of the Company,
             including any information likely to affect the market price of the
             Company’s shares.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Creditor Rights</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Creditor Rights</h3>
           <p className='mb-4'>
             The policy regarding Creditor Rights institutionalizes the Company’s
             adherence to its loan covenants and agreements for the protection of
@@ -657,16 +660,20 @@ function BoardCompliance() {
             allowed by the material agreements of the Company, but without
             prejudice to vested rights.ights.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Anti-Corruption</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Anti-Corruption</h3>
           <p className='mb-4'>
             The Anti-Corruption Policy strictly prohibits giving and
             facilitating of payments to any private or government officials or
             employees, their agents, or intermediaries, in order to expedite or
-            secure performance of any governmental action, or to gain
+            secure performance of any governmental action, or to gain any perceived or actual favor or advantage from any private
+or government entities. The Company must ensure that it and
+its directors, officers and employees fully comply with the
+laws governing bribes, unlawful payments, and other corrupt
+practices.
           </p>
         </div>
       </div>
-      <div className='flex flex-col md:flex-row gap-7'>
+      {/* <div>
         <div className='flex-1'>
           <p className='mb-4'>
             The RPT Policy provides for the process of approving related party
@@ -775,26 +782,10 @@ function BoardCompliance() {
             legally permissible.
           </p>
         </div>
-      </div>
-      <p className='text-xs italic'>
-        8 The substantial revisions to the Manual include the option to hold
-        meetings of the Board Committees, the Board of Directors, and
-        Stockholders by remote communication; the adoption of a bribery and
-        anti-corruption policy; revision of the Qualifications of Independent
-        Directors to include the requirements in the Company’s legislative
-        franchise; and to update the list of Executive Officers to include the
-        Chief Regulatory Officer, the Chief Administrative Officer, the Chief
-        Operating Officer(s), and the Chief Legal Officer.
-      </p>
-      <div className='flex flex-col md:flex-row gap-7'>
+      </div> */}
+      <div>
         <div className='flex-1'>
-          <p className='mb-4'>
-            any perceived or actual favor or advantage from any private or
-            government entities. The Company must ensure that it and its
-            directors, officers and employees fully comply with the laws
-            governing bribes, unlawful payments, and other corrupt practices.
-          </p>
-          <h3 className='text-lg font-bold mb-3'>Anti-Sexual Harassment</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Anti-Sexual Harassment</h3>
           <p className='mb-4'>
             This policy is included in the Code of Conduct and Discipline. Said
             policy recognizes the Company’s protection of the dignity of its
@@ -802,7 +793,7 @@ function BoardCompliance() {
             harassment shall be dealt with appropriately and in accordance with
             the applicable and all relevant laws, rules, and regulations.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             Diversity in Board Membership
           </h3>
           <p className='mb-4'>
@@ -810,7 +801,7 @@ function BoardCompliance() {
             gender, age, ethnicity, or political, religious, or cultural
             beliefs.
           </p>
-          <h3 className='text-lg font-bold mb-3'>Procurement Policies</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Procurement Policies</h3>
           <p className='mb-4'>
             The objectives of the Procurement Policies are to promote
             transparency in the procurement process, and to afford vendors equal
@@ -821,7 +812,7 @@ function BoardCompliance() {
             for Manila Water are required to strictly comply with its
             Procurement Policies.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             The Vendors’ Code of Conduct
           </h3>
           <p className='mb-4'>
@@ -842,17 +833,12 @@ function BoardCompliance() {
             A copy of the Vendor’s Code of Conduct is downloadable at the
             Company website.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             The Enterprise Risk Management Policy
           </h3>
           <p className='mb-4'>
             Manila Water has established an ERM Program which aims to use a
-            globally accepted approach in managing imminent
-          </p>
-        </div>
-        <div className='flex-1'>
-          <p className='mb-4'>
-            and emerging risks in its internal and external operating
+            globally accepted approach in managing imminent and emerging risks in its internal and external operating
             environments. Under the ERM Program, Manila Water shall
             appropriately respond to risks and manage them in order to increase
             stockholder value and enhance its competitive advantage.
@@ -866,7 +852,9 @@ function BoardCompliance() {
             of the BROC, which transferred the risk oversight and management
             functions to the BROC from the Audit Committee.
           </p>
-          <h3 className='text-lg font-bold mb-3'>
+        </div>
+        <div className='flex-1'>
+          <h3 className='text-lg font-bold mb-3 mt-8'>
             Safety, Health, and Welfare Policy
           </h3>
           <p className='mb-4'>
@@ -917,9 +905,9 @@ function BoardCompliance() {
           </ul>
         </div>
       </div>
-      <div className='flex flex-col md:flex-row gap-7'>
+      <div>
         <div className='flex-1'>
-          <h3 className='text-lg font-bold mb-3'>Stockholder Rights</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Stockholder Rights</h3>
           <p className='mb-4'>
             It is the duty of the directors to promote stockholder rights,
             remove impediments to the exercise of stockholder rights and provide
@@ -932,16 +920,6 @@ function BoardCompliance() {
           </p>
           <p className='italic'>
             Right to Notice of Meetings and Right to Attend Meetings
-          </p>
-          <p className='mb-4'>
-            To promote transparency and goodwill, it is a company policy to
-            encourage the attendance of all its stockholders, including minority
-            and non-controlling, and institutional investors, at the
-            stockholders’ meeting of the Company. The Board should encourage
-            active stockholder participation by sending the Notice of Annual and
-            Special Stockholders’ Meeting with sufficient and relevant
-            information at least twenty-eight (28) days before the scheduled
-            meeting.
           </p>
           <p className='mb-4'>
             To promote transparency and goodwill, it is a company policy to
@@ -987,14 +965,14 @@ function BoardCompliance() {
             the consideration of such other business as may properly come before
             the meeting.
           </p>
-        </div>
-        <div className='flex-1'>
           <p className='mb-4'>
             Furthermore, the Company adheres to Memorandum Circular No. 7-2021
             of the Securities and Exchange Commission which allows stockholders
             holding at least 10% of the outstanding capital stock to request to
             hold a physical meeting.
           </p>
+        </div>
+        <div className='flex-1'>
           <p className='italic'>
             Right to Make Nominations to the Board of Directors
           </p>
@@ -1051,14 +1029,7 @@ function BoardCompliance() {
             making the result of the votes taken during the most recent Annual
             or Special Stockholders' Meeting publicly available the next working
             day. In addition, the Minutes of the Annual and Special
-            Stockholders' Meeting should be made available
-          </p>
-        </div>
-      </div>
-      <div className='flex flex-col md:flex-row gap-7'>
-        <div className='flex-1'>
-          <p className='mb-4'>
-            to the public through the Company website within five (5) business
+            Stockholders' Meeting should be made available to the public through the Company website within five (5) business
             days from the end of the meeting. The draft minutes of the 2024
             Annual Stockholders Meeting was posted on the Company’s website on
             May 3, 2024.
@@ -1070,6 +1041,10 @@ function BoardCompliance() {
             request to submit proposals on items for inclusion in the agenda of
             the meetings of stockholders.
           </p>
+        </div>
+      </div>
+      <div>
+        <div className='flex-1'>
           <p className='italic'>Dividend Rights</p>
           <p className='mb-4'>
             The Company continues its practice of offering its stockholders an

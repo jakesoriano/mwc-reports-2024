@@ -12,7 +12,7 @@ function ManilaWaterFoundation() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/sustainability-approach-banner.jpg'
+      heroBGImage='/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1>Manila Water Foundation: Forming Synergies with

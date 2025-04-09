@@ -57,13 +57,13 @@ function Committees() {
         The Committee held four (4) regular meetings and one (1) special meeting
         in 2024.
       </p>
-      <div className='flex flex-col md:flex-row gap-7'>
-        <div className='flex-1'>
           <div className='overflow-x-auto mb-8'>
             <div className='min-w-[500px]'>
               <DataTable data={auditData} columns={auditCols} />
             </div>
           </div>
+      <div className='flex flex-col md:flex-row gap-7'>
+        <div className='flex-1'>
           <p className='font-bold italic mb-3'>
             The Corporate Governance Committee
           </p>
@@ -109,13 +109,13 @@ function Committees() {
             functions. The Corporate Governance Committee held 1 meeting in
             2024.
           </p>
-        </div>
-        <div className='flex-1'>
           <div className='overflow-x-auto mb-8'>
             <div className='min-w-[500px]'>
               <DataTable data={governanceData} columns={governanceCols} />
             </div>
           </div>
+        </div>
+        <div className='flex-1'>
           <p className='font-bold italic mb-3'>
             The Board Risk Oversight Committee
           </p>
@@ -162,15 +162,15 @@ function Committees() {
             BROC meets every quarter as compared to the semi-annual frequency in
             previous years.
           </p>
-        </div>
-      </div>
-      <div className='flex flex-col md:flex-row gap-7 mt-8'>
-        <div className='flex-1'>
-          <div className='overflow-x-auto mb-8'>
+          <div className='overflow-x-auto mb-8 mt-8'>
             <div className='min-w-[500px]'>
               <DataTable data={boardData} columns={boardCols} />
             </div>
           </div>
+        </div>
+      </div>
+      <div className='flex flex-col md:flex-row gap-7 mt-8'>
+        <div className='flex-1'>
           <p className='font-bold italic mb-3'>
             The Related Party Transactions Committee
           </p>
@@ -211,7 +211,8 @@ function Committees() {
             directors of the Company.
           </p>
           <p className='mb-2'>The RPT Committee held 3 meetings in 2024.</p>
-          <div className='overflow-x-auto'>
+
+          <div className='overflow-x-auto mb-8 mt-8'>
             <div className='min-w-[500px]'>
               <DataTable data={relatedData} columns={relatedCols} />
             </div>
@@ -253,6 +254,22 @@ function Committees() {
               <DataTable data={nomationData} columns={nomationCols} />
             </div>
           </div>
+        </div>
+      </div>
+      <p className='text-xs italic mt-4'>
+        <sup>4</sup> Section 1.1 of the Charter of the Related Party
+        Transactions Committee states that the Committee shall be composed of at
+        least three (3) non-executive directors as members, two (2) of whom
+        shall be independent.
+      </p>
+      <p className='text-xs italic'>
+        <sup>5</sup> Section 1.1 of the Charter of the Related Party
+        Transactions Committee states that the Committee shall be composed of at
+        least three (3) non-executive directors as members, two (2) of whom
+        shall be independent.
+      </p>
+      <div className='flex flex-col md:flex-row gap-7 mt-8'>
+        <div className='flex-1'>
           <p className='font-bold italic mb-3'>
             The Talent and Remuneration Committee
           </p>
@@ -275,22 +292,6 @@ function Committees() {
             environment in which it operates; to determine and approve all
             matters relating to the
           </p>
-        </div>
-      </div>
-      <p className='text-xs italic mt-4'>
-        <sup>4</sup> Section 1.1 of the Charter of the Related Party
-        Transactions Committee states that the Committee shall be composed of at
-        least three (3) non-executive directors as members, two (2) of whom
-        shall be independent.
-      </p>
-      <p className='text-xs italic'>
-        <sup>5</sup> Section 1.1 of the Charter of the Related Party
-        Transactions Committee states that the Committee shall be composed of at
-        least three (3) non-executive directors as members, two (2) of whom
-        shall be independent.
-      </p>
-      <div className='flex flex-col md:flex-row gap-7 mt-8'>
-        <div className='flex-1'>
           <p className='mb-4'>
             remuneration and benefits of the Board and the Company’s officers;
             to evaluate and recommend for Board approval the pertinent
@@ -322,6 +323,8 @@ function Committees() {
               <DataTable data={talentData} columns={talentCols} />
             </div>
           </div>
+        </div>
+        <div className='flex-1'>
           <p className='font-bold italic mb-3'>
             The Environment, Social, and Governance Committee
           </p>
@@ -336,8 +339,6 @@ function Committees() {
             Company serves as the Chairman of the Committee. The ESG Committee
             held 3 meetings in 2024.
           </p>
-        </div>
-        <div className='flex-1'>
           <div className='overflow-x-auto mb-8'>
             <div className='min-w-[500px]'>
               <DataTable data={esgData} columns={esgCols} />
@@ -362,19 +363,6 @@ function Committees() {
               <DataTable data={proxyData} columns={proxyCols} />
             </div>
           </div>
-          <p className='font-bold mb-3'>
-            Corporate Orientation and Corporate Governance Trainings for
-            Directors
-          </p>
-          <p className='mb-4'>
-            The members of the Board are required to regularly attend seminars
-            and conferences to continuously update themselves on the
-            developments in policy, regulations, and standards on good corporate
-            governance. Under the Company’s Manual, the members of the Board are
-            also provided with such resources, trainings, and continuing
-            education to enable each member to actively, independently, and
-            judiciously participate in Board and Committee meetings.
-          </p>
         </div>
       </div>
     </section>

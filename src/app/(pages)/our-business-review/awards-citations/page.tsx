@@ -8,10 +8,11 @@ function AwardsCitations() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/non-east-zone-philippines/nez-img-1.jpg'
+      heroBGImage='/images/our-business-review/east-zone-concession/ezc-img-1.jpg'
     >
       <section>
-        <h1 className='text-center'>Awards & Citations</h1>
+        
+        <h1 className='text-2xl font-bold text-secondary'>Awards & Citations</h1>
         <p className='mb-8'>
           Manila Water's accomplishments are a tribute to the leadership and
           vision of the company’s management, the dedication of a strong
@@ -156,7 +157,7 @@ function AwardsCitations() {
         </div>
       </section>
       <section className='py-10'>
-        <h1 className='text-center text-2xl font-bold text-secondary'>
+        <h1 className='text-2xl font-bold text-secondary'>
           Membership Affiliation
         </h1>
         <div className='flex flex-col md:flex-row gap-7'>
