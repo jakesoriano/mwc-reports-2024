@@ -109,7 +109,7 @@ export const navItems: NavItem[] = [
       },
       {
         name: 'Our Corporate Governance',
-        url: '#',
+        url: '/our-business-review/our-corporate-governance',
       },
       {
         name: 'Awards & Citations',

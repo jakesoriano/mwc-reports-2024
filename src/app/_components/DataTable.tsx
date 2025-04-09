@@ -29,7 +29,9 @@ const DataTable: React.FC<Props> = ({
           {columns.map((col) => (
             <th
               key={col.key}
-              className={`px-4 py-2 text-center ${headClass || ''}`}
+              className={`px-4 py-2 ${col.align ? col.align : 'text-center'} ${
+                headClass || ''
+              }`}
               dangerouslySetInnerHTML={{ __html: col.label }}
             />
           ))}
