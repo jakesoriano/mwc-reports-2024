@@ -59,7 +59,7 @@ function Header() {
           <div key={item.name} className='flex-1 group relative'>
             <Link
               href={item.url}
-              className='text-white hover:text-black py-8 px-2 uppercase block text-center hover:bg-white bg-(--color-secondary)'
+              className='text-white group-hover:text-black py-8 px-2 uppercase block text-center group-hover:bg-white bg-(--color-secondary)'
             >
               {item.name}
             </Link>
