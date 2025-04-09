@@ -22,17 +22,18 @@ import {
 function CorporateGovernance() {
   return (
     <AppLayout
-      heroTitle='Corporate Governance'
+      heroTitle='Our Business Review'
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
       heroBGImage='/images/our-business-review/corporate-governance/corp-gov-img-1.jpg'
     >
       <section>
-        <h2 className='text-3xl text-secondary font-bold mb-4'>
+        <h1>Corporate Governance</h1>
+        <h2 className='text-2xl text-secondary font-bold mb-4'>
           Overall Governance Structure
         </h2>
-        <p className='mb-4'>
+        <p className='mb-8'>
           Manila Water is dedicated to observing the highest standards of
           corporate governance to serve the best interests of the investing
           public. The Board, the Management and the employees of the Company are
@@ -50,7 +51,7 @@ function CorporateGovernance() {
           width={0}
           className='w-full h-auto'
         />
-        <div className='flex flex-col md:flex-row gap-x-7 mt-8'>
+        <div className='flex flex-col md:flex-row gap-x-7 mt-10'>
           <div className='flex-1'>
             <h3 className='text-lg font-bold mb-4'>
               Compliance with Leading Practices On Corporate Governance
@@ -73,12 +74,7 @@ function CorporateGovernance() {
               monitoring implementation and corporate performance, and
               overseeing and approving major capital expenditures, acquisitions
               and divestitures, monitoring the effectiveness of our governance
-              practices and making
-            </p>
-          </div>
-          <div className='flex-1'>
-            <p className='mb-4'>
-              changes as needed, selecting, compensating, monitoring and, when
+              practices and making changes as needed, selecting, compensating, monitoring and, when
               necessary, replacing key executives and overseeing succession
               planning, aligning key executive and board remuneration with the
               longer term interests of the Company and its stakeholders,
@@ -88,7 +84,12 @@ function CorporateGovernance() {
               stakeholders, including misuse of corporate assets and abuse in
               related party transactions.
             </p>
-            <p className='font-bold mb-2'>Board of Directors</p>
+          </div>
+          <div className='flex-1'>
+            <p className='mb-4'>
+              
+            </p>
+            <p className='font-bold mb-2'>Board Composition</p>
             <p className='mb-4'>
               The Board has eleven (9) members who are elected by the
               stockholders during the annual stockholders’ meeting ("ASM"). The
@@ -99,19 +100,7 @@ function CorporateGovernance() {
               (the "Manual"), By-laws, the Charter of the Board, and the
               existing rules and regulations. Upon receipt of all nominations,
               the Nomination Committee convenes to evaluate the qualifications
-              of nominees for election to
-            </p>
-          </div>
-        </div>
-        <p className='italic text-xs mt-4'>
-          Ms. Sherisa P. Nuesa, Mr. Cesar A. Buenaventura, Mr. Octavio Victor R.
-          Espiritu, and Mr. Eric Ramon O. Recto are the incumbent independent
-          directors of the Company.
-        </p>
-        <div className='flex flex-col md:flex-row gap-x-7 mt-8'>
-          <div className='flex-1'>
-            <p className='mb-4'>
-              the Board. In evaluating the nominations, the Nomination Committee
+              of nominees for election to the Board. In evaluating the nominations, the Nomination Committee
               adheres to the criteria for selection and the qualifications and
               disqualifications of directors set forth in the Manual, the
               Charter of the Board, the Charter of the Board Committees, the
@@ -135,8 +124,12 @@ function CorporateGovernance() {
               select individuals who will promote diversity in the membership of
               the Board.
             </p>
+          </div>
+        </div>
+        <div className='flex flex-col md:flex-row gap-x-7 mt-8'>
+          <div className='flex-1'>
             <p className='font-bold mb-2'>Independent Directors</p>
-            <p>
+            <p className='mb-4'>
               In compliance with the requirements of the law, the Company’s
               Manual, and the rules and regulations of the SEC, the Company has
               4 independent directors as members of the Board. Under the Manual,
@@ -160,19 +153,26 @@ function CorporateGovernance() {
               water security, water science policy and management, environmental
               science, or any similar field.
             </p>
+          <p className='italic text-xs mt-4 mb-8'>
+            <sup>1</sup> Ms. Sherisa P. Nuesa, Mr. Cesar A. Buenaventura, Mr. Octavio Victor R.
+            Espiritu, and Mr. Eric Ramon O. Recto are the incumbent independent
+            directors of the Company.
+          </p>
             <p className='font-bold mb-2'>Board Committees</p>
-            <p>
-              The Board is supported by several committees, namely: Executive
-              Committee, Audit Committee, Corporate Governance Committee, Board
-              Risk Oversight Committee, ESG Committee,
-            </p>
-          </div>
-          <div className='flex-1'>
             <p className='mb-4'>
               The Board is supported by several committees, namely: Executive
               Committee, Audit Committee, Corporate Governance Committee, Board
-              Risk Oversight Committee, ESG Committee,
+              Risk Oversight Committee, ESG Committee, Related Party Transactions Committee, Nomination Committee,
+and the Talent and Remuneration Committee. These Board
+Committees are required to report to the Board a summary
+of the actions taken on matters submitted to them for
+consideration at subsequent meetings of the Board. Each of the
+Board Committees has its own charter that provides guidance
+on the manner by which its members and the committees
+should exercise their functions and mandates.
             </p>
+          </div>
+          <div className='flex-1'>
             <p className='font-bold mb-2'>The Executive Committee</p>
             <p className='mb-4'>
               The Executive Committee of the Company is composed of five (5)
@@ -205,7 +205,7 @@ function CorporateGovernance() {
                 other committees, if any.
               </li>
             </ul>
-            <p className='mb-4'>
+            <p className='mb-8'>
               The Executive Committee meets as needed and performs such other
               functions as may be properly delegated to it by the Board. The
               Executive Committee did not hold a meeting in 2024.
@@ -229,11 +229,28 @@ function CorporateGovernance() {
               external and internal auditors will function and operate
               independently of the management as required of their function.
             </p>
+          <p className='italic text-xs mt-4 mb-8'>
+            <sup>2</sup> In accordance with Part C of the Charter of the Audit Committee, the Committee shall be composed of at least three (3) non-executive directors as members, majority of
+            whom shall be independent directors, and shall be chaired by an independent director.
+          </p>
           </div>
         </div>
       </section>
       <Committees />
       <section>
+        <p className='font-bold mb-3'>
+          Corporate Orientation and Corporate Governance Trainings for
+          Directors
+        </p>
+        <p className='mb-4'>
+          The members of the Board are required to regularly attend seminars
+          and conferences to continuously update themselves on the
+          developments in policy, regulations, and standards on good corporate
+          governance. Under the Company’s Manual, the members of the Board are
+          also provided with such resources, trainings, and continuing
+          education to enable each member to actively, independently, and
+          judiciously participate in Board and Committee meetings.
+        </p>
         <p className='mb-4'>
           Newly elected members of the Board undergo orientation programs for
           them to have a working knowledge of the statutory and regulatory
@@ -275,7 +292,7 @@ function CorporateGovernance() {
           orientation program and updates are usually given during the regular
           meetings of the Board.
         </p>
-        <p className='mb-4'>
+        <p className='mb-8'>
           These programs notwithstanding, Manila Water encourages its directors
           to attend external trainings, courses or continuing professional
           education programs on corporate governance. The Directors are required
@@ -299,7 +316,7 @@ function CorporateGovernance() {
       <BoardMeetings />
       <BoardCompliance />
       <section>
-        <h3 className='font-bold text-lg mb-3'>
+        <h3 className='font-bold text-lg mb-3 mt-10'>
           Summary of Legal and Beneficial Ownership of the Board, Key Officers,
           and Major Stockholders
         </h3>

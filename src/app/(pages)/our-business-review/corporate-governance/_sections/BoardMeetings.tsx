@@ -74,10 +74,9 @@ function BoardMeetings() {
       <p className='mb-4'>
         During the 2024 Annual Stockholders’ Meeting (ASM) held on April 25,
         2024, and conducted virtually via{' '}
-        <Link className='link' href='https://conveneagm.com/' target='_blank'>
-          https://conveneagm.com/
-        </Link>
-        <span className='italic'>ph/MWCI2024ASM</span>, the Chairman of the
+        <Link className='link' href='https://conveneagm.com/ph/MWCI2024ASM' target='_blank'>
+          https://conveneagm.com/ph/MWCI2024ASM
+        </Link>, the Chairman of the
         Board of Directors, President and CEO of the Company, and the Chairman
         of the Audit Committee along with the other directors and executive
         officers of the Company, were in attendance. Their attendance was duly
@@ -143,13 +142,13 @@ function BoardMeetings() {
         </div>
       </div>
       <p className='text-xs italic'>
-        Inclusive of the remuneration for the NED Meeting
+        <sup>#</sup> Inclusive of the remuneration for the NED Meeting
       </p>
       <p className='text-xs italic'>
-        As executive directors, Messrs. de Dios, Almeda, and Alipio do not
+      <sup>*</sup> As executive directors, Messrs. de Dios, Almeda, and Alipio do not
         receive remuneration for attending Board and Board Committee Meetings.
       </p>
-      <p className='text-xs italic'>**Independent Director</p>
+      <p className='text-xs italic'><sup>**</sup> Independent Director</p>
     </section>
   );
 }
