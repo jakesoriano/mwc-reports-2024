@@ -32,7 +32,7 @@ function Header() {
           key={`${item.name}-${index}`}
           className='not-last-of-type:border-b-2 border-gray-500'
         >
-          <Link href={item.url} className='py-4 block text-inherit' onClick={toggleMenu}>
+          <Link href={item.url} target={item.target} className='py-4 block text-inherit' onClick={toggleMenu}>
             {item.name}
           </Link>
           {item.children && (

@@ -40,15 +40,15 @@ const KeyDriversContent = () => (
               className='link'
             >
               Our Sustainability Approach
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
           <li>
             <Link
-              href='/creating-shared-values/our-sustainability-approach'
+              href='/downloads/ESG-Performance-Data.pdf' target='_blank'
               className='link'
             >
               ESG Performance Data
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
         </ul>
       </div>
@@ -68,14 +68,14 @@ const KeyDriversContent = () => (
         <p>Read more about:</p>
         <ul className='styled-list'>
           <li>
-            <Link href='' className='link'>
+            <Link href='https://www.manilawater.com/corporate-governance/policies' className='link' target='_blank' rel='noopener noreferrer'>
               Corporate Policies
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
           <li>
-            <Link href='' className='link'>
+            <Link href='/our-business-review/corporate-governance' className='link'>
               Corporate Governance Report
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
           <li>
             <Link
@@ -83,7 +83,7 @@ const KeyDriversContent = () => (
               className='link'
             >
               Determining What Matters
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
         </ul>
       </div>
@@ -100,9 +100,9 @@ const KeyDriversContent = () => (
         <p>Read more about:</p>
         <ul className='styled-list'>
           <li>
-            <Link href='' className='link'>
+            <Link href='/downloads/Sustainability-Content-Index.pdf' className='link' target='_blank'>
               TCFD and TNFD on Sustainability Content Index
-            </Link>  <span className='text-[red!important] text-xs'>(TBU)</span>
+            </Link>
           </li>
         </ul>
       </div>

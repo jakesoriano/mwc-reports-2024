@@ -82,7 +82,7 @@ relationships with our stakeholders.'
               <Link
                 className='text-primary'
                 href='https://mediafiles.manilawater.com/legacy/storage/files/22/corporate/ckeditor-files/01%20-%20Sustainability%20Policy.jpg'
-                target='_blank'
+                target='_blank' rel='noopener noreferrer'
               >
                 Sustainability Policy
               </Link>{' '}
@@ -91,7 +91,7 @@ relationships with our stakeholders.'
               <Link
                 className='text-primary'
                 href='https://mediafiles.manilawater.com/legacy/storage/files/9/corporate/ckeditor-files/Climate-Change-Policy.jpg'
-                target='_blank'
+                target='_blank' rel='noopener noreferrer'
               >
                 Climate Change Policy
               </Link>
@@ -99,7 +99,7 @@ relationships with our stakeholders.'
               <Link
                 className='text-primary'
                 href='https://mediafiles.manilawater.com/legacy/storage/files/9/corporate/ckeditor-files/Biodiversity-Policy.jpg'
-                target='_blank'
+                target='_blank' rel='noopener noreferrer'
               >
                 Biodiversity Policy
               </Link>
@@ -107,7 +107,7 @@ relationships with our stakeholders.'
               <Link
                 className='text-primary'
                 href='https://mediafiles.manilawater.com/legacy/storage/files/9/corporate/ckeditor-files/Freedom-of-Association-Policy.jpg'
-                target='_blank'
+                target='_blank' rel='noopener noreferrer'
               >
                 Freedom of Association Policy
               </Link>

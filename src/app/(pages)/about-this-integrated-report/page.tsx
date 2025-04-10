@@ -56,7 +56,7 @@ Standards, Recommendations of the Task Force for Climaterelated
 Financial Disclosures (TCFD), and Recommendations of
 the Task Force for Nature-related Financial Disclosures (TNFD).
 The GRI, SASB, TCFD, and TNFD disclosures that have been
-referred to are in the <Link className='text-primary' href='#' target="_blank">Sustainability Content Index</Link> <span className='text-[red]'>(TBU)</span>.
+referred to are in the <Link className='link' href='/downloads/Sustainability-Content-Index.pdf' target="_blank">Sustainability Content Index</Link>.
 The information contained in this report covers the period from
 January 1 to December 31, 2024.
         </p>
@@ -65,8 +65,8 @@ SyCip Gorres Velayo & Co. (SGV & Co.) is the external auditor
 of the Company’s financial statements, with Djole S. Garcia as
 the lead engagement partner given the required audit partner
 rotation every five years. More information about our audit
-process can be found <Link className='text-primary' href='#' target="_blank">here</Link> <span className='text-[red]'>(TBU)</span>, while our financial statements
-are found <Link className='text-primary' href='#' target="_blank">here</Link> <span className='text-[red]'>(TBU)</span>.
+process can be found <Link className='link' href='/our-business-review/corporate-governance'>here</Link>, while our financial statements
+are found <Link className='link' href='/downloads/2024-Financial-Report.pdf' target="_blank">here</Link>.
         </p>
         <p className='mb-4'><strong>On our sustainability performance</strong><br/>
 Senior management appointed BSI Group Philippines Inc.,
@@ -77,7 +77,7 @@ pertaining to our sustainability performance. This is the
 first time we contracted the services of BSI for this type of
 engagement.
         </p>
-        <p className='mb-4'>The <Link className='text-primary' href='#' target="_blank">Independent Assurance Statement</Link> <span className='text-[red]'>(TBU)</span> validates that the
+        <p className='mb-4'>The <Link className='link' href='/downloads/Independent-Assurance-Opinion-Statement.pdf' target="_blank">Independent Assurance Statement</Link> validates that the
 report is in reference to the GRI and SASB Standards, as well
 the TCFD Recommendations. It guarantees the shareholders
 and readers of the reliability of the reviewed data, claims, and

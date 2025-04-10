@@ -74,7 +74,7 @@ function BoardMeetings() {
       <p className='mb-4'>
         During the 2024 Annual Stockholders’ Meeting (ASM) held on April 25,
         2024, and conducted virtually via{' '}
-        <Link className='link' href='https://conveneagm.com/ph/MWCI2024ASM' target='_blank'>
+        <Link className='link' href='https://conveneagm.com/ph/MWCI2024ASM' target='_blank' rel='noopener noreferrer'>
           https://conveneagm.com/ph/MWCI2024ASM
         </Link>, the Chairman of the
         Board of Directors, President and CEO of the Company, and the Chairman

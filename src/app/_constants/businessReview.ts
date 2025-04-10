@@ -2,26 +2,32 @@ export const navItems = [
   {
     name: 'Consolidated Performance',
     url: '/our-business-review/consolidated-performance',
+    target: '_self'
   },
   {
     name: 'East Zone Concession',
     url: '/our-business-review/east-zone-concession',
+    target: '_self'
   },
   {
     name: 'Non-East Zone Philippines',
     url: '/our-business-review/non-east-zone-philippines',
+    target: '_self'
   },
   {
     name: 'Non-East Zone International Businesses',
     url: '/our-business-review/non-east-zone-international',
+    target: '_self'
   },
   {
     name: 'Corporate Governance',
     url: '/our-business-review/corporate-governance',
+    target: '_self'
   },
   {
     name: 'Awards & Citations',
     url: '/our-business-review/awards-citations',
+    target: '_self'
   },
 ];
 

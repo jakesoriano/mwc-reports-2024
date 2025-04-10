@@ -45,9 +45,9 @@ const InputsContent = () => (
         </div>
       ))}
       <div className='pl-14 pr-4'>
-        <Link href='' className='link text-xs'>
+        <Link href='/downloads/2024-Watershed-Management-Report.pdf' target='_blank' className='link text-xs'>
           Watershed Management Report 
-        </Link> <span className='text-[red!important] text-xs'>(TBU)</span>
+        </Link>
       </div>
     </Box>
   </div>

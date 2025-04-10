@@ -2,44 +2,54 @@ export const navItems = [
   {
     name: 'Value Creation Framework',
     url: '/creating-shared-values/value-creation-framework',
+    target: '_self'
   },
   {
     name: 'Outlook and Strategy',
     url: '/creating-shared-values/outlook-and-strategy',
+    target: '_self'
   },
   {
     name: 'Risk Management',
     url: '/creating-shared-values/risk-management',
+    target: '_self'
   },
   {
     name: 'Our Sustainability Approach',
     url: '/creating-shared-values/our-sustainability-approach',
+    target: '_self',
     children: [
       {
         name: 'Stakeholder Engagement',
         url: '/creating-shared-values/our-sustainability-approach/stakeholder-engagement',
+        target: '_self'
       },
       {
         name: 'Determining What Matters',
         url: '/creating-shared-values/our-sustainability-approach/determining-what-matters',
+        target: '_self'
       },
       {
         name: 'Helping Communities Thrive',
         url: '/creating-shared-values/our-sustainability-approach/helping-communities-thrive',
+        target: '_self'
       },
       {
         name: 'Protecting the Environment',
         url: '/creating-shared-values/our-sustainability-approach/protecting-the-environment',
+        target: '_self'
       },
       {
         name: 'Building a Culture of Trust and Care',
         url: '/creating-shared-values/our-sustainability-approach/building-a-culture',
+        target: '_self'
       },
     ],
   },
   {
     name: 'Manila Water Foundation',
     url: '/creating-shared-values/manila-water-foundation',
+    target: '_self'
   },
 ];
 

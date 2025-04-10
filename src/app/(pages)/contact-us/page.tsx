@@ -19,16 +19,16 @@ function ContactUs() {
         Quezon City, 1105 Philippines<br/>
         <strong>Tel.:</strong> +63(2) 7917 5900<br/>
         <Link className="d-inline-block" href="https://www.manilawater.com"
-                target="_blank" rel="noreferrer">www.manilawater.com</Link>
+                target="_blank" rel="noopener noreferrer">www.manilawater.com</Link>
         </p>
 
         <p className='mb-4'><strong>CUSTOMER SERVICE</strong><br/>
         Customer Service Hotline: 1627 (Open 24 hours)<br/>
         <strong>Tel.:</strong> +63(2) 7917 5900 local 1520<br/>
         <strong>Facebook:</strong> <Link className="d-inline-block" href="https://www.facebook.com/manilawater"
-                        target="_blank" rel="noreferrer">www.facebook.com/manilawater</Link><br/>
+                        target="_blank" rel="noopener noreferrer">www.facebook.com/manilawater</Link><br/>
         <strong>Twitter:</strong> <Link className="d-inline-block" href="https://www.twitter.com/ManilaWaterPH"
-                        target="_blank" rel="noreferrer">www.twitter.com/ManilaWaterPH</Link></p>
+                        target="_blank" rel="noopener noreferrer">www.twitter.com/ManilaWaterPH</Link></p>
 
         <p className='mb-4'><strong>INQUIRIES</strong><br/>
         For inquiries or concerns from analysts,<br/>
