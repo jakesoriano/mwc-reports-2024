@@ -82,11 +82,11 @@ function ProtectingTheEnvironment() {
             We collaborate with regulators, local governments, NGOs, and
             communities to implement nature-based solutions for key watersheds,
             including Angat, Ipo, La Mesa, and others. Our efforts are guided by
-            our <Link className='text-primary' href='https://mediafiles.manilawater.com/legacy/storage/files/9/corporate/ckeditor-files/Biodiversity-Policy.jpg' target='_blank'>Biodiversity Policy</Link>, ensuring we protect and enhance
+            our <Link className='link' href='https://mediafiles.manilawater.com/legacy/storage/files/9/corporate/ckeditor-files/Biodiversity-Policy.jpg' target='_blank' rel='noopener noreferrer'>Biodiversity Policy</Link>, ensuring we protect and enhance
             biodiversity throughout our operations.
           </p>
           <p className='mb-4'>
-            Refer to the <Link className='text-primary' href='#' target='_blank'>2024 Watershed Management Report</Link> <span className='text-[red]'>(TBU)</span> for the details of our
+            Refer to the <Link className='link' href='/downloads/2024-Watershed-Management-Report.pdf' target='_blank'>2024 Watershed Management Report</Link> for the details of our
             2024 accomplishments and management actions in each watershed.
           </p>
         </div>

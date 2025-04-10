@@ -2,30 +2,37 @@ export const navItems = [
   {
     name: 'Statement of Responsibility from the Board of Directors',
     url: '/our-report/executive-board-statement-of-resonsibility',
+    target: '_self'
   },
   {
     name: 'Purpose, Mission, Vision & Core Values',
     url: '/our-report/purpose-mission-vision-core-value',
+    target: '_self'
   },
   {
     name: 'Message of the Chairman',
     url: '/our-report/message-of-the-chairman',
+    target: '_self'
   },
   {
     name: 'Message of the President and CEO',
     url: '/our-report/message-of-the-president-and-ceo',
+    target: '_self'
   },
   {
     name: 'Financial and Sustainability Highlights',
     url: '/our-report/financial-and-sustainability-highlights',
+    target: '_self'
   },
   {
     name: 'Geographic Presence',
     url: '/our-report/geographic-presence',
+    target: '_self'
   },
   {
     name: 'Board of Directors',
     url: '/our-report/board-of-directors',
+    target: '_self'
   },
 ];
 

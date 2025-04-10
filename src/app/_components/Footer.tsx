@@ -15,7 +15,7 @@ function Footer() {
             <Link href='/contact-us'>Contact Us</Link>
           </li>
           <li className='cursor-pointer border-r border-white pr-2'>
-            <Link href='https://www.manilawater.com/' target='_blank'>
+            <Link href='https://www.manilawater.com/' target='_blank' rel='noopener noreferrer'>
               Manila Water Website
             </Link>
           </li>

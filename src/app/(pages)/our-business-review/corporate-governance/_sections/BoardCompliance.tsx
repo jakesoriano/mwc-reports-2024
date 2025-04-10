@@ -52,7 +52,7 @@ function BoardCompliance() {
         available on the Company website:{' '}
         <Link className='link'
           href='https://www.manilawater.com/corporate-governance/corporate-governance-manual'
-          target='_blank'
+          target='_blank' rel='noopener noreferrer'
         >
           https://www.manilawater.com/corporate-governance/corporate-governance-manual
         </Link>
