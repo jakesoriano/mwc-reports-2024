@@ -2,7 +2,7 @@ import React from 'react';
 
 function WaterWasteServices() {
   return (
-    <section>
+    <section className='pt-12' id='water-wastewater-service'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Water and wastewater services
       </h2>

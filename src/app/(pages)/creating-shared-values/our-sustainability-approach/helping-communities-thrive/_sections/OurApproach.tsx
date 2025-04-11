@@ -29,7 +29,7 @@ function OurApproach() {
           </p>
         </div>
       </section>
-      <section className='py-12'>
+      <section className='py-12' id='water-security'>
         <h3 className='text-xl font-bold text-secondary mb-3'>
           Water security
         </h3>

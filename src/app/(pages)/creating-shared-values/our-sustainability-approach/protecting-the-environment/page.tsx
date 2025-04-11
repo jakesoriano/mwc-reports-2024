@@ -55,7 +55,7 @@ function ProtectingTheEnvironment() {
       <WasteManagement />
       <EnergyManagement />
       <ClimateChange />
-      <section className='pt-12'>
+      <section className='pt-12' id='watershed-management'>
         <h2 className='text-2xl font-bold text-secondary mb-3'>
           Watershed Management
         </h2>

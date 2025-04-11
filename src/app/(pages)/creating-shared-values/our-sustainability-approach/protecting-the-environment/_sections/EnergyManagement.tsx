@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function EnergyManagement() {
   return (
-    <section>
+    <section className='pt-12' id='energy-management'>
       <h2 className='text-2xl font-bold text-secondary mb-3 mt-6'>
         Energy Management
       </h2>

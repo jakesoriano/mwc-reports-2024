@@ -22,12 +22,12 @@ const OutcomeContent = () => (
           }`}
         >
           <h3 className='text-xs font-bold ml-12 mb-4'>{item.title}</h3>
-          <div className='flex items-center'>
+          <div className='flex items-top'>
             <div className='basis-[70%]'>
               {item.data.map((data, index) => (
                 <div
                   key={index}
-                  className='flex items-center relative pl-12 mb-1'
+                  className='flex items-center relative pl-12 mb-3'
                 >
                   {!!data.icon && (
                     <Icon
@@ -50,7 +50,7 @@ const OutcomeContent = () => (
             </div>
             <div className='basis-[30%] grid grid-cols-3 gap-x-3'>
               {item.images.map((image, index) => (
-                <div key={index} className='relative'>
+                <div key={index} className='relative mb-3'>
                   <Image
                     src={image}
                     alt={`Image ${index + 1}`}

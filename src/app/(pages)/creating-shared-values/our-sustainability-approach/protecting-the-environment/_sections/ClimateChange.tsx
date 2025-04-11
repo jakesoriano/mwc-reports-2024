@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function ClimateChange() {
   return (
-    <section className='pt-12'>
+    <section className='pt-12' id='climate-change-mitigation'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Climate Change Mitigation
       </h2>

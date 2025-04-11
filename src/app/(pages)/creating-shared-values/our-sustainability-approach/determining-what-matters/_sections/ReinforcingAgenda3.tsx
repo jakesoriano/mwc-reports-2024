@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function ReinforcingAgenda3() {
   return (
@@ -94,28 +95,28 @@ function ReinforcingAgenda3() {
               </div>
               <div className='pl-4'>
                 <p className='mb-4'>
-                  Human Capital. At Manila Water, our success hinges on the
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/building-a-culture#human-capital'>Human Capital</Link>. At Manila Water, our success hinges on the
                   strength and growth of our people, the Katubigs. We prioritize
                   empowering, engaging, and equipping our talent with the
                   necessary competencies to excel in their careers and
                   contribute significantly to our competitive advantage.
                 </p>
                 <p className='mb-4'>
-                  Occupational Health and Safety. Prioritizing the well-being of
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/building-a-culture#occupational-health-and-safety'>Occupational Health and Safety</Link>. Prioritizing the well-being of
                   our people is paramount. We have re-launched our health and
                   safety program as we strive to create a safe and conducive
                   work environment across all our operations, whether in
                   offices, facilities, or project sites.
                 </p>
                 <p className='mb-4'>
-                  Governance and Compliance. Strong governance and compliance
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/building-a-culture#governance-and-compliance'>Governance and Compliance</Link>. Strong governance and compliance
                   are foundational to our leadership in the water sector. This
                   includes robust governance structures, policies, and
                   management practices that ensure accountability, transparency,
                   and ethical conduct.
                 </p>
                 <p className='mb-4'>
-                  Partnerships. No single entity can navigate the increasingly
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/building-a-culture#partnership'>Partnerships</Link>. No single entity can navigate the increasingly
                   complex and interconnected challenges in the water industry
                   alone. Collaboration and strong partnerships with government,
                   community, suppliers, and other stakeholders are key to ensure

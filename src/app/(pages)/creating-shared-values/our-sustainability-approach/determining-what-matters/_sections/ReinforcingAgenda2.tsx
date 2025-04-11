@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function ReinforcingAgenda2() {
   return (
@@ -123,27 +124,27 @@ function ReinforcingAgenda2() {
               </div>
               <div className='pl-4'>
                 <p className='mb-4'>
-                  Resource Management. We operate with the mindset that the
+                <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#resource-management'>Resource Management</Link>. We operate with the mindset that the
                   resources we use from the earth are not finite and that nature
                   needs time to replenish itself. As such, we make use of
                   resources efficiently and adopt circular practices where we
                   can.
                 </p>
                 <p className='mb-4'>
-                  Wastewater Management. We protect water bodies and promote a
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#wastewater-management'>Wastewater Management</Link>. We protect water bodies and promote a
                   healthier environment by effectively treating wastewater to
                   meet national effluent quality standards, building capacity
                   and infrastructure, and educating customers on responsible
                   wastewater management.
                 </p>
                 <p className='mb-4'>
-                  Waste Management. While waste is a by-product of our
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#waste-management'>Waste Management</Link>. While waste is a by-product of our
                   operations, we ensure not only its safe and responsible
                   disposal to minimize environmental impact but explore
                   recycling and circular practices.
                 </p>
                 <p className='mb-4'>
-                  Energy Management. In Manila Water, energy management involves
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#energy-management'>Energy Management</Link>. In Manila Water, energy management involves
                   efforts from strategically planning sources, energy demand
                   management and conservation and efficiency efforts.
                   Furthermore, it extends to initiatives to manage environmental
@@ -151,14 +152,14 @@ function ReinforcingAgenda2() {
                   operational performance.
                 </p>
                 <p className='mb-4'>
-                  Climate Change Mitigation. Despite hurdles, we are actively
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#climate-change-mitigation'>Climate Change Mitigation</Link>. Despite hurdles, we are actively
                   transitioning to renewable energy sources to balance expanding
                   water and wastewater services with our commitment to reducing
                   our carbon footprint and GHG emissions, contributive to
                   climate change mitigation.
                 </p>
                 <p className='mb-4'>
-                  Watershed Management. We recognize our reliance on natural
+                  <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#watershed-management'>Watershed Management</Link>. We recognize our reliance on natural
                   resources and collaborate with stakeholders to implement
                   watershed management programs around our water sources. These
                   initiatives include reforestation, partnerships with

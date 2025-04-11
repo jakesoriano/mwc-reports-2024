@@ -138,15 +138,12 @@ function ValueCreationFramework() {
       <section>
         <h1 className='mb-[16px!important]'>Value Creation Framework</h1>
         <p className='text-xs mb-10'>GRI 2021: 2-6 | GRI 2016: 201-1 | IFRS S1</p>
-        <p className='mb-10'>At Manila Water, we are committed to delivering water and wastewater services in a responsible and sustainable
-manner, ensuring long-term value creation for all our stakeholders. Through the transformation of our capital – financial,
-manufactured, intellectual, human, social, and natural – we drive the execution of our strategy and contribute to the
-advancement of the United Nations Sustainable Development Goals (UN SDGs). As we navigate this transformation,
-we focus on growth that is inclusive, responsible, and sustainable, aligning our business activities with the broader
-goal of creating lasting positive impact.</p>
+        <p className='mb-10'>At Manila Water, we are committed to delivering water and wastewater services in a responsible and sustainable manner, ensuring long-term value creation for all our stakeholders. Through the transformation of our capital – financial, manufactured, intellectual, human, social, and natural – we drive the execution of our strategy and contribute to the advancement of the United Nations Sustainable Development Goals (UN SDGs). As we navigate this transformation, we focus on growth that is inclusive, responsible, and sustainable, aligning our business activities with the broader goal of creating lasting positive impact.</p>
+
         <ContentCarousel
           contents={device === 'mobile' ? contentsMobile : contents}
         />
+        
         <p className='font-bold text-xs'>Footnotes:
         </p>
         <ol className='text-xs list-decimal list-inside'>
@@ -154,14 +151,8 @@ goal of creating lasting positive impact.</p>
           <li>Property, plant, equipment</li>
           <li>Total direct individuals reached thru WASH and La Mesa Ecopark</li>
           <li>Energy consumed within the organization</li>
-          <li>Non compliance related to e uent and drinking water quality</li>
+          <li>Non compliance related to effluent and drinking water quality</li>
         </ol>
-        {/* <p className='text-xs mt-4 mb-6 italic'>
-          Refer to our{' '}
-          <Link href='' className='link'>
-            ESG Performance Data
-          </Link>{' '}  <span className='text-[red!important] text-xs'>(TBU)</span> for more information 
-        </p> */}
       </section>
     </AppLayout>
   );

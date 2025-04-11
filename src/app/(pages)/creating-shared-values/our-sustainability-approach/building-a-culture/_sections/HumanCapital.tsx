@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function HumanCapital() {
   return (
-    <section className='py-12'>
+    <section className='pt-12' id='human-capital'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>Human Capital</h2>
       <div>
         <h3 className='text-lg font-bold mb-3'>Employee distribution</h3>

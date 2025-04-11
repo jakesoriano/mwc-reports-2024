@@ -132,7 +132,7 @@ export const inputs = [
       description: 'Value of PPE<sup>2</sup>: <strong>Php 193.8 Bn</strong>',
     },
   ],
-  '<strong class="text-primary">Governance structure<br/>Corporate policies</strong><br/>Skilled, experienced, and diverse <strong class="text-primary">board directors, executive officers</strong>, and employees, innovation team developing automated, technology-driven systems for increased efficiency',
+  '<a class="text-primary font-bold" href="https://www.manilawater.com/corporate-governance/governance-structure" target="_blank" rel="noreferrer noopener">Governance structure</a><br/><a class="text-primary font-bold" href="https://www.manilawater.com/corporate-governance/policies" target="_blank" rel="noreferrer noopener">Corporate policies</a><br/>Skilled, experienced, and diverse <a class="text-primary font-bold" href="https://www.manilawater.com/about-us/our-people/board-of-directors" target="_blank" rel="noreferrer noopener">board directors</a>, <a class="text-primary font-bold" href="https://www.manilawater.com/about-us/our-people/executive-officers" target="_blank" rel="noreferrer noopener">executive officers</a>, and employees<br/>Innovation team developing automated, technology-driven systems for increased efficiency',
   [
     {
       icon: 'caret-down',
@@ -143,6 +143,11 @@ export const inputs = [
       icon: 'caret-up',
       iconClass: 'text-primary',
       description: 'Training investment: <strong>Php 17.9 Mn</strong>',
+    },
+    {
+      icon: 'caret-up',
+      iconClass: 'text-primary',
+      description: 'Training hours: <strong>72,555</strong>',
     },
     {
       icon: 'caret-up',
@@ -171,12 +176,12 @@ export const inputs = [
   ],
   [
     {
-      icon: 'caret-down',
+      icon: 'caret-up',
       iconClass: 'text-red-500',
       description: 'Water Withdrawal: <strong>778 Mn m<sup>3</sup></strong>',
     },
     {
-      icon: 'caret-down',
+      icon: 'caret-up',
       iconClass: 'text-red-500',
       description: 'Energy Consumed<sup>5</sup>: <strong>1.0 Mn GJ</strong>',
     },
@@ -197,7 +202,7 @@ export const outputImpact = [
     description: 'Wastewater Treated',
   },
   {
-    icon: 'caret-up',
+    icon: 'caret-down',
     iconClass: 'text-primary',
     title: '19,698 Metric Tons',
     description: 'Waste Generated',
@@ -205,7 +210,7 @@ export const outputImpact = [
   {
     icon: 'caret-up',
     iconClass: 'text-red-500',
-    title: '211,816 Metric TOns CO<sub>2</sub>e',
+    title: '211,816 Metric Tons CO<sub>2</sub>e',
     description: 'Scope 1+2 GHG Emissions',
   },
 ];
@@ -217,20 +222,22 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'EBITDA: Php 30.7 Bn',
+        description: 'EBITDA: <strong>Php 30.7 Bn',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Return on equity: 15%',
+        description: 'Return on equity: <strong>15%',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Dividend: Php 3.4 Bn',
+        description: 'Dividend: <strong>Php 3.4 Bn',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-8.png'
+    ],
   },
   {
     title: 'Manufactured',
@@ -238,20 +245,23 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Water service connections: 1.3 Mn',
+        description: 'Water service connections: <strong>1.3 Mn</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Sewer connections: 318K',
+        description: 'Sewer connections: <strong>318K</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Desludged septic tanks: 133K',
+        description: 'Desludged septic tanks: <strong>133K</strong>',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-9.png',
+      '/images/shared-values/value-creation/sdg-11.png'
+    ],
   },
   {
     title: 'Intellectual',
@@ -259,20 +269,24 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Enterprise NRW, end-of-year: 14.6%',
+        description: 'Enterprise NRW, end-of-year: <strong>14.6%</strong>',
       },
       {
         icon: 'caret-down',
         iconClass: 'text-red-500',
-        description: 'Customer satisfaction score<sup>3</sup>: 87%',
+        description: 'Customer satisfaction score<sup>3</sup>: <strong>87%</strong>',
       },
       {
         icon: 'caret-down',
         iconClass: 'text-red-500',
-        description: 'Customer resolution rate: 99%',
+        description: 'Customer resolution rate: <strong>99%</strong>',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-9.png',
+      '/images/shared-values/value-creation/sdg-11.png',
+      '/images/shared-values/value-creation/sdg-12.png'
+    ],
   },
   {
     title: 'Human',
@@ -280,25 +294,28 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Ave. training hr/employee: 30',
+        description: 'Ave. training hr/employee: <strong>30</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Employee volunteer hours: 2,849',
+        description: 'Employee volunteer hours: <strong>2,849</strong>',
       },
       {
-        icon: 'caret-up',
+        icon: 'caret-down',
         iconClass: 'text-primary',
-        description: 'Lost-time incident rate: 0',
+        description: 'Lost-time incident rate: <strong>0</strong>',
       },
       {
-        icon: '=',
-        iconClass: '',
-        description: 'Incident of discrimination: 0',
+        icon: 'equal',
+        iconClass: 'ml-4 text-xl',
+        description: 'Incident of discrimination: <strong>0</strong>',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-5.png',
+      '/images/shared-values/value-creation/sdg-8.png'
+    ],
   },
   {
     title: 'Social + Relationship',
@@ -306,20 +323,26 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Population served with water: 9.3 Mn',
+        description: 'Population served with water: <strong>9.3 Mn</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'MWF Individuals Reach<sup>4</sup>: 569,953',
+        description: 'MWF Individuals Reach<sup>4</sup>: <strong>569,953</strong>',
       },
       {
-        icon: 'caret-up',
+        icon: 'caret-down',
         iconClass: 'text-primary',
-        description: 'Whistleblower cases received: 5',
+        description: 'Whistleblower cases received: <strong>5</strong>',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-1.png',
+      '/images/shared-values/value-creation/sdg-6.png',
+      '/images/shared-values/value-creation/sdg-8.png',
+      '/images/shared-values/value-creation/sdg-9.png',
+      '/images/shared-values/value-creation/sdg-11.png'
+    ],
   },
   {
     title: 'Natural',
@@ -327,32 +350,38 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Incidents of non-compliance<sup>6</sup>: 0 =',
+        description: 'Incidents of non-compliance<sup>6</sup>: <strong>0 =</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Trees planted and nurtured since 2006: 1.7 Mn',
+        description: 'Trees planted and nurtured since 2006: <strong>1.7 Mn</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'Watershed protected area: 196k has',
-      },
-      {
-        icon: 'caret-up',
-        iconClass: 'text-primary',
-        description:
-          'BOD removed thru wastewater treatment: 8k Metric Tons BOD',
+        description: 'Watershed protected area: <strong>196k has</strong>',
       },
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
         description:
-          'CO<sub>2</sub>e emission avoided thru wastewater treament: 66k Metric Tons CO<sub>2</sub>e',
+          'BOD removed thru wastewater treatment: <strong>8k Metric Tons BOD</strong>',
+      },
+      {
+        icon: 'caret-up',
+        iconClass: 'text-primary',
+        description:
+          'CO<sub>2</sub>e emission avoided thru wastewater treament: <strong>66k Metric Tons CO<sub>2</sub>e</strong>',
       },
     ],
-    images: ['/images/shared-values/value-creation/financial-square.svg'],
+    images: [
+      '/images/shared-values/value-creation/sdg-6.png',
+      '/images/shared-values/value-creation/sdg-11.png',
+      '/images/shared-values/value-creation/sdg-13.png',
+      '/images/shared-values/value-creation/sdg-14.png',
+      '/images/shared-values/value-creation/sdg-15.png'
+    ],
   },
 ];
 

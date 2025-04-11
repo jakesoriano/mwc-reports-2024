@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 
 function ReinforcingAgenda1() {
   return (
@@ -94,7 +95,7 @@ function ReinforcingAgenda1() {
               </div>
               <div className='pl-4'>
                 <p className='mb-4'>
-                  Water Security. We enhance the security and resilience of our
+                <Link className='link' href='/creating-shared-values/our-sustainability-approach/helping-communities-thrive#water-security'>Water Security</Link>. We enhance the security and resilience of our
                   water services through a multi-pronged approach. That includes
                   actively engaging with government and key stakeholders for the
                   development of new and existing water sources, crafting a
@@ -105,7 +106,7 @@ function ReinforcingAgenda1() {
                   water supply.
                 </p>
                 <p className='mb-4'>
-                  Climate Resilience. We proactively address the potential
+                <Link className='link' href='/creating-shared-values/our-sustainability-approach/helping-communities-thrive#climate-resilience'>Climate Resilience</Link>. We proactively address the potential
                   impacts of climate change and other natural events by
                   incorporating robust risk management strategies into our
                   operations. This includes a comprehensive business continuity
@@ -113,7 +114,7 @@ function ReinforcingAgenda1() {
                   alongside the design and development of resilient assets.
                 </p>
                 <p className='mb-4'>
-                  Water and Wastewater Service. We prioritize meeting our
+                <Link className='link' href='/creating-shared-values/our-sustainability-approach/helping-communities-thrive#water-wastewater-service'>Water and Wastewater Service</Link>. We prioritize meeting our
                   customers’ evolving water needs and extending access to our
                   services to underserved communities. We achieve this through
                   robust asset management, network improvements, and operational
@@ -121,7 +122,7 @@ function ReinforcingAgenda1() {
                   and wastewater services for all.
                 </p>
                 <p className='mb-4'>
-                  Customer Centricity. Our core value of malasakit (care) drives
+                <Link className='link' href='/creating-shared-values/our-sustainability-approach/helping-communities-thrive#customer-centricity'>Customer Centricity</Link>. Our core value of malasakit (care) drives
                   us to deliver exceptional customer service. As a Filipino
                   company, we approach our work with genuine compassion
                 </p>

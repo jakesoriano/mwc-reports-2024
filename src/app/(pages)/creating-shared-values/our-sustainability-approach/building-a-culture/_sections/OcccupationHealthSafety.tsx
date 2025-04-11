@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function OcccupationHealthSafety() {
   return (
-    <section>
+    <section className='pt-12' id='occupational-health-and-safety'>
       <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
         Occupational Health and Safety
       </h2>

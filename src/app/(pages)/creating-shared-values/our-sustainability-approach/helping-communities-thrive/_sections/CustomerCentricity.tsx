@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function CustomerCentricity() {
   return (
-    <section>
+    <section className='pt-12' id='customer-centricity'>
       <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
       Customer-centricity
       </h2>

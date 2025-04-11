@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function WasteWaterManagement() {
   return (
-    <section className='pb-15'>
+    <section className='pt-12' id='wastewater-management'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Wastewater Management
       </h2>
@@ -67,20 +67,6 @@ function WasteWaterManagement() {
               </td>
               <td align='left' className='py-1 px-4'>
                 8,363.11
-              </td>
-            </tr>
-            <tr>
-              <td align='left' className='py-1 px-4'>
-                Total
-              </td>
-              <td align='left' className='py-1 px-4'>
-                32,792.88
-              </td>
-              <td align='left' className='py-1 px-4'>
-                20,229.88
-              </td>
-              <td align='left' className='py-1 px-4'>
-                19,698.21
               </td>
             </tr>
           </tbody>

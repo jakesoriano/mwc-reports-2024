@@ -60,7 +60,7 @@ function StakeholderEngagement() {
               company='Manila Water Company'
               theme='light'
               testimonialHighlight='Over the years, Manila Water has carved a remarkable imprint on Sustainability.'
-              testimonial='- The Company has consistently demonstrated a deep commitment to sustainability, integrating ESG principles into the core of its operations. This commitment is evident in their achievements on reducing system losses, developing new water sources, protecting watersheds, implementing water reuse and recycling, and expanding access to clean water. Furthermore, they continue to drive progress in reducing greenhouse gas emissions, enhancing sustainability reporting, and expanding reforestation initiatives. These eorts solidify their role as a responsible and forward-thinking organization.'
+              testimonial='The Company has consistently demonstrated a deep commitment to sustainability, integrating ESG principles into the core of its operations. This commitment is evident in their achievements on reducing system losses, developing new water sources, protecting watersheds, implementing water reuse and recycling, and expanding access to clean water. Furthermore, they continue to drive progress in reducing greenhouse gas emissions, enhancing sustainability reporting, and expanding reforestation initiatives. These eorts solidify their role as a responsible and forward-thinking organization.'
               image='/images/shared-values/our-sustainability-approach/stakeholder-engagement/staeholder-testi-2.png'
             />
           </div>

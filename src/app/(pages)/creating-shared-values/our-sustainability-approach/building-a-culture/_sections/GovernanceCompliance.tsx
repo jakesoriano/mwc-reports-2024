@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function GovernanceCompliance() {
   return (
-    <section>
+    <section className='pt-12' id='governance-and-compliance'>
       <h2 className='text-2xl font-bold text-secondary mb-3 mt-10'>
         Governance and compliance
       </h2>

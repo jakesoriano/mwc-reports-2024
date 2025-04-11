@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 function ResourceManagement() {
   return (
-    <section className='py-12'>
+    <section className='pt-12' id='resource-management'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Resource Management
       </h2>

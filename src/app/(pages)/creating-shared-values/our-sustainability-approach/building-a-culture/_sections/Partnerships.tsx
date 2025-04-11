@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function Partnerships() {
   return (
-    <section className='py-12'>
+    <section className='pt-12' id='partnership'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>Partnerships</h2>
       <p className='text-xs mb-5'>GRI:2016 201-1, 203-2</p>
       <p>

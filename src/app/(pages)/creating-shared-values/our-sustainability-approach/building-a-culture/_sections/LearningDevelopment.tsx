@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 function LearningDevelopment() {
   return (
-    <section>
+    <section className='pt-12'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Learning and Development
       </h2>

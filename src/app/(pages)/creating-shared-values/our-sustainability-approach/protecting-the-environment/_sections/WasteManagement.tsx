@@ -2,7 +2,7 @@ import React from 'react';
 
 function WasteManagement() {
   return (
-    <section>
+    <section className='pt-12' id='waste-management'>
       <h2 className='text-2xl font-bold text-secondary mb-3'>
         Waste Management
       </h2>
