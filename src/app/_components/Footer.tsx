@@ -21,7 +21,7 @@ function Footer() {
           </li>
           <li>
             <Link
-              href='https://reports.manilawater.com/static/media/2023-Integrated-Report.66cb32f843255c860579.pdf'
+              href='/downloads/Manila-Water-2024-Integrated-Report.pdf'
               target='_blank'
             >
               Download 2024 Integrated Report

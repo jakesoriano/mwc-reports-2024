@@ -6,8 +6,8 @@ import Icon from './Icon';
 
 function Topbar() {
   return (
-    <div className='flex justify-between items-center p-6'>
-      <div className='lg:max-w-[350px]'>
+    <div className='flex justify-between items-center pt-6 pb-6 pr-6 pl-0 lg:pl-6'>
+      <div className='max-w-[250px] lg:max-w-[300px]'>
         <Link href='/'>
           <Image
             src='/images/logo.svg'
