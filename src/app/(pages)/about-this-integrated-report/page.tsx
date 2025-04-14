@@ -8,7 +8,7 @@ function AboutThisIntegratedReport() {
       heroTitle='About this Integrated Report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/about-this-integrated-report-banner.jpg'
+      heroBGImage='/2024/images/about-this-integrated-report-banner.jpg'
       navItems={navItems}
     >
       <section>

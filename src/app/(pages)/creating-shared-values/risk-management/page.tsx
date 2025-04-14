@@ -18,7 +18,7 @@ function RiskManagement() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/creating-shared-value-banner.jpg'
+      heroBGImage='/2024/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1>Enterprise Risk Management (ERM) in Manila Water</h1>
@@ -54,7 +54,7 @@ This involves the periodic disclosure of significant risk
 exposures and related risk management activities.
         </p>
         <Image
-          src='/images/shared-values/risk-management/erp-img-1.jpg'
+          src='/2024/images/shared-values/risk-management/erp-img-1.jpg'
           alt='Outlook and Strategy'
           width={0}
           height={0}
@@ -87,7 +87,7 @@ exposures and related risk management activities.
         <div className='flex flex-col md:flex-row gap-6 mb-10 mt-10'>
           <div className='flex-1'>
             <Image
-              src='/images/shared-values/risk-management/erp-img-2.svg'
+              src='/2024/images/shared-values/risk-management/erp-img-2.svg'
               alt='ERM Structure'
               width={0}
               height={0}
@@ -97,7 +97,7 @@ exposures and related risk management activities.
           </div>
           <div className='flex-1'>
             <Image
-              src='/images/shared-values/risk-management/erp-img-3.svg'
+              src='/2024/images/shared-values/risk-management/erp-img-3.svg'
               alt='ERM Structure'
               width={0}
               height={0}
@@ -137,7 +137,7 @@ practices, and culture.
         <p className='mb-4 font-bold mt-10'>ERM STRUCTURE</p>
         <div className='overflow-x-auto'>
           <Image
-            src='/images/shared-values/risk-management/erp-img-4.svg'
+            src='/2024/images/shared-values/risk-management/erp-img-4.svg'
             alt='ERM Structure'
             width={0}
             height={0}
@@ -267,7 +267,7 @@ of the organization.
           <div className='w-fit mx-auto text-center'>
             <div className='max-w-[100px] mx-auto absolute top-2 left-1/2 transform -translate-x-1/2'>
               <Image
-                src='/images/shared-values/risk-management/erm-sig_1.png'
+                src='/2024/images/shared-values/risk-management/erm-sig_1.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'
@@ -285,7 +285,7 @@ of the organization.
           <div className='flex-1 relative'>
             <div className='max-w-[60px] mx-auto absolute top-0 left-1/2 transform -translate-x-1/2'>
               <Image
-                src='/images/shared-values/risk-management/erm-sig_2.png'
+                src='/2024/images/shared-values/risk-management/erm-sig_2.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'
@@ -301,7 +301,7 @@ of the organization.
           <div className='flex-1 relative'>
             <div className='max-w-[120px] mx-auto absolute top-0 left-1/2 transform -translate-x-1/2'>
               <Image
-                src='/images/shared-values/risk-management/erm-sig_3.png'
+                src='/2024/images/shared-values/risk-management/erm-sig_3.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'
@@ -317,7 +317,7 @@ of the organization.
           <div className='flex-1 relative'>
             <div className='max-w-[95px] mx-auto absolute top-0 left-1/2 transform -translate-x-1/2'>
               <Image
-                src='/images/shared-values/risk-management/erm-sig_4.png'
+                src='/2024/images/shared-values/risk-management/erm-sig_4.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'

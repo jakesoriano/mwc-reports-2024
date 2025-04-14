@@ -9,7 +9,7 @@ function EnvironmentalStewardship() {
       <p className='text-xs mb-5'>GRI:2016 413-1</p>
       <figure>
         <Image
-          src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-9.jpg'
+          src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-9.jpg'
           alt='environmental stewardship banner'
           width={0}
           height={0}

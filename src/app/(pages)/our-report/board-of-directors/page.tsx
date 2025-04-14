@@ -12,7 +12,7 @@ function BoardOfDirectors() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>

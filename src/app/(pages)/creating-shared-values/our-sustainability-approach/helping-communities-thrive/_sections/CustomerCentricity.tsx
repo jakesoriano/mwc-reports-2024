@@ -88,7 +88,7 @@ function CustomerCentricity() {
 
           <figure className='flex-1 pl-8'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-8.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-8.jpg'
               alt='helping communities thrive banner'
               width={0}
               height={0}

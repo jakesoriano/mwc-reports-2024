@@ -10,7 +10,7 @@ function Topbar() {
       <div className='max-w-[250px] lg:max-w-[300px]'>
         <Link href='/'>
           <Image
-            src='/images/logo.svg'
+            src='/2024/images/logo.svg'
             alt='logo'
             width='0'
             height='0'

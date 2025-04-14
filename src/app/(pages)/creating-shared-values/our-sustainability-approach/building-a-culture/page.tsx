@@ -14,14 +14,14 @@ function BuildingACulture() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/sustainability-approach-banner.jpg'
+      heroBGImage='/2024/images/sustainability-approach-banner.jpg'
     >
       <section>
         <h1>Building a Culture of Trust and Care</h1>
 
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-1.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-1.jpg'
             alt='banner'
             width={0}
             height={0}

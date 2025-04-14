@@ -18,7 +18,7 @@ function Partnerships() {
         <div className='flex flex-col md:flex-row gap-7 justify-center items-center'>
           <figure>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-17.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-17.jpg'
               alt='toka toka'
               width={200}
               height={200}
@@ -76,7 +76,7 @@ function Partnerships() {
         </div>
         <figure className='flex-1'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-18.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-18.jpg'
             alt='supply chain partners'
             width={0}
             height={0}
@@ -93,7 +93,7 @@ function Partnerships() {
         <div className='flex flex-col md:flex-row gap-7 justify-center items-center mt-10'>
           <figure className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-19.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-19.jpg'
               alt='30th edition of the Philippine Water Works Association (PWWA) International Conference and Exhibition'
               width={0}
               height={0}
@@ -130,7 +130,7 @@ function Partnerships() {
           </div>
           <figure className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-20.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-20.jpg'
               alt='3BIWWEC 2024: Industry leaders gather to tackle critical water challenges'
               width={0}
               height={0}
@@ -141,7 +141,7 @@ function Partnerships() {
         <div className='flex flex-col md:flex-row gap-7 justify-center items-center mt-10'>
           <figure className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-21.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-21.jpg'
               alt='Manila Water Foundation provides technical and water supply support for Naga City'
               width={0}
               height={0}
@@ -176,7 +176,7 @@ function Partnerships() {
           </div>
           <figure className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-22.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-22.jpg'
               alt="MWF’s Expertise to Guide La Mesa Ecopark’s Future"
               width={0}
               height={0}
@@ -187,7 +187,7 @@ function Partnerships() {
         <div className='flex flex-col md:flex-row gap-7 justify-center items-center mt-10'>
           <figure className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-23.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-23.jpg'
               alt='Manila Water, CANVAS, One Ayala immortalize value of water through Waterscapes art exhibit'
               width={0}
               height={0}

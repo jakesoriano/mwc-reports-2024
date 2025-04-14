@@ -161,7 +161,7 @@ continually explore and implement innovative solutions to further enhance our en
       </p>
       <figure>
         <Image
-          src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-8.jpg'
+          src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-8.jpg'
           alt='helping communities thrive banner'
           width={0}
           height={0}
@@ -192,7 +192,7 @@ continually explore and implement innovative solutions to further enhance our en
         </div>
         <div className='flex-1'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-9.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-9.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -217,7 +217,7 @@ continually explore and implement innovative solutions to further enhance our en
         </div>
         <div className='flex-1'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-10.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-10.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -225,7 +225,7 @@ continually explore and implement innovative solutions to further enhance our en
           />
         </div>
       </div>
-      <div className='bg-[url("/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-11.jpg")] bg-cover bg-center bg-no-repeat px-10 py-20'>
+      <div className='bg-[url("/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-11.jpg")] bg-cover bg-center bg-no-repeat px-10 py-20'>
         <div className='w-full md:w-[70%] flex flex-col md:flex-row gap-7 text-white p-6 bg-[#051937]/80 rounded-2xl'>
           <div className='flex-1'>
             <p className='font-bold mb-8'>Existing installed RE:</p>

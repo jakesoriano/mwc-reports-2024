@@ -45,7 +45,7 @@ function HumanCapital() {
         <div className='flex flex-col md:flex-row gap-7'>
           <div className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-2.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-2.jpg'
               alt='turnover by gender'
               width={0}
               height={0}
@@ -54,7 +54,7 @@ function HumanCapital() {
           </div>
           <div className='flex-1'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-3.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-3.jpg'
               alt='turnover by age'
               width={0}
               height={0}
@@ -65,14 +65,14 @@ function HumanCapital() {
         <div className='flex flex-col md:flex-row gap-7 mt-8'>
           <div className='flex-1 md:pt-8'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-4.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-4.jpg'
               alt='new hires by gender'
               width={0}
               height={0}
               className='w-full h-auto mb-7'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-5.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-5.jpg'
               alt='new hires by gender'
               width={0}
               height={0}
@@ -97,7 +97,7 @@ function HumanCapital() {
             </p>
             <figure className='mb-5'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-6.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-6.jpg'
                 alt='celebration'
                 width={0}
                 height={0}
@@ -140,7 +140,7 @@ function HumanCapital() {
           </p>
           <figure className='mb-5'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-7.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-7.jpg'
               alt='recognition program'
               width={0}
               height={0}
@@ -170,7 +170,7 @@ function HumanCapital() {
           <p className='text-xs mb-5'>GRI 2016:407-1, 408-1</p>
           <figure className='mb-5'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-8.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-8.jpg'
               alt='UNGC'
               width={0}
               height={0}

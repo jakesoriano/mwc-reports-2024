@@ -57,7 +57,7 @@ function GovernanceCompliance() {
       <div className='flex flex-col md:flex-row gap-7 my-8'>
         <div className='flex-1 px-10 flex flex-col justify-center'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-14.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-14.jpg'
             alt='CDP'
             width={0}
             height={0}
@@ -68,7 +68,7 @@ function GovernanceCompliance() {
         </div>
         <div className='flex-1 border-l border-black px-10  flex flex-col justify-center'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-15.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-15.jpg'
             alt='Sustainalitics'
             width={0}
             height={0}
@@ -78,7 +78,7 @@ function GovernanceCompliance() {
         </div>
         <div className='flex-1 border-l border-black px-10  flex flex-col justify-center'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-16.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-16.jpg'
             alt='MSCI'
             width={0}
             height={0}

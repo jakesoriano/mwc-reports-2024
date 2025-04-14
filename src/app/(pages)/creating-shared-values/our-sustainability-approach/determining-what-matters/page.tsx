@@ -14,7 +14,7 @@ function DeterminingWhatMatters() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/sustainability-approach-banner.jpg'
+      heroBGImage='/2024/images/sustainability-approach-banner.jpg'
     >
       <section>
         <h1 className='mb-[10px!important]'>Determining What Matters</h1>

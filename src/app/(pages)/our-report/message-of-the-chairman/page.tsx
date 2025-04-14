@@ -9,9 +9,9 @@ function MessageOfTheChairman() {
       heroTitle='Our Report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
       navItems={navItems}
-      containerBG='/images/our-report/message-of-the-chairman/chairman-content-area-bg.jpg'
+      containerBG='/2024/images/our-report/message-of-the-chairman/chairman-content-area-bg.jpg'
       containerBGPosition='bg-bottom'
       paddingClass='md:pt-12 md:pb-14 md:px-6'
     >
@@ -89,7 +89,7 @@ future.
             <div className='w-fit'>
               <div className='max-w-[140px] mx-auto'>
                 <Image
-                  src='/images/ekr-sig-blk.png'
+                  src='/2024/images/ekr-sig-blk.png'
                   alt='ekr-sig-blk'
                   width='0'
                   height='0'

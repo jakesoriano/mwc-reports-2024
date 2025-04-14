@@ -8,7 +8,7 @@ function ExecutiveBoardStatementOfResonsibility() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>
@@ -36,7 +36,7 @@ function ExecutiveBoardStatementOfResonsibility() {
           <div className='flex-1'>
             <div className='max-w-[140px] mx-auto'>
               <Image
-                src='/images/ekr-sig-blk.png'
+                src='/2024/images/ekr-sig-blk.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'
@@ -50,7 +50,7 @@ function ExecutiveBoardStatementOfResonsibility() {
           <div className='flex-1'>
             <div className='max-w-[140px] mx-auto'>
               <Image
-                src='/images/jvedd-sig-blk.png'
+                src='/2024/images/jvedd-sig-blk.png'
                 alt='ekr-sig-blk'
                 width='0'
                 height='0'

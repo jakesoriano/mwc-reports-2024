@@ -16,7 +16,7 @@ function EastZone() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/east-zone-concession/ezc-img-1.jpg'
+      heroBGImage='/2024/images/our-business-review/east-zone-concession/ezc-img-1.jpg'
     >
       <section>
         <h1 className='text-center'>
@@ -87,7 +87,7 @@ function EastZone() {
           <div className='flex-1'>
             <figure className='mb-5'>
               <Image
-                src='/images/our-business-review/east-zone-concession/ezc-img-2.jpg'
+                src='/2024/images/our-business-review/east-zone-concession/ezc-img-2.jpg'
                 alt='capex disbursements'
                 width={0}
                 height={0}

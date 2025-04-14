@@ -28,7 +28,7 @@ function ValueCreationFramework() {
         </div>
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-01.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -47,7 +47,7 @@ function ValueCreationFramework() {
       </div>
 
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-02.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -63,7 +63,7 @@ function ValueCreationFramework() {
         <CapitalsContent />
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-01.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -76,7 +76,7 @@ function ValueCreationFramework() {
         <InputsContent />
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-01.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -89,7 +89,7 @@ function ValueCreationFramework() {
         <KeyDriversContent />
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-01.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-01.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -102,7 +102,7 @@ function ValueCreationFramework() {
         <OutputImpactContent />
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-02.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -115,7 +115,7 @@ function ValueCreationFramework() {
         <OutcomeContent />,
       </div>
       <Image
-        src='/images/shared-values/value-creation/vcf-footer-02.svg'
+        src='/2024/images/shared-values/value-creation/vcf-footer-02.svg'
         alt='shared value'
         width={0}
         height={0}
@@ -133,7 +133,7 @@ function ValueCreationFramework() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/creating-shared-value-banner.jpg'
+      heroBGImage='/2024/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1 className='mb-[16px!important]'>Value Creation Framework</h1>
@@ -143,7 +143,7 @@ function ValueCreationFramework() {
         <ContentCarousel
           contents={device === 'mobile' ? contentsMobile : contents}
         />
-        
+
         <p className='font-bold text-xs'>Footnotes:
         </p>
         <ol className='text-xs list-decimal list-inside'>

@@ -10,7 +10,7 @@ function OutlookAndStrategy() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/creating-shared-value-banner.jpg'
+      heroBGImage='/2024/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1>Outlook and Strategy</h1>
@@ -49,7 +49,7 @@ new organizational design, will enable us to achieve
 our aspirations.
         </p>
         <Image
-          src='/images/shared-values/outlook-and-strategy-img-1.jpg'
+          src='/2024/images/shared-values/outlook-and-strategy-img-1.jpg'
           alt='Outlook and Strategy'
           width={0}
           height={0}

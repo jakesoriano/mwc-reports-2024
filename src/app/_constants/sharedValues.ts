@@ -55,37 +55,37 @@ export const navItems = [
 
 export const capitals = [
   {
-    image: '/images/shared-values/value-creation/capitals-1.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-1.svg',
     title: 'Financial',
     description:
       'We leverage cost-effective financial capital, including equity, debt, reinvestment, and cash generated from our services, to maintain and grow our business. These resources enable us to enhance the stock of our other capitals.',
   },
   {
-    image: '/images/shared-values/value-creation/capitals-2.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-2.svg',
     title: 'Manufactured',
     description:
       'We invest in acquiring, developing, and maintaining property, plant, and equipment to optimize production capacities, enhance productivity, and ensure efficient water delivery to our customers.',
   },
   {
-    image: '/images/shared-values/value-creation/capitals-3.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-3.svg',
     title: 'Intellectual',
     description:
       'Our intangible assets—including our brand, reputation, governance structures, knowledge and expertise, operational experience, and product and solution developments—form the core of our intellectual capital. These assets, enable us to consistently deliver results to the communities we serve.',
   },
   {
-    image: '/images/shared-values/value-creation/capitals-4.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-4.svg',
     title: 'Human',
     description:
       'We are dedicated to fostering an inclusive, diverse, and safe work environment for our employees. Through their collective knowledge and purpose-driven actions, they create value and enable us to deliver on our strategic objectives.',
   },
   {
-    image: '/images/shared-values/value-creation/capitals-5.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-5.svg',
     title: 'Social + Relationship',
     description:
       'We create value for stakeholders by actively engaging with them and building strong relationships. These relationships, shaped by our commitment to the long-term sustainability of the communities we serve, directly impact our business and reputation.',
   },
   {
-    image: '/images/shared-values/value-creation/capitals-6.svg',
+    image: '/2024/images/shared-values/value-creation/capitals-6.svg',
     title: 'Natural',
     description:
       'We are committed to achieving resource efficiency in the consumption of natural resources and materials essential to our business model. Our natural capital includes our environmental management approach, which refects our adherence to international best practices, legal compliance, and our responsibility to minimize environmental impact.',
@@ -236,7 +236,7 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-8.png'
+      '/2024/images/shared-values/value-creation/sdg-8.png'
     ],
   },
   {
@@ -259,8 +259,8 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-9.png',
-      '/images/shared-values/value-creation/sdg-11.png'
+      '/2024/images/shared-values/value-creation/sdg-9.png',
+      '/2024/images/shared-values/value-creation/sdg-11.png'
     ],
   },
   {
@@ -283,9 +283,9 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-9.png',
-      '/images/shared-values/value-creation/sdg-11.png',
-      '/images/shared-values/value-creation/sdg-12.png'
+      '/2024/images/shared-values/value-creation/sdg-9.png',
+      '/2024/images/shared-values/value-creation/sdg-11.png',
+      '/2024/images/shared-values/value-creation/sdg-12.png'
     ],
   },
   {
@@ -313,8 +313,8 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-5.png',
-      '/images/shared-values/value-creation/sdg-8.png'
+      '/2024/images/shared-values/value-creation/sdg-5.png',
+      '/2024/images/shared-values/value-creation/sdg-8.png'
     ],
   },
   {
@@ -337,11 +337,11 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-1.png',
-      '/images/shared-values/value-creation/sdg-6.png',
-      '/images/shared-values/value-creation/sdg-8.png',
-      '/images/shared-values/value-creation/sdg-9.png',
-      '/images/shared-values/value-creation/sdg-11.png'
+      '/2024/images/shared-values/value-creation/sdg-1.png',
+      '/2024/images/shared-values/value-creation/sdg-6.png',
+      '/2024/images/shared-values/value-creation/sdg-8.png',
+      '/2024/images/shared-values/value-creation/sdg-9.png',
+      '/2024/images/shared-values/value-creation/sdg-11.png'
     ],
   },
   {
@@ -376,11 +376,11 @@ export const outcome = [
       },
     ],
     images: [
-      '/images/shared-values/value-creation/sdg-6.png',
-      '/images/shared-values/value-creation/sdg-11.png',
-      '/images/shared-values/value-creation/sdg-13.png',
-      '/images/shared-values/value-creation/sdg-14.png',
-      '/images/shared-values/value-creation/sdg-15.png'
+      '/2024/images/shared-values/value-creation/sdg-6.png',
+      '/2024/images/shared-values/value-creation/sdg-11.png',
+      '/2024/images/shared-values/value-creation/sdg-13.png',
+      '/2024/images/shared-values/value-creation/sdg-14.png',
+      '/2024/images/shared-values/value-creation/sdg-15.png'
     ],
   },
 ];

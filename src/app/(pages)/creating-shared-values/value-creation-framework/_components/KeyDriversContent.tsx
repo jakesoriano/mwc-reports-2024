@@ -20,7 +20,7 @@ const KeyDriversContent = () => (
           we contribute to sustainable development.
         </p>
         <Image
-          src='/images/shared-values/our-sustainability-approach/key-drivers-1.svg'
+          src='/2024/images/shared-values/our-sustainability-approach/key-drivers-1.svg'
           alt='shared value'
           width={0}
           height={0}

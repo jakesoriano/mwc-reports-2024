@@ -15,13 +15,13 @@ function ProtectingTheEnvironment() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/sustainability-approach-banner.jpg'
+      heroBGImage='/2024/images/sustainability-approach-banner.jpg'
     >
       <section>
         <h1>Protecting the Environment</h1>
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-1.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-1.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -127,7 +127,7 @@ function ProtectingTheEnvironment() {
             </p>
             <figure>
               <Image
-                src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-13.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-13.jpg'
                 alt='helping communities thrive banner'
                 width={0}
                 height={0}

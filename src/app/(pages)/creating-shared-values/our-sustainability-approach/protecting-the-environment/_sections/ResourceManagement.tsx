@@ -128,7 +128,7 @@ function ResourceManagement() {
         </div>
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-0.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-0.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -167,7 +167,7 @@ function ResourceManagement() {
           <div className='flex-1'>
             <p className='font-bold mb-4'>Water Reuse, mcm</p>
             <Image
-              src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-1.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-1.jpg'
               alt='helping communities thrive banner'
               width={0}
               height={0}
@@ -240,7 +240,7 @@ function ResourceManagement() {
             East Zone Non-Revenue Water Reduction
           </p>
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-2.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-2.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -362,7 +362,7 @@ function ResourceManagement() {
               Chemical Consumption (mcm)
             </h4>
             <Image
-              src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-3.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-3.jpg'
               alt='Chemical Consumption'
               width={0}
               height={0}
@@ -374,7 +374,7 @@ function ResourceManagement() {
               Chemical Intensity of Water Supply and Wastewater (mcm)
             </h4>
             <Image
-              src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-4.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-4.jpg'
               alt='Chemical Intensity of Water Supply and Wastewater'
               width={0}
               height={0}
@@ -385,7 +385,7 @@ function ResourceManagement() {
 
         <figure className='mt-7'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-5.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-5.jpg'
             alt='processes to reduce our resource consumption'
             width={0}
             height={0}

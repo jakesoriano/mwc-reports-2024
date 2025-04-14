@@ -96,7 +96,7 @@ function WasteWaterManagement() {
           <div className='flex-1'>
             <figure>
               <Image
-                src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-6.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-6.jpg'
                 alt='helping communities thrive banner'
                 width={0}
                 height={0}
@@ -126,7 +126,7 @@ function WasteWaterManagement() {
 
         <p className='mb-4 font-bold text-xl'>Ongoing Wastewater Projects</p>
         <Image
-          src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-7.jpg'
+          src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-7.jpg'
           alt='helping communities thrive banner'
           width={0}
           height={0}

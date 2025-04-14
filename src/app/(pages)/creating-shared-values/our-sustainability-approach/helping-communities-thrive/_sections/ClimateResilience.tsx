@@ -61,7 +61,7 @@ function ClimateResilience() {
           </h3>
           <figure>
             <Image
-              src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-5.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-5.jpg'
               alt='helping communities thrive banner'
               width={0}
               height={0}
@@ -146,7 +146,7 @@ function ClimateResilience() {
 
             <figure className='flex-1'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-6.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-6.jpg'
                 alt='helping communities thrive banner'
                 width={0}
                 height={0}
@@ -218,7 +218,7 @@ function ClimateResilience() {
               </p>
               <figure>
                 <Image
-                  src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-7.jpg'
+                  src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-7.jpg'
                   alt='helping communities thrive banner'
                   width={0}
                   height={0}

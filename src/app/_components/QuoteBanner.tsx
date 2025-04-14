@@ -14,7 +14,7 @@ function QuoteBanner({ quotePlacement = 'left', text }: Props) {
     >
       <div>
         <Image
-          src='/images/quote.svg'
+          src='/2024/images/quote.svg'
           alt='quote'
           width='0'
           height='0'

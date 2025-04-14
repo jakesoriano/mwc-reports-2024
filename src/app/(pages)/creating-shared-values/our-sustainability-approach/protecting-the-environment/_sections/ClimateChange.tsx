@@ -63,7 +63,7 @@ function ClimateChange() {
           </p>
 
           <Image
-            src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-12.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-12.jpg'
             alt='helping communities thrive banner'
             width={0}
             height={0}
@@ -86,7 +86,7 @@ function ClimateChange() {
       </p>
 
       <Image
-        src='/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-14-rev.jpg'
+        src='/2024/images/shared-values/our-sustainability-approach/protecting-the-environment/pte-img-14-rev.jpg'
         alt='enhanced sewage and septage treatment'
         width={0}
         height={0}

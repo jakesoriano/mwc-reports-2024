@@ -16,7 +16,7 @@ function NonEastZone() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/non-east-zone-philippines/nez-img-1.jpg'
+      heroBGImage='/2024/images/our-business-review/non-east-zone-philippines/nez-img-1.jpg'
     >
       <section>
         <h1 className='text-center'>
@@ -75,7 +75,7 @@ function NonEastZone() {
         </div>
         <div className='mt-8'>
           <Image
-            src='/images/our-business-review/non-east-zone-philippines/nez-img-2.jpg'
+            src='/2024/images/our-business-review/non-east-zone-philippines/nez-img-2.jpg'
             alt='non east banner'
             width={0}
             height={0}

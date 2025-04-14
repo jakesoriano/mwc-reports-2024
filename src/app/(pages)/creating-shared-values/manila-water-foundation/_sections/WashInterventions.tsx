@@ -36,7 +36,7 @@ function WashInterventions() {
         <div className='flex-1'>
           <figure className='mb-5'>
             <Image
-              src='/images/shared-values/manila-water-foundation/mwf-img-6.jpg'
+              src='/2024/images/shared-values/manila-water-foundation/mwf-img-6.jpg'
               alt='Project Drink!'
               width={0}
               height={0}
@@ -199,7 +199,7 @@ function WashInterventions() {
 
       <figure className='mb-5'>
         <Image
-          src='/images/shared-values/manila-water-foundation/mwf-img-7.jpg'
+          src='/2024/images/shared-values/manila-water-foundation/mwf-img-7.jpg'
           alt='Health in Our Hands'
           width={0}
           height={0}

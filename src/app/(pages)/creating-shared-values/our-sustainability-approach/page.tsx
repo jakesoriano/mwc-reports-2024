@@ -13,7 +13,7 @@ function OurSustainabilityApproach() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/creating-shared-value-banner.jpg'
+      heroBGImage='/2024/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1 className='mb-[10px!important]'>Our Sustainability Approach</h1>
@@ -31,7 +31,7 @@ function OurSustainabilityApproach() {
             <div className='bg-[#BFE7F2] w-full mx-auto p-6 mt-7 mb-10 rounded-3xl flex flex-col items-center md:flex-row gap-x-8 gap-y-8'>
               <div className='basis-[65%]'>
                 <ImageTextCard
-                  imageUrl='/images/shared-values/our-sustainability-approach/icon-helping-communities-thrive.svg'
+                  imageUrl='/2024/images/shared-values/our-sustainability-approach/icon-helping-communities-thrive.svg'
                   imageWidth={70}
                   imageHeight={70}
                   alignment='horizontal'
@@ -42,7 +42,7 @@ economic growth.'
                 />
 
                 <ImageTextCard
-                  imageUrl='/images/shared-values/our-sustainability-approach/icon-protecting-the-environment.svg'
+                  imageUrl='/2024/images/shared-values/our-sustainability-approach/icon-protecting-the-environment.svg'
                   imageWidth={70}
                   imageHeight={70}
                   alignment='horizontal'
@@ -54,7 +54,7 @@ practices.'
                 />
 
                 <ImageTextCard
-                  imageUrl='/images/shared-values/our-sustainability-approach/icon-building-a-culture.svg'
+                  imageUrl='/2024/images/shared-values/our-sustainability-approach/icon-building-a-culture.svg'
                   imageWidth={70}
                   imageHeight={70}
                   alignment='horizontal'
@@ -66,7 +66,7 @@ relationships with our stakeholders.'
               </div>
               <div className='basis-[35%]'>
                 <Image
-                  src='/images/shared-values/our-sustainability-approach/key-drivers-1.svg'
+                  src='/2024/images/shared-values/our-sustainability-approach/key-drivers-1.svg'
                   alt='key drivers'
                   width={0}
                   height={0}

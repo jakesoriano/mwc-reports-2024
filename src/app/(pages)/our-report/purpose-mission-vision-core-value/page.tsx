@@ -9,7 +9,7 @@ function PurposeMissionVisionCoreValue() {
       heroTitle='our report'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
       navItems={navItems}
     >
       <section>
@@ -26,7 +26,7 @@ function PurposeMissionVisionCoreValue() {
           ))}
         </div>
         <Image
-          src='/images/our-report/purpose-mission-vision-values/mission-vision-img-1.jpg'
+          src='/2024/images/our-report/purpose-mission-vision-values/mission-vision-img-1.jpg'
           alt='mission-vision'
           width='0'
           height='0'

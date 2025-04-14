@@ -12,7 +12,7 @@ function ManilaWaterFoundation() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/creating-shared-value-banner.jpg'
+      heroBGImage='/2024/images/creating-shared-value-banner.jpg'
     >
       <section>
         <h1>Manila Water Foundation: Forming Synergies with
@@ -76,7 +76,7 @@ more communities and implement programs with breadth and depth.
         </div>
         <figure className='mb-5'>
           <Image
-            src='/images/shared-values/manila-water-foundation/mwf-img-8.jpg'
+            src='/2024/images/shared-values/manila-water-foundation/mwf-img-8.jpg'
             alt='La Mesa Ecopark'
             width={0}
             height={0}
@@ -85,7 +85,7 @@ more communities and implement programs with breadth and depth.
         </figure>
         <figure className='mb-5'>
           <Image
-            src='/images/shared-values/manila-water-foundation/mwf-img-9.jpg'
+            src='/2024/images/shared-values/manila-water-foundation/mwf-img-9.jpg'
             alt='La Mesa Ecopark By The Numbers'
             width={0}
             height={0}

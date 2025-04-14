@@ -11,13 +11,13 @@ function GeographicPresence() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
     >
       <section>
         <h1>Geographic Presence</h1>
         <div className='w-full lg:w-[70%] mx-auto mt-12'>
           <Image
-            src='/images/our-report/geographic-presence/ph-map.svg'
+            src='/2024/images/our-report/geographic-presence/ph-map.svg'
             alt='geographic presence'
             width={0}
             height={0}

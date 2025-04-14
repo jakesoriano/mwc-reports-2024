@@ -5,7 +5,7 @@ function IntegratedWash() {
     <section className='py-12'>
       <figure className='mb-5'>
         <Image
-          src='/images/shared-values/manila-water-foundation/mwf-img-1.jpg'
+          src='/2024/images/shared-values/manila-water-foundation/mwf-img-1.jpg'
           alt='mwf banner'
           width={0}
           height={0}
@@ -72,7 +72,7 @@ communities, encompassing approximately
       <div className='mt-8'>
         <figure className='mb-5'>
           <Image
-            src='/images/shared-values/manila-water-foundation/mwf-img-2.jpg'
+            src='/2024/images/shared-values/manila-water-foundation/mwf-img-2.jpg'
             alt='project planas'
             width={0}
             height={0}
@@ -131,7 +131,7 @@ the community, fostering greater resilience and wellbeing.
       <div className='mt-8'>
         <figure className='mb-5'>
           <Image
-            src='/images/shared-values/manila-water-foundation/mwf-img-3.jpg'
+            src='/2024/images/shared-values/manila-water-foundation/mwf-img-3.jpg'
             alt='sanitation'
             width={0}
             height={0}
@@ -207,14 +207,14 @@ Isla Verde in Batangas City.
         <div className='flex-1'>
           <figure className='mb-5'>
             <Image
-              src='/images/shared-values/manila-water-foundation/mwf-img-4-new_1.jpg'
+              src='/2024/images/shared-values/manila-water-foundation/mwf-img-4-new_1.jpg'
               alt='Sitio Sapang Munti'
               width={0}
               height={0}
               className='w-full h-auto mb-4'
             />
             <Image
-              src='/images/shared-values/manila-water-foundation/mwf-img-4-new_2.jpg'
+              src='/2024/images/shared-values/manila-water-foundation/mwf-img-4-new_2.jpg'
               alt='Sitio Sapang Munti'
               width={0}
               height={0}
@@ -320,7 +320,7 @@ and reliable water service.
           </p>
           <figure className='mb-5'>
             <Image
-              src='/images/shared-values/manila-water-foundation/mwf-img-5.jpg'
+              src='/2024/images/shared-values/manila-water-foundation/mwf-img-5.jpg'
               alt='AGAPAY: WASH'
               width={0}
               height={0}

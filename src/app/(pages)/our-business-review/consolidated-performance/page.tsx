@@ -9,7 +9,7 @@ function ConsolidatedPerformance() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/consolidated-performance/conso-perf-img-1.jpg'
+      heroBGImage='/2024/images/our-business-review/consolidated-performance/conso-perf-img-1.jpg'
     >
       <section>
         <p className='mb-4'>
@@ -55,7 +55,7 @@ function ConsolidatedPerformance() {
         </p>
         <figure className='mb-5'>
           <Image
-            src='/images/our-business-review/consolidated-performance/conso-perf-img-2.jpg'
+            src='/2024/images/our-business-review/consolidated-performance/conso-perf-img-2.jpg'
             alt='net income'
             width={0}
             height={0}

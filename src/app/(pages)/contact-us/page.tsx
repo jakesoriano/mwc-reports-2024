@@ -8,12 +8,12 @@ function ContactUs() {
       heroTitle='Contact Us'
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/about-this-integrated-report-banner.jpg'
+      heroBGImage='/2024/images/about-this-integrated-report-banner.jpg'
       navItems={navItems}
     >
       <section>
         {/* <h1>About this Integrated Report</h1> */}
-        
+
         <p className='mb-4'>MWSS Administration Building<br/>
         489 Katipunan Road, Balara<br/>
         Quezon City, 1105 Philippines<br/>

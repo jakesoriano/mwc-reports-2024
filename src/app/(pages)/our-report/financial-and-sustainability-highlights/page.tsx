@@ -7,7 +7,7 @@ function FinancialSustainability() {
   const contentsLarge = [
     <Image
       key='fsHighlights-1-large'
-      src='/images/our-report/financial-sustainability-highlights/fsHighlights-1.jpg'
+      src='/2024/images/our-report/financial-sustainability-highlights/fsHighlights-1.jpg'
       alt='financial and sustainability highlights 1'
       width={0}
       height={0}
@@ -16,7 +16,7 @@ function FinancialSustainability() {
     />,
     <Image
       key='fsHighlights-2-large'
-      src='/images/our-report/financial-sustainability-highlights/fsHighlights-2.jpg'
+      src='/2024/images/our-report/financial-sustainability-highlights/fsHighlights-2.jpg'
       alt='financial and sustainability highlights 2'
       width={0}
       height={0}
@@ -28,7 +28,7 @@ function FinancialSustainability() {
   const contentsSmall = [
     <Image
       key='fsHighlights-1-small'
-      src='/images/our-report/financial-sustainability-highlights/fsHighlights-1_mobile.jpg'
+      src='/2024/images/our-report/financial-sustainability-highlights/fsHighlights-1_mobile.jpg'
       alt='financial and sustainability highlights 1'
       width={0}
       height={0}
@@ -37,7 +37,7 @@ function FinancialSustainability() {
     />,
     <Image
       key='fsHighlights-2-small'
-      src='/images/our-report/financial-sustainability-highlights/fsHighlights-2_mobile.jpg'
+      src='/2024/images/our-report/financial-sustainability-highlights/fsHighlights-2_mobile.jpg'
       alt='financial and sustainability highlights 2'
       width={0}
       height={0}
@@ -52,7 +52,7 @@ function FinancialSustainability() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-report-banner.jpg'
+      heroBGImage='/2024/images/our-report-banner.jpg'
       paddingClass='p-0'
       fullWidth
     >

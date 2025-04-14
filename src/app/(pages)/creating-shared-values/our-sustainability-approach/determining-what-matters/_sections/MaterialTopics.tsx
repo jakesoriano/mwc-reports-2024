@@ -14,7 +14,7 @@ function MaterialTopcs() {
           integrated in the way we operate and do business.
         </p>
         <Image
-          src='/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-4.svg'
+          src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-4.svg'
           alt='material topics'
           width={0}
           height={0}
@@ -27,7 +27,7 @@ function MaterialTopcs() {
           Mapping and comparative between 2024 and 2023 Material Topics
         </p>
         <Image
-          src='/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-3.svg'
+          src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-3.svg'
           alt='material topics'
           width={0}
           height={0}

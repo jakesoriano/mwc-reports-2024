@@ -90,7 +90,7 @@ function OurApproach() {
           <div className='flex gap-x-6 mt-8'>
             <div className='rounded-xl overflow-hidden basis-[48%]'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-2.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-2.jpg'
                 alt='helping communities thrive banner'
                 width={0}
                 height={0}
@@ -99,7 +99,7 @@ function OurApproach() {
             </div>
             <div className='rounded-xl overflow-hidden flex-1 basis-[52%]'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-3.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-3.jpg'
                 alt='helping communities thrive banner'
                 width={0}
                 height={0}
@@ -130,7 +130,7 @@ function OurApproach() {
           </p>
           <figure>
             <Image
-              src='/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-4.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/helping-communities-thrive/hct-img-4.jpg'
               alt='helping communities thrive banner'
               width={0}
               height={0}

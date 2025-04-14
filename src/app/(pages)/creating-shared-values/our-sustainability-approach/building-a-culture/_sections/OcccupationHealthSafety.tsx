@@ -51,7 +51,7 @@ function OcccupationHealthSafety() {
           <div className='flex-1'>
             <figure>
               <Image
-                src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-13.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-13.jpg'
                 alt='OSHD'
                 width={0}
                 height={0}

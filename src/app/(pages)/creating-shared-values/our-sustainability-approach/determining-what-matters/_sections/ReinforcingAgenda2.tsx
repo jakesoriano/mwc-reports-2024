@@ -32,7 +32,7 @@ function ReinforcingAgenda2() {
           <p className='font-bold mb-4'>Related SDGs</p>
           <div className='grid grid-cols-2 gap-4'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-6.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-6.png'
               alt='sdg-6'
               width={0}
               height={0}
@@ -40,7 +40,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-11.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-11.png'
               alt='sdg-11'
               width={0}
               height={0}
@@ -48,7 +48,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-13.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-13.png'
               alt='sdg-13'
               width={0}
               height={0}
@@ -56,7 +56,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-10.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-10.png'
               alt='sdg-10'
               width={0}
               height={0}
@@ -64,7 +64,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-14.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-14.png'
               alt='sdg-14'
               width={0}
               height={0}
@@ -72,7 +72,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-15.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-15.png'
               alt='sdg-15'
               width={0}
               height={0}
@@ -80,7 +80,7 @@ function ReinforcingAgenda2() {
               className='w-full h-auto'
             />
             <Image
-              src='/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-9.png'
+              src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/sdg-9.png'
               alt='sdg-9'
               width={0}
               height={0}

@@ -8,10 +8,10 @@ function AwardsCitations() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/east-zone-concession/ezc-img-1.jpg'
+      heroBGImage='/2024/images/our-business-review/east-zone-concession/ezc-img-1.jpg'
     >
       <section>
-        
+
         <h1 className='text-2xl font-bold text-secondary'>Awards & Citations</h1>
         <p className='mb-8'>
           Manila Water’s accomplishments are a tribute to the leadership and

@@ -5,7 +5,7 @@ function InternationalOperations() {
     <section className='mb-6'>
       <div className='w-full lg:w-[80%] mx-auto'>
         <Image
-          src='/images/our-report/geographic-presence/international-map.svg'
+          src='/2024/images/our-report/geographic-presence/international-map.svg'
           alt='geographic presence'
           width={0}
           height={0}

@@ -59,7 +59,7 @@ function ChangingContexts() {
             </p>
             <div className='mb-4 mt-6'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-1.svg'
+                src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-1.svg'
                 alt='Materiality Assessment'
                 width={0}
                 height={0}
@@ -69,7 +69,7 @@ function ChangingContexts() {
             </div>
             <div className='mb-4'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-2.svg'
+                src='/2024/images/shared-values/our-sustainability-approach/determining-what-matters/determining-what-matters-img-2.svg'
                 alt='Materiality Assessment'
                 width={0}
                 height={0}

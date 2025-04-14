@@ -26,7 +26,7 @@ function CorporateGovernance() {
       navItems={navItems}
       titleColor='text-white'
       heroBGColor='black'
-      heroBGImage='/images/our-business-review/corporate-governance/corp-gov-img-1.jpg'
+      heroBGImage='/2024/images/our-business-review/corporate-governance/corp-gov-img-1.jpg'
     >
       <section>
         <h1>Corporate Governance</h1>
@@ -45,7 +45,7 @@ function CorporateGovernance() {
           new markets it enters.
         </p>
         <Image
-          src='/images/our-business-review/corporate-governance/corp-gov-img-2.jpg'
+          src='/2024/images/our-business-review/corporate-governance/corp-gov-img-2.jpg'
           alt='Overall Governance Structure'
           height={0}
           width={0}
@@ -87,7 +87,7 @@ function CorporateGovernance() {
           </div>
           <div className='flex-1'>
             <p className='mb-4'>
-              
+
             </p>
             <p className='font-bold mb-2'>Board Composition</p>
             <p className='mb-4'>

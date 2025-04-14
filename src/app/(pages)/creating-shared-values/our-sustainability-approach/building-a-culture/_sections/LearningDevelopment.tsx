@@ -152,7 +152,7 @@ function LearningDevelopment() {
       <div>
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_logo.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/mwu_logo.jpg'
             alt='banner'
             width={0}
             height={0}
@@ -162,7 +162,7 @@ function LearningDevelopment() {
         <div className='flex flex-col md:flex-row gap-4'>
           <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_1.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/mwu_1.jpg'
               alt='Manila Water University'
               width={0}
               height={0}
@@ -178,7 +178,7 @@ function LearningDevelopment() {
           </div>
           <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_2.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/mwu_2.jpg'
               alt='Manila Water University'
               width={0}
               height={0}
@@ -193,7 +193,7 @@ function LearningDevelopment() {
           </div>
           <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_3.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/mwu_3.jpg'
               alt='Manila Water University'
               width={0}
               height={0}
@@ -209,7 +209,7 @@ function LearningDevelopment() {
           </div>
           <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
             <Image
-              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_4.jpg'
+              src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/mwu_4.jpg'
               alt='Manila Water University'
               width={0}
               height={0}
@@ -226,7 +226,7 @@ function LearningDevelopment() {
       <div className='bg-[#D9F0F7] py-12 px-22 my-10'>
         <figure className='mb-5'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-10.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-10.jpg'
             alt='gabay program'
             width={0}
             height={0}
@@ -269,7 +269,7 @@ function LearningDevelopment() {
           <div className='flex-1'>
             <figure className='mb-5'>
               <Image
-                src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-11.jpg'
+                src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-11.jpg'
                 alt='Pasibol'
                 width={0}
                 height={0}
@@ -301,7 +301,7 @@ function LearningDevelopment() {
         <h3 className='text-lg font-bold mb-8'>Diversity, Equity, and Inclusion</h3>
         <figure className='mb-5 md:px-20'>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-12.jpg'
+            src='/2024/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-12.jpg'
             alt='Empowerment Principles Awards'
             width={0}
             height={0}
