@@ -152,16 +152,23 @@ function LearningDevelopment() {
       <div>
         <figure>
           <Image
-            src='/images/shared-values/our-sustainability-approach/building-a-culture/bcct-img-9.jpg'
+            src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_logo.jpg'
             alt='banner'
             width={0}
             height={0}
-            className='w-full h-auto'
+            className='w-full h-auto max-w-[300px!important] mx-auto mb-3'
           />
         </figure>
         <div className='flex flex-col md:flex-row gap-4'>
-          <div className='flex-1 border rounded-b-lg border-t-0 border-black p-4'>
-            <p className='font-bold mb-3'>Core and Leadership Development</p>
+          <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
+            <Image
+              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_1.jpg'
+              alt='Manila Water University'
+              width={0}
+              height={0}
+              className='w-full h-auto max-w-[300px!important] mx-auto'
+            />
+            <p className='font-bold mb-3 mt-4'>Core and Leadership Development</p>
             <p>
               Foundational courses on core values, including new hire
               onboarding, &quot;Living the Values&quot; workshop, Leadership Academy
@@ -169,16 +176,30 @@ function LearningDevelopment() {
               platform, MW Stream.
             </p>
           </div>
-          <div className='flex-1 border rounded-b-lg border-t-0 border-black p-4'>
-            <p className='font-bold mb-3'>Technical Capability Development</p>
+          <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
+            <Image
+              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_2.jpg'
+              alt='Manila Water University'
+              width={0}
+              height={0}
+              className='w-full h-auto max-w-[300px!important] mx-auto'
+            />
+            <p className='font-bold mb-3 mt-4'>Technical Capability Development</p>
             <p>
               Developing operational expertise for technical teams through the
               Manila Water Institute of Technology (MIT), compliance training,
               and professional certification opportunities.
             </p>
           </div>
-          <div className='flex-1 border rounded-b-lg border-t-0 border-black p-4'>
-            <p className='font-bold mb-3'>Manila Water School</p>
+          <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
+            <Image
+              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_3.jpg'
+              alt='Manila Water University'
+              width={0}
+              height={0}
+              className='w-full h-auto max-w-[300px!important] mx-auto'
+            />
+            <p className='font-bold mb-3 mt-4'>Manila Water School</p>
             <p>
               Initiatives addressing current and future leadership needs with
               specialized management training programs, including Cadetship
@@ -186,8 +207,15 @@ function LearningDevelopment() {
               Zone Leadership Schooling.
             </p>
           </div>
-          <div className='flex-1 border rounded-b-lg border-t-0 border-black p-4'>
-            <p className='font-bold mb-3'>Group-Initiated Training</p>
+          <div className='flex-1 border rounded-lg border-t-1 border-black p-4'>
+            <Image
+              src='/images/shared-values/our-sustainability-approach/building-a-culture/mwu_4.jpg'
+              alt='Manila Water University'
+              width={0}
+              height={0}
+              className='w-full h-auto max-w-[300px!important] mx-auto'
+            />
+            <p className='font-bold mb-3 mt-4'>Group-Initiated Training</p>
             <p>
               Targeted programs and upskilling opportunities designed to meet
               the specific needs of individual teams.
@@ -256,7 +284,7 @@ function LearningDevelopment() {
           </div>
         </div>
         <div>
-          <h4 className='font-bold mb-3'>Total Wellness</h4>
+          <h4 className='font-bold mb-3 mt-4'>Total Wellness</h4>
           <p>
             #MahalagaKa (You Matter) is our total wellness program that aims to
             nurture our team – mind, body, and spirit – fostering belonging,

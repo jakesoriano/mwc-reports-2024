@@ -49,7 +49,7 @@ function StakeholderEngagement() {
               company='Metropolitan Waterworks and Sewerage System'
               theme='dark'
               testimonialHighlight='They are more than just their day jobs.'
-              testimonial="Since 1997, Manila Water has been more than just a water and wastewater service provider in Metro Manila's East Zone. They have consistently demonstrated a commitment that extends far beyond their mandate. Programs like Toka-Toka and WASH are primary examples. These initiatives not only reect the organization’s core values of enhancing stakehold- er well-being and delivering quality services, but also their dedication to environmental protection. By promoting responsible household wastewater management through Toka-Toka and ensuring access to water and sanitation in underserved communities with WASH, Manila Water actively embodies sustainability. We commend their eorts to continuously invest in the needs of future generations, showcasing a dedication that transcends their day-to-day operations."
+              testimonial="Since 1997, Manila Water has been more than just a water and wastewater service provider in Metro Manila's East Zone. They have consistently demonstrated a commitment that extends far beyond their mandate. Programs like Toka-Toka and WASH are primary examples. These initiatives not only reflect the organization’s core values of enhancing stakeholder well-being and delivering quality services, but also their dedication to environmental protection. By promoting responsible household wastewater management through Toka-Toka and ensuring access to water and sanitation in underserved communities with WASH, Manila Water actively embodies sustainability. We commend their efforts to continuously invest in the needs of future generations, showcasing a dedication that transcends their day-to-day operations."
               image='/images/shared-values/our-sustainability-approach/stakeholder-engagement/staeholder-testi-1.png'
             />
           </div>
@@ -60,7 +60,7 @@ function StakeholderEngagement() {
               company='Manila Water Company'
               theme='light'
               testimonialHighlight='Over the years, Manila Water has carved a remarkable imprint on Sustainability.'
-              testimonial='The Company has consistently demonstrated a deep commitment to sustainability, integrating ESG principles into the core of its operations. This commitment is evident in their achievements on reducing system losses, developing new water sources, protecting watersheds, implementing water reuse and recycling, and expanding access to clean water. Furthermore, they continue to drive progress in reducing greenhouse gas emissions, enhancing sustainability reporting, and expanding reforestation initiatives. These eorts solidify their role as a responsible and forward-thinking organization.'
+              testimonial='The Company has consistently demonstrated a deep commitment to sustainability, integrating ESG principles into the core of its operations. This commitment is evident in their achievements on reducing system losses, developing new water sources, protecting watersheds, implementing water reuse and recycling, and expanding access to clean water. Furthermore, they continue to drive progress in reducing greenhouse gas emissions, enhancing sustainability reporting, and expanding reforestation initiatives. These efforts solidify their role as a responsible and forward-thinking organization.'
               image='/images/shared-values/our-sustainability-approach/stakeholder-engagement/staeholder-testi-2.png'
             />
           </div>
@@ -84,7 +84,7 @@ function StakeholderEngagement() {
               company='Clark Water'
               theme='dark'
               testimonialHighlight='Manila Water demonstrates a strong commitment to sustainability by seamlessly integrating its strategies into its core mission of providing quality water and environmental services.'
-              testimonial='The Company eectively balances economic viability with social and environmental responsibility, adopting a proactive and long-term approach that positions it as a leader in sustainable water and wastewater management. This success is undeniably driven by its dedicated and passionate employees, who play a crucial role in ensuring environmental stewardship, operational eciency, and meaningful community engagement.'
+              testimonial='The Company effectively balances economic viability with social and environmental responsibility, adopting a proactive and long-term approach that positions it as a leader in sustainable water and wastewater management. This success is undeniably driven by its dedicated and passionate employees, who play a crucial role in ensuring environmental stewardship, operational efficiency, and meaningful community engagement.'
               image='/images/shared-values/our-sustainability-approach/stakeholder-engagement/staeholder-testi-4.png'
             />
           </div>

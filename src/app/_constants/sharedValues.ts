@@ -58,13 +58,13 @@ export const capitals = [
     image: '/images/shared-values/value-creation/capitals-1.svg',
     title: 'Financial',
     description:
-      'We leverage cost-eective nancial capital, including equity, debt, reinvestment, and cash generated from our services, to maintain and grow our business. These resources enable us to enhance the stock of our other capitals.',
+      'We leverage cost-effective financial capital, including equity, debt, reinvestment, and cash generated from our services, to maintain and grow our business. These resources enable us to enhance the stock of our other capitals.',
   },
   {
     image: '/images/shared-values/value-creation/capitals-2.svg',
     title: 'Manufactured',
     description:
-      'We invest in acquiring, developing, and maintaining property, plant, and equipment to optimize production capacities, enhance productivity, and ensure ecient water delivery to our customers.',
+      'We invest in acquiring, developing, and maintaining property, plant, and equipment to optimize production capacities, enhance productivity, and ensure efficient water delivery to our customers.',
   },
   {
     image: '/images/shared-values/value-creation/capitals-3.svg',
@@ -88,7 +88,7 @@ export const capitals = [
     image: '/images/shared-values/value-creation/capitals-6.svg',
     title: 'Natural',
     description:
-      'We are committed to achieving resource efficiency in the consumption of natural resources and materials essential to our business model. Our natural capital includes our environmental management approach, which reects our adherence to international best practices, legal compliance, and our responsibility to minimize environmental impact.',
+      'We are committed to achieving resource efficiency in the consumption of natural resources and materials essential to our business model. Our natural capital includes our environmental management approach, which refects our adherence to international best practices, legal compliance, and our responsibility to minimize environmental impact.',
   },
 ];
 
@@ -169,8 +169,8 @@ export const inputs = [
       description: 'Community investment: <strong>Php 67.0 Mn</strong>',
     },
     {
-      icon: '',
-      iconClass: '',
+      icon: 'caret-up',
+      iconClass: 'invisible',
       description: 'Regular engagement and partnership with key stakeholders',
     },
   ],
@@ -222,7 +222,7 @@ export const outcome = [
       {
         icon: 'caret-up',
         iconClass: 'text-primary',
-        description: 'EBITDA: <strong>Php 30.7 Bn',
+        description: 'EBITDA: <strong>Php 25.9 Bn',
       },
       {
         icon: 'caret-up',

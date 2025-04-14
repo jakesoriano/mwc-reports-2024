@@ -147,23 +147,20 @@ export default function ESGTable() {
           </tbody>
         </table>
       </div>
-      <div className='flex flex-col-reverse md:flex-row gap-10 justify-between mt-8'>
+      <div className='flex flex-col-reverse md:flex-row gap-12 justify-between mt-8'>
         <div className='self-end'>
           <p className='text-xs italic mb-2'>
-            <sup>2</sup> All targets apply group-wide, except resource
-            efficiency for East Zone NRW and economic contribution
-            <br />
-            for the concession business
+            <sup>2</sup> All targets apply group-wide, except resource efficiency for East Zone NRW and economic contribution for the concession business
           </p>
           <p className='text-xs italic'>
             <sup>3</sup> Progress of latest year vs. target
           </p>
         </div>
         <div>
-          <p className='pb-4 mb-4 border-b border-black'>Legends:</p>
-          <div className='flex justify-between md:justify-normal gap-7 px-6'>
-            <div>
-              <div className='inline-block text-center mr-5'>
+          <p className='pb-4 mb-4 border-b border-black text-sm'>Legends:</p>
+          <div className='flex justify-between md:justify-normal gap-10 px-6'>
+            <div className='flex gap-3'>
+              <div className='inline-block text-center mr-5 '>
                 <Image
                   src={`/images/creating-shared-value/our-sustainability-approach/icon-environment.svg`}
                   alt='environment'
@@ -171,7 +168,7 @@ export default function ESGTable() {
                   height={40}
                   className='mx-auto'
                 />
-                <p>Environment</p>
+                <p className='text-sm'>Environment</p>
               </div>
               <div className='inline-block text-center'>
                 <Image
@@ -181,12 +178,12 @@ export default function ESGTable() {
                   height={40}
                   className='mx-auto'
                 />
-                <p>Social</p>
+                <p className='text-sm'>Social</p>
               </div>
             </div>
-            <div className='flex flex-col justify-between'>
-              <p>Maintaining Progress ✔</p>
-              <p>Making Progress →</p>
+            <div className='flex flex-col gap-2 justify-between'>
+              <p className='text-sm whitespace-nowrap'>Maintaining Progress ✔</p>
+              <p className='text-sm whitespace-nowrap'>Making Progress →</p>
             </div>
           </div>
         </div>

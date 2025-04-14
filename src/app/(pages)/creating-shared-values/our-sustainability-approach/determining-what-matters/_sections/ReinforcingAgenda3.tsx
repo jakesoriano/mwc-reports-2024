@@ -11,6 +11,7 @@ function ReinforcingAgenda3() {
         </span>
         <div className='h-[1px] bg-blue absolute top-10 left-0 w-full z-0'></div>
         <div className='pt-20 mt-20'>
+        <p className='mb-4 font-bold text-secondary'>BUILDING A CULTURE OF TRUST AND CARE</p>
           <p className='font-bold'>Material Topics</p>
           <p>Corporate governance</p>
           <p>Supply chain</p>

@@ -38,14 +38,14 @@ annual water demand)
         <div className='flex-1'>
           <div className='mb-6'>
             <h3 className='text-blue uppercase font-bold'>SOUTH Luzon</h3>
-            <ol className='styled-list' start={10}>
+            <ol className='styled-list' start={8}>
               <li>Laguna (Laguna) Water</li>
               <li>South Luzon (Batangas) Water</li>
             </ol>
           </div>
           <div className='mb-6'>
             <h3 className='text-blue uppercase font-bold'>Visayas-Mindanao</h3>
-            <ol className='styled-list' start={12}>
+            <ol className='styled-list' start={10}>
               <li>Boracay (Aklan) Water</li>
               <li>Calbayog (Samar) Water</li>
               <li>Cebu (Cebu) Water</li>
@@ -54,7 +54,7 @@ annual water demand)
           </div>
           <div>
             <h3 className='text-blue uppercase font-bold'>Others (B2B)</h3>
-            <ol className='styled-list' start={16}>
+            <ol className='styled-list' start={14}>
               <li>Estate Water
               Partnership with Property Developers</li>
               <li>

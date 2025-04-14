@@ -42,7 +42,7 @@ function CustomerCentricity() {
             </tr>
             <tr className='border-b-2 border-blue'>
               <td className='py-1 px-4'>
-                Customer concern resolution rate within SLA2 , count
+                Customer concern resolution rate within SLA<sup>2</sup>, count
               </td>
               <td className='py-1 px-4'>99%</td>
               <td className='py-1 px-4'>100%</td>
@@ -77,11 +77,13 @@ function CustomerCentricity() {
               issues, and acting as intermediaries for customers with specific
               concerns.
             </p>
-            <p>
+            <p className='mb-8'>
               In 2024, Manila Water received 167,603 customer concerns related
               to billing and service, and we resolved 99% of these within
               established turnaround times based on service level agreements.
             </p>
+
+            <p className='text-xs italic'><sup>2</sup> SLA = Service level agreement</p>
           </div>
 
           <figure className='flex-1 pl-8'>

@@ -16,8 +16,8 @@ function ResourceManagement() {
         non-revenue water (NRW), and implementing reuse and recycling programs.
       </p>
       <div className='mt-6'>
-        <h3 className='text-lg font-bold mb-3'>Water source development</h3>
-        <p className='text-xs'>
+        <h3 className='text-lg font-bold mb-3'>Responsible Water Withdrawal</h3>
+        <p className='text-xs mb-4'>
           GRI 2018: 303-1, 303-3 | SASB IF-WU-440a.1, IF-WU-440a.3
         </p>
         <p className='mb-4'>
@@ -79,12 +79,6 @@ function ResourceManagement() {
               <td className='py-1 px-4'>619.09</td>
               <td className='py-1 px-4'>641.44</td>
               <td className='py-1 px-4'>653.84</td>
-            </tr>
-            <tr className='border-b-2 border-blue'>
-              <td className='py-1 px-4'>Potable water delivered, mcm</td>
-              <td className='py-1 px-4'>1,254</td>
-              <td className='py-1 px-4'>1,267</td>
-              <td className='py-1 px-4'>1,287</td>
             </tr>
             <tr className='border-b-2 border-blue'>
               <td className='py-1 px-4'>Third-party Surface water, mcm</td>
@@ -149,7 +143,7 @@ function ResourceManagement() {
       <div className='mt-8'>
         <h3 className='text-lg font-bold mb-3'>Water Recycling</h3>
         <p className='text-xs'>
-          GRI 2018: 303-1, 303-3 | SASB IF-WU-440a.1, IF-WU-440a.3
+        SASB IF-WU-440a.2
         </p>
         <div className='flex flex-col md:flex-row gap-10 mt-5'>
           <div className='flex-1'>

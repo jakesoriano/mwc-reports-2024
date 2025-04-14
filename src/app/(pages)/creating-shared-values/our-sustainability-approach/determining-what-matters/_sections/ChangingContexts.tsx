@@ -84,7 +84,7 @@ function ChangingContexts() {
             Double Materiality Assessment Process
           </h3>
           <TitleTextList
-            head='1. Impact Materiality'
+            head='1. Identification'
             headBgColor='bg-[#457C94]'
             title='Identify Potential Material Topics through a Systematic Process'
             listItems={[

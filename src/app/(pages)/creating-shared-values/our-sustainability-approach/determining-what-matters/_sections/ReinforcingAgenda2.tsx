@@ -11,6 +11,7 @@ function ReinforcingAgenda2() {
         </span>
         <div className='h-[1px] bg-blue absolute top-10 left-0 w-full z-0'></div>
         <div className='pt-20 mt-20'>
+        <p className='mb-4 font-bold text-secondary'>PROTECTING THE ENVIRONMENT</p>
           <p className='font-bold'>Material Topics</p>
           <p>Water Stewardship</p>
           <p>Climate Change</p>

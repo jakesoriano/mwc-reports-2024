@@ -19,7 +19,7 @@ function ClimateChange() {
           Contributions (NDCs) target of a 75% GHG reduction by 2030 compared to
           the business-as- usual (BAU) scenario.
         </p>
-        <p>
+        <p className='mb-4'>
           Guided by the Task Force on Climate-related Financial Disclosures
           (TCFD) framework, our decarbonization efforts focus on mitigating
           climate risks and strengthening resilience in an evolving regulatory

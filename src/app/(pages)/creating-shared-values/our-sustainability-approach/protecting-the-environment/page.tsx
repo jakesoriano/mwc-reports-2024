@@ -33,7 +33,7 @@ function ProtectingTheEnvironment() {
           </figcaption>
         </figure>
       </section>
-      <section className='py-12'>
+      <section className='pt-12'>
         <h2 className='text-2xl font-bold text-secondary mb-3'>Our Approach</h2>
         <p className='text-xs'>GRI 2018:303-3</p>
         <div className='mt-8'>
@@ -90,7 +90,7 @@ function ProtectingTheEnvironment() {
             2024 accomplishments and management actions in each watershed.
           </p>
         </div>
-        <div className='flex flex-col md:flex-row gap-7 mt-10 md:px-20'>
+        <div className='flex flex-col md:flex-row gap-7 mt-10 md:px-5 lg:px-15 xl:px-20'>
           <div className='flex-1'>
             <p>Activities to mitigate biodiversity threats:</p>
             <ul className='styled-list'>
@@ -102,7 +102,7 @@ function ProtectingTheEnvironment() {
               <li>removal of invasive species</li>
             </ul>
           </div>
-          <div className='flex-1 p-6 bg-[#00A74B] text-white md:mr-[35px] md:ml-20'>
+          <div className='flex-1 p-6 bg-[#00A74B] text-white md:mr-[0] lg:mr-[10px] xl:mr-[15px] md:ml-20'>
             <p className='mb-5'>
               <strong>195,727</strong> hectares protected, preserving{' '}
               <strong>60+</strong> threatened species with
@@ -120,7 +120,7 @@ function ProtectingTheEnvironment() {
             </p>
           </div>
         </div>
-        <div className='flex flex-col md:flex-row gap-7 px-10 py-14 bg-[#D9F0F7] mt-10 md:-mt-30'>
+        <div className='flex flex-col md:flex-row gap-7 px-10 py-14 bg-[#D9F0F7] mt-10 md:-mt-15 lg:-mt-20 xl:-mt-25'>
           <div className='flex-1'>
             <p className='font-bold mb-6 text-2xl'>
               Biodiversity at the La Mesa Watershed

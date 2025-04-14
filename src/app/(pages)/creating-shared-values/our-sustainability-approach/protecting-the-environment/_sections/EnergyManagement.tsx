@@ -256,7 +256,7 @@ continually explore and implement innovative solutions to further enhance our en
             <p className='font-bold mb-8'>Solar Projects in the Pipeline:</p>
             <div className='mb-5'>
               <p className='font-bold text-3xl'>6,800 kWp</p>
-              <span>to about</span>
+              <span>equivalent to about</span>
             </div>
             <div className='mb-5'>
               <p className='font-bold text-3xl'>
