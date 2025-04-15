@@ -13,14 +13,21 @@ function PageNav({ navItems }: Props) {
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      const currentPath = window.location.pathname;
+      const pathArray = window.location.pathname.split('/');
+
+      let currentPath = "";
+      for (let i = 2; i < pathArray.length-1; i++) {
+        currentPath += "/";
+        currentPath += pathArray[i];
+      }
+
       setActiveLink(currentPath);
 
       // Find the parent of the current active link or the active link itself
       const parentItem = navItems.find(
         (item) =>
           item.url === currentPath ||
-          item.children?.some((child) => child.url === currentPath)
+          item.children?.some((child) => child.url === currentPath),
       );
       setActiveParent(parentItem || null);
     }
