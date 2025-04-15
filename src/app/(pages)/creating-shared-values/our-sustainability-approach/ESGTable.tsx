@@ -111,7 +111,7 @@ export default function ESGTable() {
                             {item.types?.map((type) => (
                               <Image
                                 key={`icon-${type}`}
-                                src={`/images/creating-shared-value/our-sustainability-approach/icon-${type}.svg`}
+                                src={`/2024/images/creating-shared-value/our-sustainability-approach/icon-${type}.svg`}
                                 alt={type}
                                 width={40}
                                 height={40}
@@ -131,7 +131,7 @@ export default function ESGTable() {
                         {item.sdgs.map((num) => (
                           <Image
                             key={`sdg-${num}-${idx}`}
-                            src={`/images/creating-shared-value/our-sustainability-approach/sdg-${num}.png`}
+                            src={`/2024/images/creating-shared-value/our-sustainability-approach/sdg-${num}.png`}
                             alt={`SDG ${num}`}
                             width={40}
                             height={40}
@@ -162,7 +162,7 @@ export default function ESGTable() {
             <div className='flex gap-3'>
               <div className='inline-block text-center mr-5 '>
                 <Image
-                  src={`/images/creating-shared-value/our-sustainability-approach/icon-environment.svg`}
+                  src={`/2024/images/creating-shared-value/our-sustainability-approach/icon-environment.svg`}
                   alt='environment'
                   width={40}
                   height={40}
@@ -172,7 +172,7 @@ export default function ESGTable() {
               </div>
               <div className='inline-block text-center'>
                 <Image
-                  src={`/images/creating-shared-value/our-sustainability-approach/icon-social.svg`}
+                  src={`/2024/images/creating-shared-value/our-sustainability-approach/icon-social.svg`}
                   alt='social'
                   width={40}
                   height={40}
