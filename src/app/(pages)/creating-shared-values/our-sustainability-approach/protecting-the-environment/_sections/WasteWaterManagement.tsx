@@ -22,7 +22,8 @@ function WasteWaterManagement() {
           we operate 79 wastewater treatment facilities, collectively treating
           66.39 million cubic meters of wastewater.
         </p>
-
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full mb-7'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -71,6 +72,8 @@ function WasteWaterManagement() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <p className='mb-4'>
           We adhere rigorously to the effluent standards set by the DENR through
           DAO 2016-08 and DAO 2021-19, consistently meeting or exceeding the
@@ -117,7 +120,7 @@ function WasteWaterManagement() {
           collected via sewer lines and combined-sewer drainage is treated in
           sewage treatment plants (STPs), while septage from septic tanks is
           processed in septage treatment facilities. Our regulator-approved 2023
-          Service Improvement Plan outlines our three-river system master plan
+          Service Improvement Plan outlines our 3-River System Master Plan
           through 2047. By constructing new STPs and expanding sewer networks,
           we target to increase sewer coverage in the East Zone from 33% in 2024
           to 88% by 2047, with the remaining12% achieved through sanitation

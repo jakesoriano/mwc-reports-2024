@@ -100,7 +100,7 @@ function ReinforcingAgenda1() {
                   water services through a multi-pronged approach. That includes
                   actively engaging with government and key stakeholders for the
                   development of new and existing water sources, crafting a
-                  comprehensive masterplan such as the 4 Water System Masterplan
+                  comprehensive masterplan such as the 4-Water System Masterplan
                   for the East Zone business to guide our long-term strategy,
                   and investing on the critical infrastructure and programs
                   outlined in these plans to ensure a robust and sustainable
@@ -140,7 +140,7 @@ function ReinforcingAgenda1() {
             <ul className='styled-list styled-list-primary'>
               <li>
                 Fuel growth opportunities in new markets and underserved
-                communities leveraging depth of experience in the sector and
+                communities, leveraging depth of experience in the sector and
                 intellectual capital within and outside the country. (MT) (LT)
               </li>
               <li>

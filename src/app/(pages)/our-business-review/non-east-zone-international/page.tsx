@@ -46,17 +46,17 @@ function NonEastZoneIntl() {
               Specifically, going to our investment in East Water, an additional
               provision amounting to Php3.6 billion to recognize full impairment
               of our Thailand investment to reflect current market conditions
-              and outlook, and recognized Php902 million provision for Saigon
-              Water investment. Consistent with our Portfolio Review process, we
+              and outlook. We likewise recognized Php902 million provision for Saigon
+              Water investment. Consistent with our portfolio review process, we
               continue to assess and rationalize our investments against set
               financial and performance standards.
             </p>
             <p>
               Equity share in net income of associates increased by 74% to
-              Php867. The increase in equity share in net income of associates
+              Php867 million. The increase in equity share in net income of associates
               was largely driven by the one-time gain in the sale of Tan Hiep, a
               business unit under Saigon Water. Without the gain, performance
-              would have dropped by 21% because of the higher OPEX of Vietnam
+              would be 21% lower than the previous year because of the higher OPEX of the Vietnam
               and Thailand investments.
             </p>
           </div>

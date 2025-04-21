@@ -34,12 +34,11 @@ function EnvironmentalStewardship() {
             stewardship.
           </p>
           <p className='mb-4'>
-            Our flagship Lakbayan (Water Trail) program offers immersive
+            Our flagship Lakbayan (Water Trail) program offers an immersive
             experience in our operations through guided tours of our facilities,
             from raw water source to treatment and distribution. Participants
             gain a deeper understanding of the processes involved in delivering
-            safe, potable water to homes and businesses across eastern Metro
-            Manila. Beyond showcasing the reliability of our 24/7 water supply
+            safe, potable water to homes and businesses across the East Zone of Metro Manila. Beyond showcasing the reliability of our 24/7 water supply
             amidst climate change challenges, Lakbayan highlights our wastewater
             management and treatment systems, emphasizing our commitment to
             environmental compliance and sustainability.

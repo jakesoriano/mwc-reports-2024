@@ -17,6 +17,8 @@ function EnergyManagement() {
         not only manage operational costs but also contribute to a reduction in
         greenhouse gas emissions.
       </p>
+      <div className='overflow-x-auto my-7'>
+      <div className='min-w-[500px]'>
       <table className='bg-[#BFE7F2] w-full mb-7'>
         <thead>
           <tr className='border-b-2 border-blue'>
@@ -79,13 +81,17 @@ function EnergyManagement() {
           </tr>
         </tbody>
       </table>
+      </div>
+      </div>
       <p className='mb-7'>
         Increased energy consumption and intensity in 2024 resulted from
         heightened demand-driven production, necessitating the activation of new
-        facilities. The company is now focused on ensuring sustainable supply
+        facilities. We are now focused on ensuring sustainable supply
         while managing diverse water parameters and conditions across these
         locations that contribute to overall higher energy intensity.
       </p>
+      <div className='overflow-x-auto my-7'>
+      <div className='min-w-[500px]'>
       <table className='bg-[#BFE7F2] w-full mb-7'>
         <thead>
           <tr className='border-b-2 border-blue'>
@@ -148,6 +154,8 @@ function EnergyManagement() {
           </tr>
         </tbody>
       </table>
+      </div>
+      </div>
       <p className='mb-4'>
       Over the years, we have implemented a range of energy efficiency initiatives. These include process improvements, the adoption
 of energy-efficient technologies, and targeted capacity-building programs. Our commitment to sustainability drives us to

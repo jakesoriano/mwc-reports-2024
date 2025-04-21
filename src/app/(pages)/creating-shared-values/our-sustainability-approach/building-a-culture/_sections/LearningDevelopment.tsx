@@ -21,7 +21,9 @@ function LearningDevelopment() {
         employee well-being, we offer flexible work arrangements, allowing
         employees to work from alternate locations at least once a week.
       </p>
-
+      
+      <div className='overflow-x-auto my-7'>
+      <div className='min-w-[500px]'>
       <table className='bg-[#BFE7F2] w-full mb-7'>
         <thead>
           <tr className='border-b-2 border-blue'>
@@ -70,7 +72,11 @@ function LearningDevelopment() {
           </tr>
         </tbody>
       </table>
+      </div>
+      </div>
 
+      <div className='overflow-x-auto my-7'>
+      <div className='min-w-[500px]'>
       <table className='bg-[#BFE7F2] w-full mb-7'>
         <thead>
           <tr className='border-b-2 border-blue'>
@@ -133,6 +139,9 @@ function LearningDevelopment() {
           </tr>
         </tbody>
       </table>
+      </div>
+      </div>
+
       <p className='text-xs italic mb-5'>
         In 2024, Manila Water’s total training data reached 72,555 training
         hours, accumulated by 2,819 trained employees, averaging 30 training
@@ -250,7 +259,7 @@ function LearningDevelopment() {
           <div className='flex-1'>
             <h4 className='font-bold mb-3'>Employee Volunterism</h4>
             <p className='mb-4'>
-              Engagement is key to strong and responsible organization. Pasibol:
+              Engagement is key to a strong and responsible organization. Pasibol:
               Puno ng Pag-asa (&quot;Tree of Hope&quot; and &quot;Full of Hope&quot;) is an employee
               volunteer-driven program that focuses on watershed and tree
               nurturing. In 2024, Pasibol saw strong participation, with 14 tree

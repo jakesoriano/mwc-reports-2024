@@ -96,6 +96,8 @@ function OcccupationHealthSafety() {
           Health and safety performance
         </h3>
         <p className='text-xs mb-4'>GRI 2018:403-9</p>
+        <div className='overflow-x-auto my-7'>
+        <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full mb-7'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -172,6 +174,8 @@ function OcccupationHealthSafety() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <div className='md:columns-2 mt-8 gap-6'>
           <p className='mb-4'>
             We actively track and take accountability for reportable incidents

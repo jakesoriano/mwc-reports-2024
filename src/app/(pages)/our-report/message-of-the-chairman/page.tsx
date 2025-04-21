@@ -36,7 +36,7 @@ management.
             Manila Water increased its revenues 19 percent in 2024
 to Php36.6 billion. This was supported by the recovery of
 consumption in our service areas, and the implemented tariff
-adjustments in both our East Zone and NEZ PH businesses.
+adjustments in both our East Zone and Non-East Zone Philippines (NEZ PH) businesses.
 Coupled with continuing efforts to streamline costs and realize
 operating efficiencies, EBITDA increased 26 percent to Php25.9
 billion and strengthened EBITDA margin by 4 percentage

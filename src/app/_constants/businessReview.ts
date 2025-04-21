@@ -53,8 +53,8 @@ export const opsHighlightsData = [
   },
   {
     highlights: 'Average Tariff',
-    '2024': 'P53.5',
-    '2023': 'P44.8',
+    '2024': 'Php53.5',
+    '2023': 'Php44.8',
     change: '19%',
   },
   {

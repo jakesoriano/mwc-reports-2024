@@ -8,6 +8,9 @@ function CustomerCentricity() {
       </h2>
       <div>
         <h3 className='text-lg font-bold mb-4'>Customer concerns</h3>
+
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -50,6 +53,8 @@ function CustomerCentricity() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <div className='flex flex-col md:flex-row mt-8 gap-x-12 gap-y-8'>
           <div className='flex-1'>
             <p className='mb-4'>

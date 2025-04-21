@@ -91,7 +91,7 @@ function CorporateGovernance() {
             </p>
             <p className='font-bold mb-2'>Board Composition</p>
             <p className='mb-4'>
-              The Board has eleven (9) members who are elected by the
+              The Board has eleven (11) members who are elected by the
               stockholders during the annual stockholders’ meeting (&quot;ASM&quot;). The
               Board should have at least three (3) independent directors, or
               such number as to constitute at least one-third of the member of
@@ -109,7 +109,7 @@ function CorporateGovernance() {
               Committee and the Board issue a resolution endorsing the election
               of the qualified nominees at the Annual Stockholders’ Meeting
               (ASM). The members of the Board so elected at the ASM hold office
-              for one year, and until their successors have been elected and
+              for one (1) year, and until their successors have been elected and
               qualified in accordance with the By-laws. The elected members of
               the Board are mandated to oversee the management of the Company,
               and, in the performance of their duties, must exercise their best
@@ -132,7 +132,7 @@ function CorporateGovernance() {
             <p className='mb-4'>
               In compliance with the requirements of the law, the Company’s
               Manual, and the rules and regulations of the SEC, the Company has
-              4 independent directors as members of the Board. Under the Manual,
+              four (4) independent directors as members of the Board. Under the Manual,
               a director is considered independent if he or she holds no
               interests or relationships with the Company that may hinder his or
               her independence from the Company or its Management which would
@@ -151,7 +151,10 @@ function CorporateGovernance() {
               an Independent Director shall have at least three (3) years of
               management or supervisory experience in the professional fields of
               water security, water science policy and management, environmental
-              science, or any similar field.
+              science, or any similar field. Furthermore,
+we ensure that our independent directors have all the
+qualifications and none of the disqualifications specified in
+SEC Memorandum Circular No. 16 Series of 2002.
             </p>
           <p className='italic text-xs mt-4 mb-8'>
             <sup>1</sup> Ms. Sherisa P. Nuesa, Mr. Cesar A. Buenaventura, Mr. Octavio Victor R.
@@ -176,7 +179,7 @@ should exercise their functions and mandates.
             <p className='font-bold mb-2'>The Executive Committee</p>
             <p className='mb-4'>
               The Executive Committee of the Company is composed of five (5)
-              directors, with 1 member as Chairman of the Executive Committee.
+              directors, with one (1) member as Chairman of the Executive Committee.
               The Executive Committee acts by majority vote of all its members
               and is authorized to act and shall act on matters within the
               competence of the Board, except those with respect to:
@@ -222,10 +225,10 @@ should exercise their functions and mandates.
               supporting the management of the Company. It is responsible for
               ensuring the development of, compliance with, and periodic review
               of financial reporting policies and practices of the Company. The
-              Audit Committee also oversees the activities of the Internal
+              Audit Committee also oversees the activities of Internal
               Audit. Moreover, the Audit Committee also recommends and/or
               concurs to the appointment, replacement, re-assignment and removal
-              ordismissal of the Chief Audit Executive to ensure that the
+              or dismissal of the Chief Audit Executive to ensure that the
               external and internal auditors will function and operate
               independently of the management as required of their function.
             </p>

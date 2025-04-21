@@ -8,6 +8,8 @@ function WaterWasteServices() {
       </h2>
       <div>
         <h3 className='text-lg font-bold mb-4'>Water Access</h3>
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -68,6 +70,8 @@ function WaterWasteServices() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
 
         <div className='md:columns-2 mt-8 gap-6'>
           <p className='mb-4'>
@@ -88,7 +92,7 @@ function WaterWasteServices() {
             To address the identified water quality issues, we are implementing
             corrective actions. These include targeted decommissioning of
             affected wells where necessary. Furthermore, we are implementing
-            water safety plan, which aims to: (1) minimize source water
+            a Water Safety Plan, which aims to: (1) minimize source water
             contamination; (2) ensure safe water quality from treatment,
             storage, and distribution; (3) identify potential risks and
             implement appropriate control measures across all operations; (4)
@@ -114,7 +118,7 @@ function WaterWasteServices() {
             Pamilyang Pilipino Program (4Ps) whose consumption does not exceed
             20 cubic meters per month, effective January 1, 2025. This provides
             a 60 percent discount on the first 10 cubic meters and 40 percent on
-            the second 10 cubic meters, translating to a discount of over P200
+            the second 10 cubic meters, translating to a discount of over Php200
             for a 4Ps consumer using up to 20 cubic meters monthly. Read more
             about our Enhanced Lifeline Program
           </p>
@@ -129,6 +133,8 @@ function WaterWasteServices() {
       <div>
         <h3 className='text-lg font-bold mb-4'>Wastewater services</h3>
         <p className='text-xs'>GRI:2016 413-1, 416-1, 416-2 | SASB IF-WU-140b.1</p>
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full my-6'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -176,6 +182,8 @@ function WaterWasteServices() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <p className='mb-4'>
           Beyond providing water, Manila Water is committed to responsibly
           managing wastewater, ensuring its sustainable return to the

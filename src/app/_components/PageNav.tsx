@@ -59,7 +59,7 @@ function PageNav({ navItems }: Props) {
       </nav>
       {activeParent && activeParent.children && (
         <nav className='bg-white overflow-x-auto text-sm px-4'>
-          <ul className='flex justify-center'>
+          <ul className='flex justify-left lg:justify-center'>
             {activeParent.children.map((item) => (
               <li
                 key={item.name}

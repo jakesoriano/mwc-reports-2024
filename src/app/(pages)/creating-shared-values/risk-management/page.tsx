@@ -34,8 +34,7 @@ function RiskManagement() {
         <p className='mb-4'>
           We continue to implement the Enterprise Risk Management (ERM) Program
           based on a globally accepted approach, the ISO 31000:2018, which has
-          been cascaded Manila Water 2024 Integrated Report 27 across the
-          Company including subsidiaries in the Non-East Zone Philippines and
+          been cascaded across the Company including subsidiaries in our NEZ PH and
           International businesses to ensure the attainment of our objectives.
         </p>
         <p className='mb-4'>
@@ -191,7 +190,7 @@ reporting to the ERMEC and the BROC.
         The ERM Department is responsible for the development of
 risk management tools, methodologies and processes, as well
 as the sustained implementation of the ERM Program across
-the company. It acts as the primary driver of developing a
+the Company. It acts as the primary driver of developing a
 risk-aware culture and ensures that key risks are identified and
 managed by respective risk owners. With the ERM mindset
 continuously being assimilated into our culture and practices,

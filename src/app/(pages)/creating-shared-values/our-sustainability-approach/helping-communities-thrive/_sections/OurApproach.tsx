@@ -33,6 +33,8 @@ function OurApproach() {
         <h3 className='text-xl font-bold text-secondary mb-3'>
           Water security
         </h3>
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -67,6 +69,8 @@ function OurApproach() {
             </tr>
           </tbody>
         </table>
+          </div>
+        </div>
         <div className='md:columns-2 mt-8 gap-6'>
           <p className='mb-4'>
             Manila Water recognizes the escalating challenges posed by growing
@@ -121,7 +125,7 @@ function OurApproach() {
             growth, and the increasing threats posed by climate change and
             natural calamities. This commitment is realized through a
             comprehensive and collaborative service improvement plan focused on
-            water security. Anchored in a regulator-approved Four-Water System
+            water security. Anchored in a regulator-approved 4-Water System
             Masterplan, encompassing the Angat-La Mesa, Antipolo, Laguna Lake,
             and East Sources Water Systems, we are working closely with
             government agencies and stakeholders to develop new and existing
@@ -149,8 +153,7 @@ function OurApproach() {
               Building on this foundation, 2024 saw the implementation of
               measures to augment existing supplies and secure alternative water
               sources. Drawing water from Laguna Lake, the Cardona Treatment
-              Plant is now capable of producing up to 110 million liters per day
-              (MLD) and is actively serving several towns in Rizal. Similarly,
+              Plant is now capable of producing up to 110 MLD and is actively serving several towns in Rizal. Similarly,
               East Bay Phase 1 is harvesting raw water from the lake,
               contributing an additional 50 MLD. At the Tayabasan River in
               Antipolo City, the Calawis Water Treatment Plant is effectively

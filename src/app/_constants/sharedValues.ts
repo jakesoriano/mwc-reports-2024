@@ -419,7 +419,7 @@ export const riskData = [
     topRisks:
       '<p class="mb-1 font-bold">Operational Control in Associates</p><p class="mb-4">Lack of operational control in associates affecting financial performance</p>',
     strategies:
-      '<p class="mb-4">Impairment of investment in associates was recognized based on current operating and market conditions and our outlook on those investments. Management continues to assess and rationalize our investments against set financial and performance standards.</p>',
+      '<p class="mb-4">Impairment of investment in associates was recognized based on current operating and market conditions and our outlook on those investments. Management continues to assess and rationalize investments against set financial and performance standards.</p>',
   },
 ];
 

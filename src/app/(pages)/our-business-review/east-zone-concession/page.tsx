@@ -95,7 +95,7 @@ function EastZone() {
               />
             </figure>
             <p className='mb-4'>
-              With improved mobility during the year, we continued to develop
+              We continued to develop
               and construct water and wastewater infrastructure for the current
               and future requirements of our East Zone customers. The capital
               expenditure level reached nearly Php26.3 billion in 2024. As the
@@ -115,20 +115,16 @@ function EastZone() {
             <p className='mb-4'>To name a few of these projects:</p>
             <ul className='styled-list styled-list-primary'>
               <li>
-                The East Bay Project Phase 1 is composed of a 50 million liter
-                per day (mld) water treatment plant with a 25 km transmission
+                The East Bay Project Phase 1 is composed of a 50 MLD water treatment plant with a 25 km transmission
                 pipeline, pumping stations and a 21 km submarine pipeline. Said
                 project will similarly extract water from Laguna Lake as with
-                the now operational 100 mld Cardona Plant. The East Bay Phase 1
-                is now physically completely and is ongoing process proving and
-                the larger East Bay Phase 2 with a 200 million liters per day
-                (mld) capacity is at 66% completion.
+                the now operational 100 MLD Cardona Plant. The East Bay Phase 1
+                is now physically complete and is ongoing process proving. The larger East Bay Phase 2 with a 200 MLD capacity is at 66% completion.
               </li>
               <li>
-                The Wawa Calawis Phase 1 project is composed of an 80 mld water
+                The Wawa Calawis Phase 1 project is composed of an 80 MLD water
                 treatment plant and 10 km pipe network with reservoir and
-                booster station. The larger Phase 2 with a 220 million liters
-                per day (mld) capacity is now at 43% completion. These projects
+                booster station. The larger Phase 2 with a 220 MLD capacity is now at 43% completion. These projects
                 will further augment the water supply available to customers and
                 ensure water security in the coming years.
               </li>
@@ -139,8 +135,8 @@ function EastZone() {
                 the city’s popular tourist destinations. It is currently at 74%
                 completion. Another is the Mandaluyong West – San Juan South–
                 Quezon City South Sewerage System Project which is composed of a
-                60 mld sewage treatment plant with a 53 km combined sewer. This
-                project is currently at 63% done and is targeted for completion
+                60 MLD sewage treatment plant with a 53 km combined sewer network. This
+                project is currently at 63% progress and is targeted for completion
                 in 2025.
               </li>
             </ul>

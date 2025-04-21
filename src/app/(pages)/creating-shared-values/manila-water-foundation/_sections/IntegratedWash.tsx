@@ -18,7 +18,7 @@ function IntegratedWash() {
       <div className='flex flex-col md:flex-row items-top gap-7'>
         <div className='flex-1'>
           <p className='mb-8'>
-          Manila Water Foundation empower rural communities in
+          Manila Water Foundation empowers rural communities in
 their journey towards improved water access, sanitation,
 and hygiene or WASH, with support from valued partners.
 In 2024, Manila Water Foundation’s Integrated WASH
@@ -52,7 +52,7 @@ of Clark Water.
           <p className='mb-4'>
           Recognizing the intrinsic link between Water,
 Sanitation, and Hygiene (WASH) and overall community
-flourishing, the Manila Water Foundation and its dedicated
+flourishing, Manila Water Foundation and its dedicated
 partners extended their support through comprehensive
 training sessions. These sessions focused on vital
 aspects such as Food Security and Livelihood, as well as
@@ -86,7 +86,7 @@ Through Water Security
           </h3>
           <p className='mb-4'>
           Another inspiring testament to collaborative impact is
-Project Planas, a synergy initiative spearheaded by the
+Project Planas, a synergy initiative spearheaded by
 Manila Water Foundation in partnership with Prime Infra
 Foundation, Inc. This project was strategically designed
 to bridge critical WASH gaps within the Aeta community
@@ -195,7 +195,7 @@ and the development of policies to sustain the WASH
 infrastructure.
             </p>
             <p className='mb-4'>
-            The 2024 WASH partnership was projected to benefit an
+            The 2024 WASH partnership is projected to benefit an
 estimate of 6,714 residents in El Nido, Palawan, Pola in
 Oriental Mindoro, Pinamalayan in Oriental Mindoro and
 Isla Verde in Batangas City.
@@ -228,7 +228,7 @@ Isla Verde in Batangas City.
 Foundation and the Embassy of the Kingdom of the
 Netherlands launched the Women Champions in the
 Water Sector (WCWS) Fellowship Program. The four-day
-Fellowship tapped aspiring women leaders in the water
+program tapped aspiring women leaders in the water
 sector by gathering cohorts across the country in a
 knowledge-exchange workshop. Part of the Fellowship
 was a special Lakbayan at the Balara Treatment Plant 2

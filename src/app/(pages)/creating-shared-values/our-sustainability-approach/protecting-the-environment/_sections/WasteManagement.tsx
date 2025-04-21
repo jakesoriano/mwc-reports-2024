@@ -16,7 +16,8 @@ function WasteManagement() {
         waste such as sludge, biosolids, grits, screenings, and office waste, as
         well as hazardous wastes generated from our operations and laboratories.
       </p>
-
+      <div className='overflow-x-auto my-7'>
+      <div className='min-w-[500px]'>
       <table className='bg-[#BFE7F2] w-full mb-7'>
         <thead>
           <tr className='border-b-2 border-blue'>
@@ -79,6 +80,8 @@ function WasteManagement() {
           </tr>
         </tbody>
       </table>
+      </div>
+      </div>
 
       <div className='md:columns-2 mt-8 gap-6'>
         <p className='mb-4'>

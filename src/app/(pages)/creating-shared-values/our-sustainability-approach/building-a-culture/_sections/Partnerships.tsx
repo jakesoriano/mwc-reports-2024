@@ -6,7 +6,7 @@ function Partnerships() {
       <h2 className='text-2xl font-bold text-secondary mb-3'>Partnerships</h2>
       <p className='text-xs mb-5'>GRI:2016 201-1, 203-2</p>
       <p>
-        At Manila Water, we believe that building a culture of care and trust
+        At Manila Water, we believe that building a culture of trust and care
         extends beyond our internal operations. It thrives through strong
         partnerships that foster shared responsibility and collective progress.
         We actively cultivate these relationships across various fronts,
@@ -66,7 +66,7 @@ function Partnerships() {
           <h3 className='font-bold text-xl mb-4'>Thought leadership</h3>
           <p className='mb-4'>
             We believe that true leadership extends beyond operational
-            excellence. We foster a culture of care and trust by sharing
+            excellence. We foster a culture of trust and care by sharing
             knowledge, driving industry best practices, and contributing to the
             broader conversation around water sustainability. By actively
             engaging in thought leadership initiatives, we aim to inspire and

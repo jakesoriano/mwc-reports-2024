@@ -20,7 +20,7 @@ function ChangingContexts() {
             Every two years, we conduct a materiality assessment to identify
             what matters most to our stakeholders and address their evolving
             expectations. This process also allows us to assess our position as
-            an organization, evaluating our risks and opportunities. Through our
+            an organization by evaluating our risks and opportunities. Through our
             materiality assessment, we account for and respond to the changes in
             the social, economic, and business landscapes that influence what
             stakeholders consider critical.
@@ -53,7 +53,7 @@ function ChangingContexts() {
               broader society in the short term and long term.
             </p>
             <p className='mb-4'>
-              While Financial Materiality focuses on the actual or potential
+              Financial Materiality focuses on the actual or potential
               impact that environmental, social, governance, and sustainability
               issues may have on Manila Water in the short to long-term.
             </p>

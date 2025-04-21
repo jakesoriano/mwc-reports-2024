@@ -117,7 +117,7 @@ function BoardCompliance() {
         has adopted a professional development program for employees, officers,
         and senior management. The succession management process has been an
         established practice since the early years of Manila Water and over time
-        and has been embedded in leadership responsibilities across the
+        has been embedded in leadership responsibilities across the
         organization. It has been a critical enabler of company operations,
         having enabled succession in key leadership positions and mid management
         roles across the organization.
@@ -126,29 +126,20 @@ function BoardCompliance() {
         Through its robust succession management, the Company has put in place a
         process to determine the competencies, potential for growth, knowledge,
         and experience necessary for particular roles and positions. This
-        enables the company to identify key talents for purposes of succession
+        enables the Company to identify key talents for purposes of succession
         in both leadership and technical roles. The development of a leadership
         and technical talent pool is crucial to the success of Manila Water in
         the future. Hence, it is one of the top strategic priorities of the
         Company. The succession of both leadership and technical talent pool are
         given equal emphasis to ensure that we build the right talents to
         sustain our operations and support our growth. Talents identified to be
-        part of the succession pool undergo the following
+        part of the succession pool undergo the following:
       </p>
       <ol className='styled-list'>
         <li>
-          Through its robust succession management, the Company has put in place
-          a process to determine the competencies, potential for growth,
-          knowledge, and experience necessary for particular roles and
-          positions. This enables the company to identify key talents for
-          purposes of succession in both leadership and technical roles. The
-          development of a leadership and technical talent pool is crucial to
-          the success of Manila Water in the future. Hence, it is one of the top
-          strategic priorities of the Company. The succession of both leadership
-          and technical talent pool are given equal emphasis to ensure that we
-          build the right talents to sustain our operations and support our
-          growth. Talents identified to be part of the succession pool undergo
-          the following
+        Creation of an Individual Development Plan (IDP) that outlines possible developmental areas and stretch assignments.
+Documentations as well as implementation of the IDP is the responsibility of the successor’s line manager. Monitoring
+execution is done through the Corporate Human Resources Group.
         </li>
         <li>Coaching and mentoring sessions.</li>
       </ol>
@@ -236,10 +227,10 @@ function BoardCompliance() {
             as “Group Directors.”
           </p>
           <h3 className='text-lg font-bold mb-3 mt-8'>
-            Enterprise Risk Management Department
+            Enterprise Risk Management
           </h3>
           <p className='mb-4'>
-            The ERM Department is responsible for developing risk management
+            The ERM is responsible for developing risk management
             tools, methodologies and processes, as well as sustained
             implementation of the ERM Program across the Company. It acts as the
             primary driver of developing a risk-aware culture and ensures that
@@ -275,9 +266,9 @@ function BoardCompliance() {
           </p>
         </div>
         <div className='flex-1'>
-          <h3 className='text-lg font-bold mb-3 mt-8'>The Internal Audit</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Internal Audit</h3>
           <p className='mb-4'>
-            The Internal Audit (IA) Department conducts an independent,
+            Internal Audit (IA) Department conducts an independent,
             objective assurance and consulting activity designed to add value
             and improve the organization’s operations. It helps the organization
             accomplish its objectives by bringing a systematic, disciplined
@@ -330,12 +321,12 @@ function BoardCompliance() {
       </div>
       <div>
         <div className='flex-1'>
-          <h3 className='text-lg font-bold mb-3 mt-8'>Investor Relations Team</h3>
+          <h3 className='text-lg font-bold mb-3 mt-8'>Investor Relations</h3>
           <p className='mb-4'>
             The Investor Relations Department (IR) keeps the Company’s investors
             and other relevant stakeholders regularly informed of developments
             in the business. For this purpose, IR conducts briefings on
-            qsuarterly business results, supported as necessary by
+            quarterly business results, supported as necessary by
             meetings/calls with shareholders, fund managers, and analysts. These
             activities aim to keep investors updated on the financial and
             operating performance of the Company, along with other material
@@ -521,7 +512,7 @@ removed as a member of the Board.
         </div>
         <div className='flex-1'>
           <h3 className='text-lg font-bold mb-3 mt-8'>
-            Reporting of Fraudulent or Dishonest Acts (Whistle blower Policy)
+            Reporting of Fraudulent or Dishonest Acts (Whistle Blower Policy)
           </h3>
           <p className='mb-4'>
             The Whistle Blower Policy provides for procedures to be followed to
@@ -587,8 +578,8 @@ removed as a member of the Board.
             Corporate Entertainment and/or Gifts
           </h3>
           <p className='mb-4'>
-            The Company’s policy on regarding Corporate Entertainment and/or
-            Gifts Prohibits all officers and employees from accepting corporate
+            The Company’s policy regarding Corporate Entertainment and/or
+            Gifts prohibits all officers and employees from accepting corporate
             entertainment and gifts from suppliers, contractors, and other
             business partners, which can be viewed as influencing the manner by
             which an officer or employee may discharge his or her duties.
@@ -630,11 +621,11 @@ removed as a member of the Board.
             are required to report their dealings in Company shares within three
             (3) business days after the transaction. Likewise, all other Covered
             Persons shall likewise report to the Office of the Compliance
-            Officer within ten (10) calendar days from the end of each quarter
+            Officer within 10 calendar days from the end of each quarter
             their trades with Company’s securities during such quarter. All
             Directors, Officers, and employees are required to report their
             trades on a quarterly basis to the Office of the Compliance Officer
-            within fifteen (15) days from the end of the quarter.
+            within 15 days from the end of the quarter.
           </p>
           <p className='mb-4'>
             In alignment with the law, the definition of material nonpublic

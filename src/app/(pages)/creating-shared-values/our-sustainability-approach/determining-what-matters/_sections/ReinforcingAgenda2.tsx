@@ -141,7 +141,7 @@ function ReinforcingAgenda2() {
                 <p className='mb-4'>
                   <Link className='link' href='/creating-shared-values/our-sustainability-approach/protecting-the-environment#waste-management'>Waste Management</Link>. While waste is a by-product of our
                   operations, we ensure not only its safe and responsible
-                  disposal to minimize environmental impact but explore
+                  disposal to minimize environmental impact, but also explore
                   recycling and circular practices.
                 </p>
                 <p className='mb-4'>

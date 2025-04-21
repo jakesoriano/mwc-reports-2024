@@ -68,45 +68,46 @@ function Committees() {
             The Corporate Governance Committee
           </p>
           <p className='mb-4'>
-            4 independent directors including the Chairman3 . The CG Committee
+          The Corporate Governance (CG) Committee is composed of
+          four (4) independent directors including the Chairman<sup>3</sup>. The CG Committee
             is tasked with ensuring compliance with and proper observance of
             corporate governance principles and practices duties and functions
             include, among others functions as may be delegated by the Board
             from time to time:
           </p>
-          <ul className='pl-6 mb-4'>
+          <ul className='pl-6 mb-4 list-[lower-alpha]'>
             <li className='mb-2'>
-              a. Oversees the implementation of the corporate governance
+              Oversees the implementation of the corporate governance
               framework and periodically reviews the said framework to ensure
               that it remains appropriate in light of material changes to the
               Company’s size, complexity, and business strategy, as well as its
               business and regulatory environments;
             </li>
             <li className='mb-2'>
-              b. Oversees the periodic performance evaluation of the Board and
+              Oversees the periodic performance evaluation of the Board and
               its committees as well as executive management, and conducts an
               annual self-evaluation of its performance;
             </li>
             <li className='mb-2'>
-              c. Ensures that the results of the Board evaluation are shared,
+              Ensures that the results of the Board evaluation are shared,
               discussed, and that concrete action plans are developed and
               implemented to address the identified areas for improvement;
             </li>
             <li className='mb-2'>
-              d. Develops and recommends continuing education and training
+              Develops and recommends continuing education and training
               programs for directors, and assignment of tasks/projects to Board
               committees;
             </li>
           </ul>
           <p className='mb-4'>
             On June 3, 2021, the Board of Directors approved the proposal to
-            amend the required number of directors from 3 to at least 3 members,
+            amend the required number of directors from three (3) to as least three (3) members,
             all of whom shall be independent directors.
           </p>
           <p>
             The Chief Compliance Officer, in coordination with the Corporate
             Secretary, shall support the Committee in the performance of its
-            functions. The Corporate Governance Committee held 1 meeting in
+            functions. The Corporate Governance Committee held one (1) meeting in
             2024.
           </p>
           <div className='overflow-x-auto mb-8'>
@@ -120,7 +121,7 @@ function Committees() {
             The Board Risk Oversight Committee
           </p>
           <p className='mb-4'>
-            The Board Risk Oversight Committee (BROC) is composed of 4 members,
+            The Board Risk Oversight Committee (BROC) is composed of four (4) members,
             majority of whom are independent directors, and is chaired by an
             independent director4. In accordance with the BROC charter, Mr.
             Buenaventura, who chairs the Committee, does not sit as the chairman
@@ -157,10 +158,7 @@ function Committees() {
           <p>
             The Board Risk Oversight Committee held four (4) meetings in 2024.
             From the year 2020, the BROC meets every quarter as compared to the
-            semi-annual frequency in previous years. The Board Risk Oversight
-            Committee held four (4) meetings in 2024. From the year 2020, the
-            BROC meets every quarter as compared to the semi-annual frequency in
-            previous years.
+            semi-annual frequency in previous years.
           </p>
           <div className='overflow-x-auto mb-8 mt-8'>
             <div className='min-w-[500px]'>
@@ -176,7 +174,7 @@ function Committees() {
           </p>
           <p className='mb-4'>
             The Related Party Transactions Committee (RPT) Committee is composed
-            of 4 non-executive directors5, majority of whom are independent
+            of four (4) non-executive directors<sup>5</sup>, majority of whom are independent
             directors . In accordance with the RPT Committee Charter, Mr. Recto,
             who is an independent director, is the Chairman of the Committee.
           </p>
@@ -210,7 +208,7 @@ function Committees() {
             least three (3), and at least two (2) members shall be independent
             directors of the Company.
           </p>
-          <p className='mb-2'>The RPT Committee held 3 meetings in 2024.</p>
+          <p className='mb-2'>The RPT Committee held three (3) meetings in 2024.</p>
 
           <div className='overflow-x-auto mb-8 mt-8'>
             <div className='min-w-[500px]'>
@@ -221,7 +219,7 @@ function Committees() {
         <div className='flex-1'>
           <p className='font-bold italic mb-3'>The Nomination Committee</p>
           <p className='mb-4'>
-            The Nomination Committee is composed of at least 3 directors10,
+            The Nomination Committee is composed of at least three (3) directors,
             majority of whom are independent directors, and under its Charter is
             required to be chaired by an independent director<sup>6</sup> .
           </p>
@@ -274,12 +272,12 @@ function Committees() {
             The Talent and Remuneration Committee
           </p>
           <p className='mb-4'>
-            The Talent and Remuneration Committee is composed of 4 members, and
+            The Talent and Remuneration Committee is composed of four (4) members, and
             in accordance with its Charter, is chaired by an independent
             director<sup>7</sup>.
           </p>
           <p className='mb-4'>
-            As of December 31, 2023, two of the Company’s independent directors
+            As of December 31, 2023, two (2) of the Company’s independent directors
             serve as members of the Committee.
           </p>
           <p>
@@ -333,11 +331,11 @@ function Committees() {
             2022 to accord focus on the integration of economic, environmental,
             social and governance (EESG) principles in the formulation and
             implementation of the Company’s plans and strategies. The Committee
-            is supported by the Sustainability Officer and is composed of 5
+            is supported by the Sustainability Officer and is composed of five (5)
             members of the Board, with all independent directors of the Company
             serving as members. The President and Chief Executive Officer of the
             Company serves as the Chairman of the Committee. The ESG Committee
-            held 3 meetings in 2024.
+            held three (3) meetings in 2024.
           </p>
           <div className='overflow-x-auto mb-8'>
             <div className='min-w-[500px]'>

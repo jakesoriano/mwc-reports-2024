@@ -21,7 +21,7 @@ water and environmental services tailored to the communities
 we serve. We have embraced our purpose of “better lives
 and resilient economies through the provision of critical
 infrastructure”. Our mission and vision has continually propelled
-us into an exceptional performance in 2023 anchored on our
+us into an exceptional performance in 2024 anchored on our
 drive to exude our corporate values.
         </p>
         <h3 className='font-bold mb-1'>Growth and Geography</h3>
@@ -34,7 +34,7 @@ We expect our East Zone business to remain as our core
 platform as we grow in key areas in the country as well as other
 emerging markets globally. For the East Zone, we will continue
 to protect our core and increase the value of the business through effective regulatory management and sustained
-operational performance. We will tap unmet demand in areas
+operational performance. For our Philippine portfolio, we will tap unmet demand in areas
 where we already operate, while expanding our local footprint
 in the Philippine market outside the East Zone. Internationally,
 we see ourselves pursuing profitable growth in a very strategic
@@ -64,9 +64,9 @@ our aspirations.
           our privatization objectives by focusing on our customers.
         </p>
         <p className='mb-4'>
-        Twenty seven years later, we continue to improve on
-our record. Moreover, we will strive to provide our customers
-across the globe with world class water
+        Twenty-seven years later, we continue to improve on
+our track record. Moreover, we will strive to provide our customers
+in the areas that we serve with world-class water
 and wastewater services, while protecting the
 environment and promoting sustainability.
         </p>

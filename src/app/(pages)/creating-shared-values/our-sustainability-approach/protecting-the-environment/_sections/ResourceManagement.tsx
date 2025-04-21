@@ -35,7 +35,8 @@ function ResourceManagement() {
           conduct regular monitoring and studies to ensure sustainable
           withdrawal practices and responsible management of water usage.
         </p>
-
+        <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full md:w-[800px] mx-auto'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -94,6 +95,8 @@ function ResourceManagement() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <div className='md:columns-2 mt-8 mb-4 gap-6'>
           <p className='mb-4'>
             The landscape of water resource management is constantly evolving.
@@ -153,7 +156,7 @@ function ResourceManagement() {
               several facilities. This enabled us to recover a total of 7.57
               mcm, 17% higher than previous year. This resource recovery
               initiative has been beneficial in ensuring a steady supply of
-              water, anticipating the impacts of El Nino. Furthermore, it has
+              water, anticipating the impacts of El Niño. Furthermore, it has
               allowed the company to extend cross-border water sharing to fellow
               concessionaire Maynilad Water Services, Inc.
             </p>
@@ -189,6 +192,8 @@ function ResourceManagement() {
             For 2024, our consolidated NRW remains at less than 15%.
           </p>
         </div>
+        <div className='overflow-x-auto my-7'>
+        <div className='min-w-[500px]'>
         <table className='bg-[#BFE7F2] w-full md:w-[800px] mx-auto'>
           <thead>
             <tr className='border-b-2 border-blue'>
@@ -235,6 +240,8 @@ function ResourceManagement() {
             </tr>
           </tbody>
         </table>
+        </div>
+        </div>
         <div className='bg-[#BFE7F2] w-full md:w-[800px] mx-auto p-6 mt-7 mb-4'>
           <p className='font-bold mb-4'>
             East Zone Non-Revenue Water Reduction
@@ -269,7 +276,8 @@ function ResourceManagement() {
           <h3 className='text-lg font-bold mb-3 w-full md:w-[800px] mx-auto'>
             Holistic Approach to NRW Management
           </h3>
-
+          <div className='overflow-x-auto my-7'>
+          <div className='min-w-[500px]'>
           <table className='w-full md:w-[800px] mx-auto table-fixed'>
             <thead>
               <tr>
@@ -327,6 +335,8 @@ function ResourceManagement() {
               </tr>
             </tbody>
           </table>
+          </div>
+          </div>
         </div>
       </div>
       <div className='mt-8'>

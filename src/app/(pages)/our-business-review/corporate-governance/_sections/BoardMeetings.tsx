@@ -23,7 +23,7 @@ function BoardMeetings() {
         majority of the members of the Board.
       </p>
       <p className='mb-4'>
-        The Board has a policy of requiring the presence of at least one
+        The Board has a policy of requiring the presence of at least one (1)
         independent director in all its meetings.
       </p>
       <h3 className='text-lg font-bold mb-3'>Quorum in Board Meetings</h3>
@@ -118,7 +118,7 @@ function BoardMeetings() {
       </p>
       <p className='mb-4'>
         None of the non-executive and independent directors who are paid fees as
-        set forth above isengaged and compensated by the Company for services
+        set forth above is engaged and compensated by the Company for services
         other than those provided as a director.
       </p>
       <p className='mb-4'>
